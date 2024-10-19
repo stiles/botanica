@@ -1,7 +1,7 @@
-name: runbot
+name: tiktok_followers
 
 on:
-  workflow_dispatch: # Allows you to manually trigger the workflow
+  workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'  # Runs every day at 12:00 GMT
 
@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3 # checkout repo
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4

@@ -1,4 +1,9 @@
+import sys
 import os
+
+# Add the project root directory to Python's path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
 import re
 import json
 import requests
@@ -90,7 +95,6 @@ def run_scraper():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Save the DataFrame as CSV and JSON
-    # df.to_csv(f'{OUTPUT_DIR}/{BOT_SLUG}.csv', index=False)
     df.to_json(f'{OUTPUT_DIR}/{BOT_SLUG}.json', indent=4, orient='records')
 
     # Update the timeseries file
