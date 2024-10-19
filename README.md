@@ -1,2 +1,4 @@
 # botanica
-A growing library of automated data collection scripts. 
+A modern, Python-based automation system for collecting, processing and managing data.
+
+
