@@ -18,6 +18,9 @@ TIMESERIES_FILE = f'{OUTPUT_DIR}/tiktok_followers_timeseries.json'
 def load_config():
     # Construct the absolute path to `config.json` based on the current file's location
     config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    if not os.path.exists(config_path):
+        print(f"Error: Config file not found at {config_path}")
+        exit(1)  # Exit if config file is missing to avoid further errors
     with open(config_path, "r") as config_file:
         return json.load(config_file)
 
