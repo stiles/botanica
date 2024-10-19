@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # Define environment variables that can be used throughout the workflow
     env:
       BOT_NAME: "tiktok_followers"
       BOT_PATH: "./bots/tiktok_followers"
       DATA_DIR: "./src/data"
+      PYTHONPATH: "${{ github.workspace }}"  # Set the PYTHONPATH to the project root
 
     steps:
       - name: Checkout code
@@ -36,6 +36,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-1'
+          PYTHONPATH: "${{ github.workspace }}"  # Ensure PYTHONPATH is set for this step
 
       - name: Commit updated timeseries
         run: |
