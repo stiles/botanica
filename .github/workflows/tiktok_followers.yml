@@ -1,4 +1,4 @@
-name: tiktok_followers
+name: runbot
 
 on:
   workflow_dispatch: # Allows you to manually trigger the workflow
@@ -8,6 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # Define environment variables that can be used throughout the workflow
+    env:
+      BOT_NAME: "tiktok_followers"
+      BOT_PATH: "./bots/tiktok_followers"
+      DATA_DIR: "./src/data"
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3 # checkout repo
@@ -20,11 +27,11 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r ./bots/tiktok_followers/requirements.txt
+          pip install -r ${{ env.BOT_PATH }}/requirements.txt
 
       - name: Run the scraper
         run: |
-          python ./bots/tiktok_followers/main.py
+          python ${{ env.BOT_PATH }}/main.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -34,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./src/data/
+          git add ${{ env.DATA_DIR }}/
           git commit -m "Update timeseries data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: Push changes to main branch
