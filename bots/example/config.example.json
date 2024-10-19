@@ -1,0 +1,10 @@
+{
+    "api_url": "https://api.example.com/data",
+    "query_parameters": {
+        "type": "daily",
+        "format": "json"
+    },
+    "output_directory": "./src/data",
+    "archive_directory": "./src/data/archive",
+    "retry_attempts": 3
+}

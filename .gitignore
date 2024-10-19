@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.env
+bots/*/config.json
+utils/logs/
+bots/*/src/data/archive/
+
 # C extensions
 *.so
 
