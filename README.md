@@ -41,3 +41,4 @@ botanica/
 2. **Set up automation:** Use the GitHub Actions workflow template to schedule your bot. Define when and how often it should run.
 3. **Process and upload:** When a bot runs, it processes data and saves it in the `src/data` directory. From there, the utility scripts can help you upload the results to cloud storage like AWS S3.
 4. **Manage configurations:** Use `.env` files for sensitive information and `config.json` files for bot-specific settings. Example templates are included to make setup easier.
+
