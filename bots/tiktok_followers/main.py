@@ -1,9 +1,5 @@
 import sys
 import os
-
-# Add the project root directory to Python's path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
-
 import re
 import json
 import requests
@@ -20,7 +16,9 @@ TIMESERIES_FILE = f'{OUTPUT_DIR}/tiktok_followers_timeseries.json'
 
 # Load configuration settings
 def load_config():
-    with open("config.json", "r") as config_file:
+    # Construct the absolute path to `config.json` based on the current file's location
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    with open(config_path, "r") as config_file:
         return json.load(config_file)
 
 def run_scraper():
