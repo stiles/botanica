@@ -10,7 +10,7 @@ import pytz
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 from utils.s3_upload import upload_to_s3
 
 # Load configuration settings
@@ -31,11 +31,14 @@ TODAY = pd.Timestamp(now).strftime("%Y-%m-%d")
 
 def run_scraper():
     users = config.get("users", [])
-    output_dir = config.get("output_directory")
+    
+    # Ensure paths are absolute
+    script_dir = os.path.dirname(__file__)
+    output_dir = os.path.join(script_dir, config.get("output_directory"))
     bot_slug = config.get("bot_name")
     s3_profile = config.get("s3_profile")
-    archive_url = config.get("archive_url")
-    timeseries_file = config.get("timeseries_file")
+    archive_url = os.path.join(script_dir, config.get("archive_url"))
+    timeseries_file = os.path.join(script_dir, config.get("timeseries_file"))
 
     data = []
     timeseries_data = []
@@ -80,9 +83,14 @@ def run_scraper():
         else:
             print(f'Could not find script tag for {user}')
 
-    df = pd.DataFrame(data)
+    # Ensure the output directory exists
     os.makedirs(output_dir, exist_ok=True)
+
+    # Save the collected data
+    df = pd.DataFrame(data)
     df.to_json(f'{output_dir}/{bot_slug}.json', indent=4, orient='records')
+    
+    # Update the timeseries file
     update_timeseries(timeseries_data, timeseries_file, archive_url)
 
     # Upload the saved files to S3
