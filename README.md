@@ -1,13 +1,13 @@
 
 # Botanica 🌿
 
-Botanica is a modern, Python-based automation system for collecting, processing and managing data. It's designed to allow a personal collection of data projects, or bots, to thrive thanks to a shared ecosystem that handles automated scheduling, data wrangling and cloud storage. 
+Botanica is a Python-based automation system for collecting, processing and managing data. It's designed to help cultivate a personal collection of data scrapers, or bots, with a shared ecosystem for scheduling, collection and cloud storage. This is a new project and very much a work in progress. 
 
 ### Key features
 
 - **Unified system:** Manage all your scraper projects in one place without needing separate repositories.
 - **Automated scheduling:** Use GitHub Actions to run tasks on a regular basis, from hourly to daily updates.
-- **Seamless cloud integration:** Easily upload processed data to AWS S3 or other cloud services.
+- **Cloud integration:** Easily upload processed data to AWS S3 or other cloud services.
 - **Modular design:** Each scraper is self-contained, allowing for easy addition, removal or modification.
 - **Secure handling:** Sensitive information like API keys and credentials are securely managed through GitHub Secrets.
 - **Flexible and scalable:** Easily extend Botanica with new scrapers, configurations and data workflows.
@@ -24,7 +24,6 @@ botanica/
 │       │    └── data/               # Where processed data is stored
 │       ├── config.example.json      # Template for bot-specific settings
 │       ├── requirements.txt         # Dependencies for the bot
-│       ├── runbot.sh                # Script to run the bot
 │       └── main.py                  # Main script for the bot
 ├── .github/
 │   └── workflows/
@@ -37,10 +36,10 @@ botanica/
 
 ### How it works
 
-1. **Add a new bot:** To create a new bot, add a new folder under `bots`, following the structure of the `example` bot. Include any scripts, configuration files and dependencies it needs.
+1. **Add a new bot:** To create a new bot, run the `create_bot.py` script and follow the instructions below for customizing the scripts, configuration files and dependencies it needs.
 2. **Set up automation:** Use the GitHub Actions workflow template to schedule your bot. Define when and how often it should run.
 3. **Process and upload:** When a bot runs, it processes data and saves it in the `src/data` directory. From there, the utility scripts can help you upload the results to cloud storage like AWS S3.
-4. **Manage configurations:** Use `.env` files for sensitive information and `config.json` files for bot-specific settings. Example templates are included to make setup easier.
+4. **Manage configurations:** Use your local environment or `.env` files and Github Actions secrets for sensitive information and `config.json` files for bot-specific settings. Example templates are included to make setup easier.
 
 
 ## How to create and deploy a new bot
@@ -128,20 +127,20 @@ cd bots/<your_bot_name>
 
 ### Example workflow file (`.github/workflows/weather_scraper.yml`)
 ```yaml
-name: weather_scraper
+name: example
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 6:00 AM UTC
+    - cron: '0 6 * * *'  # Runs daily at 6 AM UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     env:
-      BOT_NAME: "weather_scraper"
-      BOT_PATH: "./bots/weather_scraper"
+      BOT_NAME: "example"
+      BOT_PATH: "./bots/example"
       PYTHONPATH: "${{ github.workspace }}"
 
     steps:
@@ -166,12 +165,17 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-1'
 
-      - name: Commit updated timeseries
+      - name: Pull latest changes
+        run: |
+          git config pull.rebase false
+          git pull origin main
+
+      - name: Commit updated data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ${{ env.BOT_PATH }}/src/data/
-          git commit -m "Update timeseries data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
+          git commit -m "Updated data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: Push changes to main branch
         run: |
@@ -186,12 +190,10 @@ After creating a new bot, `create_bot.py` will automatically add an entry to the
 ```markdown
 #### Bots inventory
 - **tiktok_followers**: Outputs to `./src/data/tiktok_followers`
-- **weather_scraper**: Outputs to `./src/data/weather_scraper`
-- **covid_cases**: Outputs to `./src/data/covid_cases`
+- **tsla_stock**: Outputs to `./src/data/tsla_stock`
 ```
 
 ### Future enhancements:
 - **Automated cleanup**: Add a feature to automatically archive or delete old files from S3.
 - **Comprehensive error handling**: Improve the bot’s codebase to handle more specific errors and retry failed requests.
-- **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.- **trader_joes_products**: Outputs to `./src/data/trader_joes_products`
-- **tsla_stock**: Outputs to `./src/data/tsla_stock`
+- **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.

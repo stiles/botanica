@@ -41,12 +41,12 @@ jobs:
           git config pull.rebase false
           git pull origin main
 
-      - name: Commit updated timeseries
+      - name: Commit updated data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ${{ env.BOT_PATH }}/src/data/
-          git commit -m "Update timeseries data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
+          git commit -m "Updated data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: Push changes to main branch
         run: |
