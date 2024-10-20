@@ -125,7 +125,7 @@ cd bots/<your_bot_name>
     - Verify that the processed data is correctly stored in the output directory you specified.
     - Ensure the data has been uploaded to S3 (or your cloud storage), and confirm accessibility if needed.
 
-### Example workflow file (`.github/workflows/weather_scraper.yml`)
+### Example workflow file (`.github/workflows/example.yml`)
 ```yaml
 name: example
 
