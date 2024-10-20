@@ -193,4 +193,5 @@ After creating a new bot, `create_bot.py` will automatically add an entry to the
 ### Future enhancements:
 - **Automated cleanup**: Add a feature to automatically archive or delete old files from S3.
 - **Comprehensive error handling**: Improve the bot’s codebase to handle more specific errors and retry failed requests.
-- **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.
+- **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.- **trader_joes_products**: Outputs to `./src/data/trader_joes_products`
+- **tsla_stock**: Outputs to `./src/data/tsla_stock`
