@@ -12,7 +12,7 @@ jobs:
     env:
       BOT_NAME: "tiktok_followers"
       BOT_PATH: "./bots/tiktok_followers"
-      PYTHONPATH: "${{ github.workspace }}"  # Set the PYTHONPATH to the project root
+      PYTHONPATH: "${{ github.workspace }}"
 
     steps:
       - name: Checkout code
@@ -36,6 +36,11 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-1'
 
+      - name: Pull latest changes
+        run: |
+          git config pull.rebase false
+          git pull origin main
+      
       - name: Commit updated timeseries
         run: |
           git config --local user.email "action@github.com"
