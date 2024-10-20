@@ -3,14 +3,14 @@ import os
 import sys
 
 def upload_to_s3(directory, bot_slug, profile_name=None):
-    # Use the specified AWS profile if provided
-    if profile_name:
+    # If a profile_name is provided and running locally, use it
+    if profile_name and not os.getenv('GITHUB_ACTIONS'):
         session = boto3.Session(profile_name=profile_name)
-        s3 = session.client('s3')
     else:
-        # Default to standard credentials
-        s3 = boto3.client('s3')
-
+        # Use default credentials set up via environment variables in GitHub Actions
+        session = boto3.Session()
+    
+    s3 = session.client('s3')
     bucket_name = 'stilesdata.com'
 
     for root, _, files in os.walk(directory):
