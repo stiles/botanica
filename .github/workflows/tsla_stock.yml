@@ -1,4 +1,4 @@
-name: tesla_share_price
+name: tsla_stock
 
 on:
   workflow_dispatch:
@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      BOT_NAME: "tesla_share_price"
-      BOT_PATH: "./bots/tesla_share_price"
+      BOT_NAME: "tsla_stock"
+      BOT_PATH: "./bots/tsla_stock"
       PYTHONPATH: "${{ github.workspace }}"  # Set the PYTHONPATH to the project root
 
     steps:
