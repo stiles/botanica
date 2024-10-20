@@ -1,5 +1,9 @@
 import sys
 import os
+
+# Add the project root directory to Python's path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
 import re
 import json
 import requests
@@ -103,8 +107,8 @@ def run_scraper():
 
 def update_timeseries(timeseries_data):
     # Load existing timeseries data if available
-    if os.path.exists(TIMESERIES_FILE):
-        ts_df = pd.read_json(TIMESERIES_FILE)
+    if os.path.exists(ARCHIVE_URL):
+        ts_df = pd.read_json(ARCHIVE_URL)
     else:
         ts_df = pd.DataFrame(columns=['date', 'username', 'followerCount'])
 
@@ -117,6 +121,7 @@ def update_timeseries(timeseries_data):
     # Remove duplicate entries (in case the script is run multiple times in a day)
     updated_ts_df.drop_duplicates(subset=['date', 'username'], keep='last', inplace=True)
 
+    updated_ts_df['date'] = updated_ts_df['date'].astype(str)
     # Save the updated timeseries data
     updated_ts_df.to_json(TIMESERIES_FILE, indent=4, orient='records')
 
