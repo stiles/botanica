@@ -4,11 +4,12 @@ __pycache__/
 *$py.class
 
 
+# Ignore local environment and sensitive files
 .env
-bots/*/config.json
+
+# Ignore logs and temporary files
 utils/logs/
 bots/*/src/data/archive/
-
 
 # C extensions
 *.so
