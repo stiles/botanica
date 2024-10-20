@@ -2,8 +2,8 @@ name: template_bot        # bot slug name
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 5 * * *'   # Change run time
+  # schedule:
+  #   - cron: '0 5 * * *'   # Change run time
 
 jobs:
   build:
@@ -36,6 +36,11 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-1'
 
+      - name: Pull latest changes
+        run: |
+          git config pull.rebase false
+          git pull origin main
+            
       - name: Commit updated timeseries
         run: |
           git config --local user.email "action@github.com"

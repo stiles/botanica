@@ -28,6 +28,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ${{ env.BOT_PATH }}/requirements.txt
 
+      - name: Pull latest changes
+        run: |
+          git config pull.rebase false
+          git pull origin main
+            
       - name: Run the scraper
         run: |
           python ${{ env.BOT_PATH }}/main.py
