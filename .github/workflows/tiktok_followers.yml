@@ -12,7 +12,6 @@ jobs:
     env:
       BOT_NAME: "tiktok_followers"
       BOT_PATH: "./bots/tiktok_followers"
-      DATA_DIR: "./src/data"
       PYTHONPATH: "${{ github.workspace }}"  # Set the PYTHONPATH to the project root
 
     steps:
@@ -36,13 +35,12 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-1'
-          PYTHONPATH: "${{ github.workspace }}"  # Ensure PYTHONPATH is set for this step
 
       - name: Commit updated timeseries
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ${{ env.DATA_DIR }}/
+          git add ${{ env.BOT_PATH }}/src/data/
           git commit -m "Update timeseries data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: Push changes to main branch

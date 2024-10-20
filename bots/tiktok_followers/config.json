@@ -4,8 +4,11 @@
         "type": "daily",
         "format": "json"
     },
+    "s3_profile": "haekeo",
+    "bot_name": "tiktok_followers",
     "output_directory": "./src/data",
-    "archive_directory": "./src/data/archive",
+    "archive_url": "https://stilesdata.com/tiktok_followers/tiktok_followers.json",
+    "timeseries_file": "./src/data/tiktok_followers_timeseries.json",
     "retry_attempts": 3,
     "users": ["mattystiles", "evablytheofficial"]
 }
