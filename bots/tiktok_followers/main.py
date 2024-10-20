@@ -6,9 +6,11 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'
 
 import re
 import json
+import pytz
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+from datetime import datetime, timedelta
 from utils.s3_upload import upload_to_s3
 
 # Load configuration settings
@@ -21,7 +23,11 @@ def load_config():
         return json.load(config_file)
 
 config = load_config()
-TODAY = pd.Timestamp('today').strftime('%Y-%m-%d')
+
+# Time variables
+pacific = pytz.timezone('America/Los_Angeles')
+now = datetime.now(pacific)
+TODAY = pd.Timestamp(now).strftime("%Y-%m-%d")
 
 def run_scraper():
     users = config.get("users", [])
