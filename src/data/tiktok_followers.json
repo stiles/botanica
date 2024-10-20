@@ -7,7 +7,11 @@
         "region":"US",
         "followerCount":742,
         "followingCount":665,
+<<<<<<< HEAD
         "heartCount":81800,
+=======
+        "heartCount":81600,
+>>>>>>> 42320eb2051deb62b6a439a7a062e20703558a25
         "videoCount":89,
         "diggCount":0
     },
