@@ -1,14 +1,7 @@
 {
-    "api_url": "https://api.example.com/data",
-    "query_parameters": {
-        "type": "daily",
-        "format": "json"
-    },
     "s3_profile": "haekeo",
     "bot_name": "tiktok_followers",
     "output_directory": "./src/data",
-    "archive_url": "https://stilesdata.com/tiktok_followers/tiktok_followers.json",
-    "timeseries_file": "https://stilesdata.com/tiktok_followers/tiktok_followers_timeseries.json",
-    "retry_attempts": 3,
     "users": ["mattystiles", "evablytheofficial"]
 }
+

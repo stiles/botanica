@@ -37,8 +37,10 @@ def run_scraper():
     output_dir = os.path.join(script_dir, config.get("output_directory"))
     bot_slug = config.get("bot_name")
     s3_profile = config.get("s3_profile")
-    archive_url = os.path.join(script_dir, config.get("archive_url"))
-    timeseries_file = os.path.join(script_dir, config.get("timeseries_file"))
+    
+    # Use local paths for archive and timeseries files
+    archive_file = os.path.join(output_dir, f"{bot_slug}.json")
+    timeseries_file = os.path.join(output_dir, f"{bot_slug}_timeseries.json")
 
     data = []
     timeseries_data = []
@@ -74,7 +76,11 @@ def run_scraper():
                     timeseries_data.append({
                         'date': TODAY,
                         'username': user,
-                        'followerCount': user_stats.get('followerCount', 0)
+                        'followerCount': user_stats.get('followerCount', 0),
+                        'followingCount': user_stats.get('followingCount', 0),
+                        'heartCount': user_stats.get('heartCount', 0),
+                        'videoCount': user_stats.get('videoCount', 0),
+                        'diggCount': user_stats.get('diggCount', 0)
                     })
                 except (json.JSONDecodeError, KeyError) as e:
                     print(f'Error parsing JSON or finding user data for {user}: {e}')
@@ -86,26 +92,35 @@ def run_scraper():
     # Ensure the output directory exists
     os.makedirs(output_dir, exist_ok=True)
 
-    # Save the collected data
+    # Save the collected data locally
     df = pd.DataFrame(data)
-    df.to_json(f'{output_dir}/{bot_slug}.json', indent=4, orient='records')
+    df.to_json(archive_file, indent=4, orient='records')
     
-    # Update the timeseries file
-    update_timeseries(timeseries_data, timeseries_file, archive_url)
+    # Update the timeseries file locally
+    update_timeseries(timeseries_data, timeseries_file)
 
     # Upload the saved files to S3
     upload_to_s3(output_dir, bot_slug, s3_profile)
 
-def update_timeseries(timeseries_data, timeseries_file, archive_url):
-    if os.path.exists(archive_url):
-        ts_df = pd.read_json(archive_url)
+def update_timeseries(timeseries_data, timeseries_file):
+    # Load existing timeseries data if available
+    if os.path.exists(timeseries_file):
+        ts_df = pd.read_json(timeseries_file)
     else:
-        ts_df = pd.DataFrame(columns=['date', 'username', 'followerCount'])
+        ts_df = pd.DataFrame(columns=[
+            'date', 'username', 'followerCount', 'followingCount',
+            'heartCount', 'videoCount', 'diggCount'
+        ])
 
+    # Convert new data into a DataFrame
     new_data = pd.DataFrame(timeseries_data)
+
+    # Concatenate with the existing data and remove duplicates
     updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
     updated_ts_df.drop_duplicates(subset=['date', 'username'], keep='last', inplace=True)
     updated_ts_df['date'] = updated_ts_df['date'].astype(str)
+
+    # Save the updated timeseries data locally
     updated_ts_df.to_json(timeseries_file, indent=4, orient='records')
 
 if __name__ == "__main__":
