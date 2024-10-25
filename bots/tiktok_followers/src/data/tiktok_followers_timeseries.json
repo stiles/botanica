@@ -1,5 +1,35 @@
 [
     {
+        "date":"2024-10-19",
+        "username":"mattystiles",
+        "followerCount":740
+    },
+    {
+        "date":"2024-10-19",
+        "username":"evablytheofficial",
+        "followerCount":141
+    },
+    {
+        "date":"2024-10-20",
+        "username":"mattystiles",
+        "followerCount":764
+    },
+    {
+        "date":"2024-10-20",
+        "username":"evablytheofficial",
+        "followerCount":160
+    },
+    {
+        "date":"2024-10-21",
+        "username":"mattystiles",
+        "followerCount":776
+    },
+    {
+        "date":"2024-10-21",
+        "username":"evablytheofficial",
+        "followerCount":166
+    },
+    {
         "date":"2024-10-22",
         "username":"mattystiles",
         "followerCount":792,
@@ -34,5 +64,5 @@
         "heartCount":558.0,
         "videoCount":10.0,
         "diggCount":0.0
-    }
+    },
 ]
