@@ -191,6 +191,7 @@ After creating a new bot, `create_bot.py` will automatically add an entry to the
 #### Bots inventory
 - **tiktok_followers**: Outputs to `./src/data/tiktok_followers`
 - **tsla_stock**: Outputs to `./src/data/tsla_stock`
+- **crumble_menu**: Outputs to `./src/data/crumble_menu`
 ```
 
 ### Future enhancements:
