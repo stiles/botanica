@@ -1,20 +1,15 @@
 import sys
 import os
-
-# Add the project root directory to Python's path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
-
 import json
 import requests
 import pytz
 import pandas as pd
+from bs4 import BeautifulSoup
 from datetime import datetime
 from utils.s3_upload import upload_to_s3
 
-# Time variables, adjusted for the best coast
-pacific = pytz.timezone('America/Los_Angeles')
-now = datetime.now(pacific)
-TODAY = pd.Timestamp(now).strftime("%Y-%m-%d")
+# Add the project root directory to Python's path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 
 # Load configuration settings
 def load_config():
@@ -27,35 +22,51 @@ def load_config():
 
 config = load_config()
 
+# Time settings
+pacific = pytz.timezone('America/Los_Angeles')
+now = datetime.now(pacific)
+TODAY = pd.Timestamp(now).strftime("%Y-%m-%d")
+
 def run_scraper():
-    # Example configurations pulled from config.json
+    # Load config variables
     output_dir = config.get("output_directory")
     bot_slug = config.get("bot_name")
     s3_profile = config.get("s3_profile")
-    timeseries_file = config.get("timeseries_file")
+    timeseries_file = os.path.join(output_dir, f"{bot_slug}_timeseries.json")
 
-    # Initialize data lists, if needed
+    # Initialize data lists
     data = []
     timeseries_data = []
 
-    # --- CUSTOM SCRAPING LOGIC STARTS HERE ---
-    # Replace this section with your specific scraping logic.
-    # Example: Loop over users (or other entities) and collect data
+    # Fetch data (example)
+    url = config.get("api_url")
+    response = requests.get(url, params=config.get("query_parameters", {}))
+    content = BeautifulSoup(response.text, 'html.parser')
+    # Assuming JSON data is in a specific tag, e.g., <script> or directly in JSON
+    script_tag = content.find('script', id='__NEXT_DATA__')
+    json_data = json.loads(script_tag.text) if script_tag else {}
 
+    # Example parsing logic
+    items = json_data.get('items', [])  # Adapt based on data structure
+    for item in items:
+        # Example data parsing structure
+        item_data = {
+            'name': item.get('name', 'N/A'),
+            'description': item.get('description', ''),
+            'count': item.get('count', 0),
+            'fetched': TODAY
+        }
+        data.append(item_data)
+        timeseries_data.append(item_data)
 
-
-
-    # --- CUSTOM SCRAPING LOGIC ENDS HERE ---
-
-    # Convert collected data to DataFrame and save locally
-    df = pd.DataFrame(data)
+    # Save primary data
     os.makedirs(output_dir, exist_ok=True)
-    df.to_json(f'{output_dir}/{bot_slug}.json', indent=4, orient='records')
+    pd.DataFrame(data).to_json(f'{output_dir}/{bot_slug}.json', orient='records', indent=4)
 
-    # Update the timeseries file
+    # Update and save the timeseries
     update_timeseries(timeseries_data, timeseries_file)
 
-    # Upload the saved files to S3
+    # Upload the output directory to S3
     upload_to_s3(output_dir, bot_slug, s3_profile)
 
 def update_timeseries(timeseries_data, timeseries_file):
@@ -63,18 +74,16 @@ def update_timeseries(timeseries_data, timeseries_file):
     if os.path.exists(timeseries_file):
         ts_df = pd.read_json(timeseries_file)
     else:
-        ts_df = pd.DataFrame(columns=['date', 'entity', 'value'])
+        ts_df = pd.DataFrame(columns=['name', 'description', 'count', 'fetched'])
 
-    # Convert new data into a DataFrame
+    # Concatenate new and existing data
     new_data = pd.DataFrame(timeseries_data)
-
-    # Concatenate with the existing data and remove duplicates
     updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
-    updated_ts_df.drop_duplicates(subset=['date', 'entity'], keep='last', inplace=True)
-    updated_ts_df['date'] = updated_ts_df['date'].astype(str)
+    updated_ts_df.drop_duplicates(subset=['fetched', 'name'], keep='last', inplace=True)
+    updated_ts_df['fetched'] = updated_ts_df['fetched'].astype(str)
 
-    # Save the updated timeseries data
-    updated_ts_df.to_json(timeseries_file, indent=4, orient='records')
+    # Save updated timeseries
+    updated_ts_df.to_json(timeseries_file, orient='records', indent=4)
 
 if __name__ == "__main__":
     run_scraper()

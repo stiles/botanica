@@ -197,3 +197,4 @@ After creating a new bot, `create_bot.py` will automatically add an entry to the
 - **Automated cleanup**: Add a feature to automatically archive or delete old files from S3.
 - **Comprehensive error handling**: Improve the bot’s codebase to handle more specific errors and retry failed requests.
 - **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.
+- **crumbl_menu**: Outputs to `./src/data/crumbl_menu`
