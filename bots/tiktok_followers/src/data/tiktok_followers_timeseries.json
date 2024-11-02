@@ -198,7 +198,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-31",
+        "date":"2024-10-31 00:00:00",
         "username":"mattystiles",
         "followerCount":849,
         "followingCount":670.0,
@@ -207,12 +207,30 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-31",
+        "date":"2024-10-31 00:00:00",
         "username":"evablytheofficial",
         "followerCount":256,
         "followingCount":127.0,
         "heartCount":657.0,
         "videoCount":11.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-01",
+        "username":"mattystiles",
+        "followerCount":852,
+        "followingCount":670.0,
+        "heartCount":105000.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-01",
+        "username":"evablytheofficial",
+        "followerCount":259,
+        "followingCount":130.0,
+        "heartCount":589.0,
+        "videoCount":9.0,
         "diggCount":0.0
     }
 ]
