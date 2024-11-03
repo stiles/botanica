@@ -3,7 +3,7 @@ name: la_outages
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 5 * * *'  # Runs every day at 10pm PT
+    - cron: '*/5 * * * *'  # Runs every day at 10pm PT
 
 jobs:
   build:
