@@ -1,6 +1,10 @@
-pandas==2.1.4
-requests==2.32.3
-boto3==1.34.119
-numpy==1.26.4
-beautifulsoup4==4.12.3
+cramjam==2.9.0
+fastparquet==2024.5.0
+fsspec==2024.10.0
+numpy==2.0.2
+packaging==24.1
+pandas==2.2.3
+python-dateutil==2.9.0.post0
 pytz==2024.2
+six==1.16.0
+tzdata==2024.2

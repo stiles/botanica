@@ -32,7 +32,8 @@ def run_scraper():
     output_dir = config.get("output_directory")
     bot_slug = config.get("bot_name")
     s3_profile = config.get("s3_profile")
-    timeseries_file = os.path.join(output_dir, f"{bot_slug}_timeseries.json")
+    archive_file = config.get("archive_file")
+    timeseries_file = config.get("timeseries_file")
 
     # Initialize data lists
     data = []
@@ -59,9 +60,11 @@ def run_scraper():
         data.append(item_data)
         timeseries_data.append(item_data)
 
-    # Save primary data
+    # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
-    pd.DataFrame(data).to_json(f'{output_dir}/{bot_slug}.json', orient='records', indent=4)
+
+    # Save primary data to archive file
+    pd.DataFrame(data).to_json(archive_file, orient='records', indent=4)
 
     # Update and save the timeseries
     update_timeseries(timeseries_data, timeseries_file)
@@ -76,11 +79,14 @@ def update_timeseries(timeseries_data, timeseries_file):
     else:
         ts_df = pd.DataFrame(columns=['name', 'description', 'count', 'fetched'])
 
-    # Concatenate new and existing data
-    new_data = pd.DataFrame(timeseries_data)
-    updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
-    updated_ts_df.drop_duplicates(subset=['fetched', 'name'], keep='last', inplace=True)
-    updated_ts_df['fetched'] = updated_ts_df['fetched'].astype(str)
+    # Concatenate new and existing data only if new data is present
+    if timeseries_data:
+        new_data = pd.DataFrame(timeseries_data)
+        updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
+        updated_ts_df.drop_duplicates(subset=['fetched', 'name'], keep='last', inplace=True)
+        updated_ts_df['fetched'] = updated_ts_df['fetched'].astype(str)
+    else:
+        updated_ts_df = ts_df
 
     # Save updated timeseries
     updated_ts_df.to_json(timeseries_file, orient='records', indent=4)

@@ -6,9 +6,9 @@
     },
     "s3_profile": "haekeo",
     "bot_name": "placeholder_bot",
-    "output_directory": "./src/data",
-    "archive_url": "https://stilesdata.com/placeholder_bot/placeholder_bot.json",
-    "timeseries_file": "./src/data/placeholder_bot_timeseries.json",
+    "output_directory": "./src/data/placeholder_bot",
+    "archive_file": "./src/data/placeholder_bot/placeholder_bot.json",
+    "timeseries_file": "./src/data/placeholder_bot/placeholder_bot_timeseries.json",
     "retry_attempts": 3,
     "users": ["exampleuser1", "exampleuser2"]
 }

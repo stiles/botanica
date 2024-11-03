@@ -199,3 +199,4 @@ After creating a new bot, `create_bot.py` will automatically add an entry to the
 - **Comprehensive error handling**: Improve the bot’s codebase to handle more specific errors and retry failed requests.
 - **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.
 - **crumbl_menu**: Outputs to `./src/data/crumbl_menu`
+- **la_outages**: Outputs to `./src/data/la_outages`

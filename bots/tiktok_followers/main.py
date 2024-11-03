@@ -113,12 +113,14 @@ def update_timeseries(timeseries_data, timeseries_file):
         ])
 
     # Convert new data into a DataFrame
-    new_data = pd.DataFrame(timeseries_data)
+    new_data = pd.DataFrame(timeseries_data)    
 
-    # Concatenate with the existing data and remove duplicates
+    # Concatenate with the existing data and remove duplicates based on date and username
     updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
     updated_ts_df.drop_duplicates(subset=['date', 'username'], keep='last', inplace=True)
-    updated_ts_df['date'] = updated_ts_df['date'].astype(str)
+
+    # Ensure the 'date' column is consistently formatted as 'YYYY-MM-DD' and is a string type
+    updated_ts_df['date'] = pd.to_datetime(updated_ts_df['date']).dt.strftime('%Y-%m-%d').astype(str)
 
     # Save the updated timeseries data locally
     updated_ts_df.to_json(timeseries_file, indent=4, orient='records')

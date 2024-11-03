@@ -1,6 +1,6 @@
 [
     {
-        "date":"2024-10-19 00:00:00",
+        "date":"2024-10-19",
         "username":"mattystiles",
         "followerCount":740,
         "followingCount":null,
@@ -9,7 +9,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-19 00:00:00",
+        "date":"2024-10-19",
         "username":"evablytheofficial",
         "followerCount":141,
         "followingCount":null,
@@ -18,7 +18,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-20 00:00:00",
+        "date":"2024-10-20",
         "username":"mattystiles",
         "followerCount":764,
         "followingCount":null,
@@ -27,7 +27,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-20 00:00:00",
+        "date":"2024-10-20",
         "username":"evablytheofficial",
         "followerCount":160,
         "followingCount":null,
@@ -36,7 +36,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-21 00:00:00",
+        "date":"2024-10-21",
         "username":"mattystiles",
         "followerCount":776,
         "followingCount":null,
@@ -45,7 +45,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-21 00:00:00",
+        "date":"2024-10-21",
         "username":"evablytheofficial",
         "followerCount":166,
         "followingCount":null,
@@ -54,7 +54,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-22 00:00:00",
+        "date":"2024-10-22",
         "username":"mattystiles",
         "followerCount":792,
         "followingCount":null,
@@ -63,7 +63,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-22 00:00:00",
+        "date":"2024-10-22",
         "username":"evablytheofficial",
         "followerCount":177,
         "followingCount":null,
@@ -72,7 +72,7 @@
         "diggCount":null
     },
     {
-        "date":"2024-10-24 00:00:00",
+        "date":"2024-10-24",
         "username":"mattystiles",
         "followerCount":826,
         "followingCount":669.0,
@@ -81,7 +81,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-24 00:00:00",
+        "date":"2024-10-24",
         "username":"evablytheofficial",
         "followerCount":209,
         "followingCount":126.0,
@@ -104,6 +104,42 @@
         "followerCount":216,
         "followingCount":126.0,
         "heartCount":574.0,
+        "videoCount":10.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-26",
+        "username":"mattystiles",
+        "followerCount":832,
+        "followingCount":669.0,
+        "heartCount":102000.0,
+        "videoCount":90.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-26",
+        "username":"evablytheofficial",
+        "followerCount":230,
+        "followingCount":127.0,
+        "heartCount":581.0,
+        "videoCount":10.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-27",
+        "username":"mattystiles",
+        "followerCount":833,
+        "followingCount":669.0,
+        "heartCount":102200.0,
+        "videoCount":90.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-27",
+        "username":"evablytheofficial",
+        "followerCount":232,
+        "followingCount":127.0,
+        "heartCount":582.0,
         "videoCount":10.0,
         "diggCount":0.0
     }
