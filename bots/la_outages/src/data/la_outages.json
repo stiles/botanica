@@ -1,35 +1,35 @@
 [
     {
-        "id":57429,
+        "id":57432,
         "name":"Hyde Park",
         "rank":1,
         "affected":17,
         "status":"Crews Working",
         "est_fixed":"11\/03\/2024 17:00",
-        "longitude":-118.322162,
-        "latitude":33.980653,
-        "fetched":1730669012985
+        "longitude":-118.3221741945,
+        "latitude":33.9806578437,
+        "fetched":1730669592413
     },
     {
-        "id":57430,
+        "id":57433,
         "name":"Panorama City",
         "rank":2,
         "affected":34,
         "status":"Crews Working",
         "est_fixed":"11\/03\/2024 09:00",
-        "longitude":-118.448035,
-        "latitude":34.238076,
-        "fetched":1730669012985
+        "longitude":-118.4480472367,
+        "latitude":34.2380808648,
+        "fetched":1730669592413
     },
     {
-        "id":57431,
+        "id":57434,
         "name":"Panorama City",
         "rank":1,
         "affected":39,
         "status":"En Route",
         "est_fixed":"11\/03\/2024 13:00",
-        "longitude":-118.448156,
-        "latitude":34.237106,
-        "fetched":1730669012985
+        "longitude":-118.4481682367,
+        "latitude":34.2371108646,
+        "fetched":1730669592413
     }
 ]

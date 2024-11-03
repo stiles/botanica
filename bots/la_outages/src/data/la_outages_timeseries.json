@@ -64,5 +64,38 @@
         "longitude":-118.448156,
         "latitude":34.237106,
         "fetched":"2024-11-03 13:23:32.985109-08:00"
+    },
+    {
+        "id":57432,
+        "name":"Hyde Park",
+        "rank":1,
+        "affected":17,
+        "status":"Crews Working",
+        "est_fixed":"11\/03\/2024 17:00",
+        "longitude":-118.3221741945,
+        "latitude":33.9806578437,
+        "fetched":"2024-11-03 13:33:12.413362-08:00"
+    },
+    {
+        "id":57433,
+        "name":"Panorama City",
+        "rank":2,
+        "affected":34,
+        "status":"Crews Working",
+        "est_fixed":"11\/03\/2024 09:00",
+        "longitude":-118.4480472367,
+        "latitude":34.2380808648,
+        "fetched":"2024-11-03 13:33:12.413362-08:00"
+    },
+    {
+        "id":57434,
+        "name":"Panorama City",
+        "rank":1,
+        "affected":39,
+        "status":"En Route",
+        "est_fixed":"11\/03\/2024 13:00",
+        "longitude":-118.4481682367,
+        "latitude":34.2371108646,
+        "fetched":"2024-11-03 13:33:12.413362-08:00"
     }
 ]
