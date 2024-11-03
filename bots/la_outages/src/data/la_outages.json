@@ -1,6 +1,6 @@
 [
     {
-        "id":57438,
+        "id":57440,
         "name":"Hyde Park",
         "rank":1,
         "affected":17,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/03\/2024 17:00",
         "longitude":-118.322162,
         "latitude":33.980653,
-        "fetched":1730671608529
+        "fetched":1730672172053
     },
     {
-        "id":57439,
+        "id":57441,
         "name":"Panorama City",
         "rank":1,
         "affected":39,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/03\/2024 13:00",
         "longitude":-118.448156,
         "latitude":34.237106,
-        "fetched":1730671608529
+        "fetched":1730672172053
     }
 ]
