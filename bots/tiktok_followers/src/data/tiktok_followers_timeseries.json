@@ -90,7 +90,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-25",
+        "date":"2024-10-25 00:00:00",
         "username":"mattystiles",
         "followerCount":831,
         "followingCount":669.0,
@@ -99,7 +99,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-25",
+        "date":"2024-10-25 00:00:00",
         "username":"evablytheofficial",
         "followerCount":216,
         "followingCount":126.0,
@@ -108,7 +108,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-26",
+        "date":"2024-10-26 00:00:00",
         "username":"mattystiles",
         "followerCount":832,
         "followingCount":669.0,
@@ -117,7 +117,7 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-26",
+        "date":"2024-10-26 00:00:00",
         "username":"evablytheofficial",
         "followerCount":230,
         "followingCount":127.0,
@@ -126,21 +126,129 @@
         "diggCount":0.0
     },
     {
-        "date":"2024-10-27",
+        "date":"2024-10-27 00:00:00",
         "username":"mattystiles",
-        "followerCount":833,
+        "followerCount":835,
         "followingCount":669.0,
-        "heartCount":102200.0,
+        "heartCount":102400.0,
         "videoCount":90.0,
         "diggCount":0.0
     },
     {
-        "date":"2024-10-27",
+        "date":"2024-10-27 00:00:00",
         "username":"evablytheofficial",
-        "followerCount":232,
+        "followerCount":234,
         "followingCount":127.0,
-        "heartCount":582.0,
+        "heartCount":586.0,
         "videoCount":10.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-28 00:00:00",
+        "username":"mattystiles",
+        "followerCount":836,
+        "followingCount":670.0,
+        "heartCount":102700.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-28 00:00:00",
+        "username":"evablytheofficial",
+        "followerCount":233,
+        "followingCount":127.0,
+        "heartCount":589.0,
+        "videoCount":10.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-29 00:00:00",
+        "username":"mattystiles",
+        "followerCount":836,
+        "followingCount":670.0,
+        "heartCount":102900.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-29 00:00:00",
+        "username":"evablytheofficial",
+        "followerCount":240,
+        "followingCount":127.0,
+        "heartCount":619.0,
+        "videoCount":11.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-30 00:00:00",
+        "username":"mattystiles",
+        "followerCount":843,
+        "followingCount":670.0,
+        "heartCount":103200.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-30 00:00:00",
+        "username":"evablytheofficial",
+        "followerCount":250,
+        "followingCount":127.0,
+        "heartCount":641.0,
+        "videoCount":11.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-31 00:00:00",
+        "username":"mattystiles",
+        "followerCount":849,
+        "followingCount":670.0,
+        "heartCount":104400.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-10-31 00:00:00",
+        "username":"evablytheofficial",
+        "followerCount":256,
+        "followingCount":127.0,
+        "heartCount":657.0,
+        "videoCount":11.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-01 00:00:00",
+        "username":"mattystiles",
+        "followerCount":852,
+        "followingCount":670.0,
+        "heartCount":105000.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-01 00:00:00",
+        "username":"evablytheofficial",
+        "followerCount":259,
+        "followingCount":130.0,
+        "heartCount":589.0,
+        "videoCount":9.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-02",
+        "username":"mattystiles",
+        "followerCount":860,
+        "followingCount":670.0,
+        "heartCount":105800.0,
+        "videoCount":91.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-11-02",
+        "username":"evablytheofficial",
+        "followerCount":264,
+        "followingCount":135.0,
+        "heartCount":531.0,
+        "videoCount":7.0,
         "diggCount":0.0
     }
 ]
