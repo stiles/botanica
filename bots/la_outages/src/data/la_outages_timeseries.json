@@ -537,5 +537,38 @@
         "longitude":-118.448156,
         "latitude":34.237106,
         "fetched":"2024-11-03 16:45:14.288481-08:00"
+    },
+    {
+        "id":57465,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":12,
+        "status":"Assigned",
+        "est_fixed":"11\/03\/2024 21:30",
+        "longitude":-118.279513,
+        "latitude":34.107201,
+        "fetched":"2024-11-03 17:14:03.033683-08:00"
+    },
+    {
+        "id":57464,
+        "name":"Vermont Square",
+        "rank":1,
+        "affected":5,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.31146,
+        "latitude":34.009529,
+        "fetched":"2024-11-03 17:14:03.033683-08:00"
+    },
+    {
+        "id":57466,
+        "name":"Panorama City",
+        "rank":1,
+        "affected":39,
+        "status":"En Route",
+        "est_fixed":"11\/03\/2024 13:00",
+        "longitude":-118.448156,
+        "latitude":34.237106,
+        "fetched":"2024-11-03 17:14:03.033683-08:00"
     }
 ]
