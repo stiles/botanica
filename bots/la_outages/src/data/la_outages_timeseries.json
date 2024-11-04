@@ -570,5 +570,27 @@
         "longitude":-118.448156,
         "latitude":34.237106,
         "fetched":"2024-11-03 17:14:03.033683-08:00"
+    },
+    {
+        "id":57471,
+        "name":"Panorama City",
+        "rank":1,
+        "affected":39,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.448156,
+        "latitude":34.237106,
+        "fetched":"2024-11-03 17:53:46.556745-08:00"
+    },
+    {
+        "id":57470,
+        "name":"Vermont Square",
+        "rank":1,
+        "affected":5,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.31146,
+        "latitude":34.009529,
+        "fetched":"2024-11-03 17:53:46.556745-08:00"
     }
 ]
