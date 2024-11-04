@@ -603,5 +603,16 @@
         "longitude":-118.31146,
         "latitude":34.009529,
         "fetched":"2024-11-03 18:24:24.616110-08:00"
+    },
+    {
+        "id":57474,
+        "name":"Gramercy Park",
+        "rank":1,
+        "affected":18,
+        "status":"Reported Outage",
+        "est_fixed":"11\/03\/2024 23:00",
+        "longitude":-118.314267,
+        "latitude":33.947278,
+        "fetched":"2024-11-03 19:04:52.852609-08:00"
     }
 ]
