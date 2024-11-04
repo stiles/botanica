@@ -1,35 +1,35 @@
 [
     {
-        "id":57515,
+        "id":57518,
         "name":"Winnetka",
-        "rank":1,
+        "rank":2,
         "affected":130,
         "status":"Assigned",
         "est_fixed":"11\/04\/2024 16:30",
         "longitude":-118.562778,
         "latitude":34.207052,
-        "fetched":1730762754298
+        "fetched":1730763148288
     },
     {
-        "id":57516,
+        "id":57517,
+        "name":"Winnetka",
+        "rank":1,
+        "affected":377,
+        "status":"Crews Working",
+        "est_fixed":"11\/04\/2024 18:30",
+        "longitude":-118.570921,
+        "latitude":34.208176,
+        "fetched":1730763148288
+    },
+    {
+        "id":57519,
         "name":"Woodland Hills",
         "rank":1,
         "affected":2,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"11\/04\/2024 13:30",
         "longitude":-118.59833,
         "latitude":34.175269,
-        "fetched":1730762754298
-    },
-    {
-        "id":57514,
-        "name":"Reseda",
-        "rank":1,
-        "affected":933,
-        "status":"Crews Working",
-        "est_fixed":"11\/04\/2024 18:30",
-        "longitude":-118.556173,
-        "latitude":34.201759,
-        "fetched":1730762754298
+        "fetched":1730763148288
     }
 ]
