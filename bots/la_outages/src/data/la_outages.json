@@ -1,6 +1,17 @@
 [
     {
-        "id":57513,
+        "id":57515,
+        "name":"Winnetka",
+        "rank":1,
+        "affected":130,
+        "status":"Assigned",
+        "est_fixed":"11\/04\/2024 16:30",
+        "longitude":-118.562778,
+        "latitude":34.207052,
+        "fetched":1730762200143
+    },
+    {
+        "id":57516,
         "name":"Woodland Hills",
         "rank":1,
         "affected":2,
@@ -8,10 +19,10 @@
         "est_fixed":"11\/04\/2024 13:30",
         "longitude":-118.59833,
         "latitude":34.175269,
-        "fetched":1730761616975
+        "fetched":1730762200143
     },
     {
-        "id":57511,
+        "id":57514,
         "name":"Reseda",
         "rank":1,
         "affected":933,
@@ -19,28 +30,6 @@
         "est_fixed":"11\/04\/2024 18:30",
         "longitude":-118.556173,
         "latitude":34.201759,
-        "fetched":1730761616975
-    },
-    {
-        "id":57510,
-        "name":"Winnetka",
-        "rank":2,
-        "affected":15,
-        "status":"Reported Outage",
-        "est_fixed":"11\/04\/2024 16:30",
-        "longitude":-118.568555,
-        "latitude":34.205298,
-        "fetched":1730761616975
-    },
-    {
-        "id":57512,
-        "name":"Winnetka",
-        "rank":1,
-        "affected":85,
-        "status":"Reported Outage",
-        "est_fixed":"11\/04\/2024 17:00",
-        "longitude":-118.573113,
-        "latitude":34.206406,
-        "fetched":1730761616975
+        "fetched":1730762200143
     }
 ]
