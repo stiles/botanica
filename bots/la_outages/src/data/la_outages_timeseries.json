@@ -658,5 +658,16 @@
         "longitude":-118.314267,
         "latitude":33.947278,
         "fetched":"2024-11-03 19:49:16.029457-08:00"
+    },
+    {
+        "id":57477,
+        "name":"Gramercy Park",
+        "rank":1,
+        "affected":18,
+        "status":"Assigned",
+        "est_fixed":"11\/03\/2024 23:00",
+        "longitude":-118.314267,
+        "latitude":33.947278,
+        "fetched":"2024-11-03 19:55:03.314441-08:00"
     }
 ]
