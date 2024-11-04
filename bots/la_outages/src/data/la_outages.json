@@ -1,6 +1,6 @@
 [
     {
-        "id":57455,
+        "id":57459,
         "name":"Los Feliz",
         "rank":1,
         "affected":12,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/03\/2024 21:30",
         "longitude":-118.279513,
         "latitude":34.107201,
-        "fetched":1730679892743
+        "fetched":1730681114288
     },
     {
-        "id":57456,
+        "id":57460,
         "name":"Panorama City",
         "rank":1,
         "affected":39,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/03\/2024 13:00",
         "longitude":-118.448156,
         "latitude":34.237106,
-        "fetched":1730679892743
+        "fetched":1730681114288
     }
 ]
