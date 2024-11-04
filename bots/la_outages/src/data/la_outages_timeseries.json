@@ -1692,5 +1692,38 @@
         "longitude":-118.5983422565,
         "latitude":34.1752738493,
         "fetched":"2024-11-04 15:50:40.073724-08:00"
+    },
+    {
+        "id":57524,
+        "name":"Winnetka",
+        "rank":2,
+        "affected":100,
+        "status":"Assigned",
+        "est_fixed":"11\/04\/2024 16:30",
+        "longitude":-118.562778,
+        "latitude":34.207052,
+        "fetched":"2024-11-04 15:56:36.348688-08:00"
+    },
+    {
+        "id":57523,
+        "name":"Winnetka",
+        "rank":1,
+        "affected":394,
+        "status":"Crews Working",
+        "est_fixed":"11\/04\/2024 18:30",
+        "longitude":-118.570921,
+        "latitude":34.208176,
+        "fetched":"2024-11-04 15:56:36.348688-08:00"
+    },
+    {
+        "id":57525,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":"11\/04\/2024 13:30",
+        "longitude":-118.59833,
+        "latitude":34.175269,
+        "fetched":"2024-11-04 15:56:36.348688-08:00"
     }
 ]
