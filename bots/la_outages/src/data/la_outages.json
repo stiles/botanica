@@ -1,6 +1,6 @@
 [
     {
-        "id":57537,
+        "id":57538,
         "name":"Hollywood Hills West",
         "rank":1,
         "affected":14,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/04\/2024 22:30",
         "longitude":-118.385003,
         "latitude":34.107979,
-        "fetched":1730782579539
+        "fetched":1730783000665
     }
 ]
