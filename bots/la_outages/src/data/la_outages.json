@@ -1,13 +1,13 @@
 [
     {
-        "id":57531,
+        "id":57532,
+        "name":"Hollywood Hills West",
         "rank":1,
         "affected":14,
         "status":"En Route",
         "est_fixed":"11\/04\/2024 22:30",
-        "name":"Hollywood Hills West",
         "longitude":-118.385003,
         "latitude":34.107979,
-        "fetched":1730776932343
+        "fetched":1730777529788
     }
 ]
