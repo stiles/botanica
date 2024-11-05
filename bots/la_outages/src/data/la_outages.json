@@ -1,6 +1,6 @@
 [
     {
-        "id":57524,
+        "id":57527,
         "name":"Winnetka",
         "rank":2,
         "affected":100,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/04\/2024 16:30",
         "longitude":-118.562778,
         "latitude":34.207052,
-        "fetched":1730764596348
+        "fetched":1730765615616
     },
     {
-        "id":57523,
+        "id":57526,
         "name":"Winnetka",
         "rank":1,
         "affected":394,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/04\/2024 18:30",
         "longitude":-118.570921,
         "latitude":34.208176,
-        "fetched":1730764596348
+        "fetched":1730765615616
     },
     {
-        "id":57525,
+        "id":57528,
         "name":"Woodland Hills",
         "rank":1,
         "affected":2,
@@ -30,6 +30,6 @@
         "est_fixed":"11\/04\/2024 13:30",
         "longitude":-118.59833,
         "latitude":34.175269,
-        "fetched":1730764596348
+        "fetched":1730765615616
     }
 ]
