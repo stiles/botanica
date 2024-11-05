@@ -2099,5 +2099,27 @@
         "longitude":-118.367338,
         "latitude":34.052082,
         "fetched":"2024-11-05 10:40:57.248302-08:00"
+    },
+    {
+        "id":57547,
+        "name":"Mid-Wilshire",
+        "rank":1,
+        "affected":16,
+        "status":"Assigned",
+        "est_fixed":"11\/05\/2024 10:30",
+        "longitude":-118.324019,
+        "latitude":34.054109,
+        "fetched":"2024-11-05 10:47:43.913605-08:00"
+    },
+    {
+        "id":57548,
+        "name":"Carthay",
+        "rank":1,
+        "affected":662,
+        "status":"En Route",
+        "est_fixed":"11\/05\/2024 13:30",
+        "longitude":-118.367338,
+        "latitude":34.052082,
+        "fetched":"2024-11-05 10:47:43.913605-08:00"
     }
 ]
