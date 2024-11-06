@@ -2847,5 +2847,16 @@
         "longitude":-118.457336,
         "latitude":34.17243,
         "fetched":"2024-11-06 03:27:48.966225-08:00"
+    },
+    {
+        "id":57587,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":201,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 06:00",
+        "longitude":-118.457336,
+        "latitude":34.17243,
+        "fetched":"2024-11-06 03:33:57.784583-08:00"
     }
 ]
