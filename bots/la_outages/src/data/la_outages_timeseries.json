@@ -3056,5 +3056,16 @@
         "longitude":-118.450431,
         "latitude":34.307773,
         "fetched":"2024-11-06 06:34:07.983769-08:00"
+    },
+    {
+        "id":57598,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":623,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":"2024-11-06 06:41:07.561743-08:00"
     }
 ]
