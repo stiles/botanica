@@ -1,13 +1,24 @@
 [
     {
-        "id":57599,
+        "id":57601,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":623,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":1730905136695
+    },
+    {
+        "id":57600,
         "name":"Sylmar",
         "rank":1,
-        "affected":623,
-        "status":"Assigned",
-        "est_fixed":"11\/06\/2024 12:30",
-        "longitude":-118.4504432429,
-        "latitude":34.3077778722,
-        "fetched":1730904788060
+        "affected":1036,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.424302,
+        "latitude":34.312256,
+        "fetched":1730905136695
     }
 ]
