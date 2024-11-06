@@ -1,211 +1,211 @@
 [
     {
-        "id":58016,
+        "id":58035,
         "name":"Sunland",
         "rank":1,
         "affected":647,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 13:30",
-        "longitude":-118.3211792173,
-        "latitude":34.2594128744,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.321167,
+        "latitude":34.259408,
+        "fetched":1730929447932
     },
     {
-        "id":58019,
+        "id":58038,
         "name":"Pacoima",
-        "rank":2,
+        "rank":1,
         "affected":43,
         "status":"Assigned",
         "est_fixed":"11\/06\/2024 15:00",
-        "longitude":-118.4062062327,
-        "latitude":34.2739608711,
-        "fetched":1730929086748
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":1730929447932
     },
     {
-        "id":58020,
+        "id":58039,
         "name":"Encino",
         "rank":1,
         "affected":142,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 13:00",
-        "longitude":-118.4742402342,
-        "latitude":34.1545868541,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.474228,
+        "latitude":34.154582,
+        "fetched":1730929447932
     },
     {
-        "id":58024,
-        "name":"Pacoima",
-        "rank":1,
-        "affected":381,
+        "id":58042,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":305,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 12:30",
-        "longitude":-118.4313812357,
-        "latitude":34.259460868,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":1730929447932
     },
     {
-        "id":58027,
+        "id":58043,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":1730929447932
+    },
+    {
+        "id":58046,
         "name":"Sun Valley",
         "rank":2,
         "affected":90,
         "status":"Assigned",
         "est_fixed":"11\/06\/2024 15:00",
-        "longitude":-118.3756982245,
-        "latitude":34.2365068687,
-        "fetched":1730929086748
+        "longitude":-118.375686,
+        "latitude":34.236502,
+        "fetched":1730929447932
     },
     {
-        "id":58028,
+        "id":58047,
         "name":"Northridge",
         "rank":1,
         "affected":0,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 13:00",
-        "longitude":-118.5587862552,
-        "latitude":34.2382678584,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":1730929447932
     },
     {
-        "id":58031,
+        "id":58050,
         "name":"Mission Hills",
         "rank":2,
         "affected":3,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 13:00",
-        "longitude":-118.4930432505,
-        "latitude":34.3138628704,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.493031,
+        "latitude":34.313858,
+        "fetched":1730929447932
     },
     {
-        "id":58032,
+        "id":58051,
         "name":"Mission Hills",
         "rank":1,
         "affected":30,
         "status":"Assigned",
         "est_fixed":"11\/06\/2024 15:30",
-        "longitude":-118.4930772506,
-        "latitude":34.3139648704,
-        "fetched":1730929086748
+        "longitude":-118.493065,
+        "latitude":34.31396,
+        "fetched":1730929447932
     },
     {
-        "id":58014,
+        "id":58033,
         "name":"Tujunga",
         "rank":1,
         "affected":331,
         "status":"Crews Working",
         "est_fixed":"11\/06\/2024 17:00",
-        "longitude":-118.2743182081,
-        "latitude":34.2433298753,
-        "fetched":1730929086748
+        "longitude":-118.274306,
+        "latitude":34.243325,
+        "fetched":1730929447932
     },
     {
-        "id":58015,
+        "id":58034,
         "name":"Sun Valley",
         "rank":1,
         "affected":346,
         "status":"Crews Working",
         "est_fixed":"11\/06\/2024 17:00",
-        "longitude":-118.3934852267,
-        "latitude":34.2277398668,
-        "fetched":1730929086748
+        "longitude":-118.393473,
+        "latitude":34.227735,
+        "fetched":1730929447932
     },
     {
-        "id":58017,
+        "id":58036,
         "name":"Chatsworth",
         "rank":1,
         "affected":75,
         "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 11:30",
-        "longitude":-118.5917582607,
-        "latitude":34.2384298565,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.591746,
+        "latitude":34.238425,
+        "fetched":1730929447932
     },
     {
-        "id":58018,
+        "id":58037,
         "name":"West Hills",
         "rank":2,
         "affected":7,
         "status":"Crews Working",
         "est_fixed":"11\/06\/2024 16:30",
-        "longitude":-118.6142342633,
-        "latitude":34.2253438538,
-        "fetched":1730929086748
+        "longitude":-118.614222,
+        "latitude":34.225339,
+        "fetched":1730929447932
     },
     {
-        "id":58021,
+        "id":58040,
         "name":"Granada Hills",
         "rank":1,
         "affected":883,
         "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 12:30",
-        "longitude":-118.5004702511,
-        "latitude":34.3054788691,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.500458,
+        "latitude":34.305474,
+        "fetched":1730929447932
     },
     {
-        "id":58022,
+        "id":58041,
         "name":"Sylmar",
         "rank":1,
         "affected":653,
         "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 13:00",
-        "longitude":-118.4128812379,
-        "latitude":34.322884876,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.412869,
+        "latitude":34.32288,
+        "fetched":1730929447932
     },
     {
-        "id":58025,
+        "id":58044,
         "name":"Canoga Park",
         "rank":1,
         "affected":371,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.6107832596,
-        "latitude":34.1868548499,
-        "fetched":1730929086748
+        "longitude":-118.610771,
+        "latitude":34.18685,
+        "fetched":1730929447932
     },
     {
-        "id":58026,
+        "id":58045,
         "name":"West Hills",
         "rank":1,
         "affected":302,
         "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 13:00",
-        "longitude":-118.6235972626,
-        "latitude":34.1975478503,
-        "fetched":1730929086748
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.623585,
+        "latitude":34.197543,
+        "fetched":1730929447932
     },
     {
-        "id":58029,
+        "id":58048,
         "name":"Mission Hills",
         "rank":3,
         "affected":2,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.4503842429,
-        "latitude":34.3078398722,
-        "fetched":1730929086748
+        "longitude":-118.450372,
+        "latitude":34.307835,
+        "fetched":1730929447932
     },
     {
-        "id":58030,
+        "id":58049,
         "name":"Granada Hills",
         "rank":2,
         "affected":1,
         "status":"En Route",
         "est_fixed":"11\/06\/2024 15:00",
-        "longitude":-118.4882552489,
-        "latitude":34.3032928695,
-        "fetched":1730929086748
-    },
-    {
-        "id":58023,
-        "name":"Sylmar",
-        "rank":2,
-        "affected":305,
-        "status":"Reported Outage",
-        "est_fixed":"11\/06\/2024 11:30",
-        "longitude":-118.4034952358,
-        "latitude":34.3162218758,
-        "fetched":1730929086748
+        "longitude":-118.488243,
+        "latitude":34.303288,
+        "fetched":1730929447932
     }
 ]
