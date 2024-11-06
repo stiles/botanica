@@ -1,6 +1,6 @@
 [
     {
-        "id":57722,
+        "id":57740,
         "name":"San Pedro",
         "rank":1,
         "affected":233,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 21:30",
         "longitude":-118.304452,
         "latitude":33.746948,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57730,
+        "id":57748,
         "name":"Sylmar",
         "rank":2,
         "affected":1037,
@@ -19,21 +19,32 @@
         "est_fixed":"11\/06\/2024 13:00",
         "longitude":-118.424302,
         "latitude":34.312256,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57732,
+        "id":57752,
         "name":"Sylmar",
-        "rank":1,
-        "affected":1285,
+        "rank":4,
+        "affected":623,
         "status":"Assigned",
-        "est_fixed":"11\/06\/2024 10:00",
-        "longitude":-118.450399,
-        "latitude":34.30775,
-        "fetched":1730916536104
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":1730917191646
     },
     {
-        "id":57736,
+        "id":57753,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":466,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 14:30",
+        "longitude":-118.623094,
+        "latitude":34.166524,
+        "fetched":1730917191646
+    },
+    {
+        "id":57755,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -41,10 +52,10 @@
         "est_fixed":"11\/06\/2024 13:00",
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57723,
+        "id":57741,
         "name":"Tujunga",
         "rank":1,
         "affected":287,
@@ -52,10 +63,21 @@
         "est_fixed":"11\/06\/2024 10:30",
         "longitude":-118.273322,
         "latitude":34.240714,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57729,
+        "id":57742,
+        "name":"Sun Valley",
+        "rank":2,
+        "affected":346,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 09:30",
+        "longitude":-118.393473,
+        "latitude":34.227735,
+        "fetched":1730917191646
+    },
+    {
+        "id":57747,
         "name":"Granada Hills",
         "rank":1,
         "affected":883,
@@ -63,21 +85,21 @@
         "est_fixed":"11\/06\/2024 12:30",
         "longitude":-118.500458,
         "latitude":34.305474,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57734,
+        "id":57751,
         "name":"Sylmar",
-        "rank":4,
-        "affected":623,
+        "rank":3,
+        "affected":890,
         "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 12:30",
-        "longitude":-118.450431,
-        "latitude":34.307773,
-        "fetched":1730916536104
+        "est_fixed":"11\/06\/2024 13:30",
+        "longitude":-118.450416,
+        "latitude":34.307761,
+        "fetched":1730917191646
     },
     {
-        "id":57739,
+        "id":57758,
         "name":"Mission Hills",
         "rank":1,
         "affected":30,
@@ -85,21 +107,10 @@
         "est_fixed":"11\/06\/2024 15:30",
         "longitude":-118.493065,
         "latitude":34.31396,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57724,
-        "name":"Sun Valley",
-        "rank":2,
-        "affected":346,
-        "status":"En Route",
-        "est_fixed":"11\/06\/2024 09:30",
-        "longitude":-118.393473,
-        "latitude":34.227735,
-        "fetched":1730916536104
-    },
-    {
-        "id":57727,
+        "id":57745,
         "name":"Chatsworth",
         "rank":1,
         "affected":75,
@@ -107,21 +118,32 @@
         "est_fixed":"11\/06\/2024 13:30",
         "longitude":-118.591746,
         "latitude":34.238425,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57733,
+        "id":57750,
         "name":"Sylmar",
-        "rank":3,
-        "affected":890,
+        "rank":1,
+        "affected":1285,
         "status":"En Route",
-        "est_fixed":"11\/06\/2024 13:30",
-        "longitude":-118.450416,
-        "latitude":34.307761,
-        "fetched":1730916536104
+        "est_fixed":"11\/06\/2024 10:00",
+        "longitude":-118.450399,
+        "latitude":34.30775,
+        "fetched":1730917191646
     },
     {
-        "id":57725,
+        "id":57756,
+        "name":"Mission Hills",
+        "rank":2,
+        "affected":2,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.450372,
+        "latitude":34.307835,
+        "fetched":1730917191646
+    },
+    {
+        "id":57743,
         "name":"Sun Valley",
         "rank":1,
         "affected":938,
@@ -129,10 +151,10 @@
         "est_fixed":"11\/06\/2024 13:00",
         "longitude":-118.394185,
         "latitude":34.23389,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57726,
+        "id":57744,
         "name":"Shadow Hills",
         "rank":1,
         "affected":647,
@@ -140,21 +162,21 @@
         "est_fixed":"11\/06\/2024 12:00",
         "longitude":-118.331835,
         "latitude":34.259653,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57728,
-        "name":"Pacoima",
+        "id":57746,
+        "name":"Lake View Terrace",
         "rank":1,
-        "affected":170,
+        "affected":95,
         "status":"Reported Outage",
         "est_fixed":"11\/06\/2024 14:00",
-        "longitude":-118.400389,
-        "latitude":34.279192,
-        "fetched":1730916536104
+        "longitude":-118.39754,
+        "latitude":34.277377,
+        "fetched":1730917191646
     },
     {
-        "id":57731,
+        "id":57749,
         "name":"Sylmar",
         "rank":5,
         "affected":305,
@@ -162,10 +184,10 @@
         "est_fixed":"11\/06\/2024 11:30",
         "longitude":-118.403483,
         "latitude":34.316217,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57735,
+        "id":57754,
         "name":"Sun Valley",
         "rank":3,
         "affected":90,
@@ -173,21 +195,10 @@
         "est_fixed":"11\/06\/2024 10:00",
         "longitude":-118.375686,
         "latitude":34.236502,
-        "fetched":1730916536104
+        "fetched":1730917191646
     },
     {
-        "id":57737,
-        "name":"Mission Hills",
-        "rank":2,
-        "affected":2,
-        "status":"Reported Outage",
-        "est_fixed":null,
-        "longitude":-118.450372,
-        "latitude":34.307835,
-        "fetched":1730916536104
-    },
-    {
-        "id":57738,
+        "id":57757,
         "name":"Sylmar",
         "rank":6,
         "affected":1,
@@ -195,6 +206,6 @@
         "est_fixed":"11\/06\/2024 13:00",
         "longitude":-118.460042,
         "latitude":34.306366,
-        "fetched":1730916536104
+        "fetched":1730917191646
     }
 ]
