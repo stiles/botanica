@@ -2528,5 +2528,16 @@
         "longitude":-118.321855,
         "latitude":34.024746,
         "fetched":"2024-11-05 17:11:41.809730-08:00"
+    },
+    {
+        "id":57569,
+        "name":"Jefferson Park",
+        "rank":1,
+        "affected":284,
+        "status":"Crews Working",
+        "est_fixed":"11\/05\/2024 18:30",
+        "longitude":-118.321023,
+        "latitude":34.025051,
+        "fetched":"2024-11-05 17:49:34.652118-08:00"
     }
 ]

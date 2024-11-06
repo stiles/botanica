@@ -1,13 +1,13 @@
 [
     {
-        "id":57567,
+        "id":57569,
         "name":"Jefferson Park",
         "rank":1,
-        "affected":36,
-        "status":"En Route",
+        "affected":284,
+        "status":"Crews Working",
         "est_fixed":"11\/05\/2024 18:30",
-        "longitude":-118.321855,
-        "latitude":34.024746,
-        "fetched":1730855501809
+        "longitude":-118.321023,
+        "latitude":34.025051,
+        "fetched":1730857774652
     }
 ]
