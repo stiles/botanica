@@ -1,6 +1,6 @@
 [
     {
-        "id":57671,
+        "id":57688,
         "name":"Sylmar",
         "rank":7,
         "affected":1,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.460042,
         "latitude":34.306366,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57672,
+        "id":57689,
         "name":"Sylmar",
         "rank":7,
         "affected":4,
@@ -19,54 +19,32 @@
         "est_fixed":null,
         "longitude":-118.495178,
         "latitude":34.324497,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57673,
-        "name":"Sylmar",
-        "rank":7,
-        "affected":7,
-        "status":null,
-        "est_fixed":null,
-        "longitude":-118.467734,
-        "latitude":34.326069,
-        "fetched":1730912921763
-    },
-    {
-        "id":57661,
+        "id":57675,
         "name":"Sun Valley",
-        "rank":1,
+        "rank":2,
         "affected":346,
         "status":"Assigned",
         "est_fixed":"11\/06\/2024 09:30",
         "longitude":-118.393473,
         "latitude":34.227735,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57664,
+        "id":57681,
         "name":"Sylmar",
         "rank":2,
-        "affected":1021,
+        "affected":1036,
         "status":"Assigned",
         "est_fixed":"11\/06\/2024 13:00",
         "longitude":-118.424302,
         "latitude":34.312256,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57670,
-        "name":"Mission Hills",
-        "rank":1,
-        "affected":19,
-        "status":"Assigned",
-        "est_fixed":"11\/06\/2024 15:30",
-        "longitude":-118.493065,
-        "latitude":34.31396,
-        "fetched":1730912921763
-    },
-    {
-        "id":57669,
+        "id":57685,
         "name":"Sylmar",
         "rank":4,
         "affected":623,
@@ -74,10 +52,21 @@
         "est_fixed":"11\/06\/2024 12:30",
         "longitude":-118.450431,
         "latitude":34.307773,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57663,
+        "id":57686,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 15:30",
+        "longitude":-118.493065,
+        "latitude":34.31396,
+        "fetched":1730913491629
+    },
+    {
+        "id":57680,
         "name":"Granada Hills",
         "rank":1,
         "affected":883,
@@ -85,21 +74,21 @@
         "est_fixed":"11\/06\/2024 12:30",
         "longitude":-118.500458,
         "latitude":34.305474,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57668,
+        "id":57684,
         "name":"Sylmar",
         "rank":3,
-        "affected":889,
+        "affected":890,
         "status":"En Route",
         "est_fixed":"11\/06\/2024 13:30",
         "longitude":-118.450416,
         "latitude":34.307761,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57660,
+        "id":57674,
         "name":"Tujunga",
         "rank":1,
         "affected":287,
@@ -107,10 +96,43 @@
         "est_fixed":"11\/06\/2024 10:30",
         "longitude":-118.273322,
         "latitude":34.240714,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57662,
+        "id":57676,
+        "name":"Sun Valley",
+        "rank":3,
+        "affected":213,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.394149,
+        "latitude":34.236289,
+        "fetched":1730913491629
+    },
+    {
+        "id":57677,
+        "name":"Sun Valley",
+        "rank":4,
+        "affected":198,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.39441,
+        "latitude":34.233544,
+        "fetched":1730913491629
+    },
+    {
+        "id":57678,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":482,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.394185,
+        "latitude":34.23389,
+        "fetched":1730913491629
+    },
+    {
+        "id":57679,
         "name":"Shadow Hills",
         "rank":1,
         "affected":646,
@@ -118,32 +140,21 @@
         "est_fixed":"11\/06\/2024 12:00",
         "longitude":-118.331835,
         "latitude":34.259653,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57665,
+        "id":57682,
         "name":"Sylmar",
         "rank":5,
-        "affected":562,
-        "status":"Reported Outage",
-        "est_fixed":"11\/06\/2024 11:00",
-        "longitude":-118.412869,
-        "latitude":34.32288,
-        "fetched":1730912921763
-    },
-    {
-        "id":57666,
-        "name":"Sylmar",
-        "rank":6,
         "affected":305,
         "status":"Reported Outage",
         "est_fixed":"11\/06\/2024 11:30",
         "longitude":-118.403483,
         "latitude":34.316217,
-        "fetched":1730912921763
+        "fetched":1730913491629
     },
     {
-        "id":57667,
+        "id":57683,
         "name":"Sylmar",
         "rank":1,
         "affected":1285,
@@ -151,6 +162,17 @@
         "est_fixed":"11\/06\/2024 10:00",
         "longitude":-118.450399,
         "latitude":34.30775,
-        "fetched":1730912921763
+        "fetched":1730913491629
+    },
+    {
+        "id":57687,
+        "name":"Sylmar",
+        "rank":6,
+        "affected":7,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:30",
+        "longitude":-118.467734,
+        "latitude":34.326069,
+        "fetched":1730913491629
     }
 ]
