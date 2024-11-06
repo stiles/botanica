@@ -3166,5 +3166,60 @@
         "longitude":-118.410907,
         "latitude":34.322731,
         "fetched":"2024-11-06 07:17:15.575880-08:00"
+    },
+    {
+        "id":57605,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":1036,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.424302,
+        "latitude":34.312256,
+        "fetched":"2024-11-06 07:27:08.611889-08:00"
+    },
+    {
+        "id":57608,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:30",
+        "longitude":-118.493065,
+        "latitude":34.31396,
+        "fetched":"2024-11-06 07:27:08.611889-08:00"
+    },
+    {
+        "id":57607,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":623,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":"2024-11-06 07:27:08.611889-08:00"
+    },
+    {
+        "id":57606,
+        "name":"Sylmar",
+        "rank":3,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:00",
+        "longitude":-118.410907,
+        "latitude":34.322731,
+        "fetched":"2024-11-06 07:27:08.611889-08:00"
+    },
+    {
+        "id":57609,
+        "name":"Sylmar",
+        "rank":4,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:30",
+        "longitude":-118.467734,
+        "latitude":34.326069,
+        "fetched":"2024-11-06 07:27:08.611889-08:00"
     }
 ]
