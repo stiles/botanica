@@ -3133,5 +3133,38 @@
         "longitude":-118.424302,
         "latitude":34.312256,
         "fetched":"2024-11-06 07:07:21.617474-08:00"
+    },
+    {
+        "id":57602,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":1036,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.424302,
+        "latitude":34.312256,
+        "fetched":"2024-11-06 07:17:15.575880-08:00"
+    },
+    {
+        "id":57604,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":623,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":"2024-11-06 07:17:15.575880-08:00"
+    },
+    {
+        "id":57603,
+        "name":"Sylmar",
+        "rank":3,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:00",
+        "longitude":-118.410907,
+        "latitude":34.322731,
+        "fetched":"2024-11-06 07:17:15.575880-08:00"
     }
 ]
