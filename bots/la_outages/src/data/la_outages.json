@@ -1,6 +1,6 @@
 [
     {
-        "id":57586,
+        "id":57587,
         "name":"Van Nuys",
         "rank":1,
         "affected":201,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/06\/2024 06:00",
         "longitude":-118.457336,
         "latitude":34.17243,
-        "fetched":1730892107973
+        "fetched":1730892468966
     }
 ]
