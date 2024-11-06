@@ -16179,5 +16179,192 @@
         "longitude":-118.447066,
         "latitude":34.310875,
         "fetched":"2024-11-06 15:52:12.065220-08:00"
+    },
+    {
+        "id":58191,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":43,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58196,
+        "name":"Sylmar",
+        "rank":3,
+        "affected":305,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58197,
+        "name":"Pacoima",
+        "rank":2,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.431661,
+        "latitude":34.259212,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58198,
+        "name":"Pacoima",
+        "rank":3,
+        "affected":24,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:30",
+        "longitude":-118.417192,
+        "latitude":34.252569,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58199,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58200,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":328,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.579291,
+        "latitude":34.250546,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58188,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":291,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58189,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":1114,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.484114,
+        "latitude":34.19353,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58190,
+        "name":"Sunland",
+        "rank":1,
+        "affected":647,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.321167,
+        "latitude":34.259408,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58195,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":649,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.412869,
+        "latitude":34.32288,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58203,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.450372,
+        "latitude":34.307835,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58193,
+        "name":"Encino",
+        "rank":1,
+        "affected":136,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.474228,
+        "latitude":34.154582,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58194,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":378,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 11:30",
+        "longitude":-118.440184,
+        "latitude":34.3101,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58201,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":90,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.375686,
+        "latitude":34.236502,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58192,
+        "name":"Encino",
+        "rank":2,
+        "affected":6,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.476144,
+        "latitude":34.153794,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58202,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
+    },
+    {
+        "id":58204,
+        "name":"Sylmar",
+        "rank":4,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.447066,
+        "latitude":34.310875,
+        "fetched":"2024-11-06 15:58:04.356757-08:00"
     }
 ]
