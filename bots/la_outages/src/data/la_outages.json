@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":57565,
+        "name":"Jefferson Park",
+        "rank":1,
+        "affected":284,
+        "status":"Assigned",
+        "est_fixed":"11\/05\/2024 20:30",
+        "longitude":-118.321023,
+        "latitude":34.025051,
+        "fetched":1730853820462
+    }
 ]
