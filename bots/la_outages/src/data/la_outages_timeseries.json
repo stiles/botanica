@@ -2539,5 +2539,27 @@
         "longitude":-118.321023,
         "latitude":34.025051,
         "fetched":"2024-11-05 17:49:34.652118-08:00"
+    },
+    {
+        "id":57571,
+        "name":"Jefferson Park",
+        "rank":1,
+        "affected":284,
+        "status":"Crews Working",
+        "est_fixed":"11\/05\/2024 20:30",
+        "longitude":-118.321023,
+        "latitude":34.025051,
+        "fetched":"2024-11-05 18:18:06.288986-08:00"
+    },
+    {
+        "id":57572,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":20,
+        "status":"Crews Working",
+        "est_fixed":"11\/05\/2024 17:30",
+        "longitude":-118.420999,
+        "latitude":34.16261,
+        "fetched":"2024-11-05 18:18:06.288986-08:00"
     }
 ]

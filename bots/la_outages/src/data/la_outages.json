@@ -1,13 +1,24 @@
 [
     {
-        "id":57569,
+        "id":57571,
         "name":"Jefferson Park",
         "rank":1,
         "affected":284,
         "status":"Crews Working",
-        "est_fixed":"11\/05\/2024 18:30",
+        "est_fixed":"11\/05\/2024 20:30",
         "longitude":-118.321023,
         "latitude":34.025051,
-        "fetched":1730857774652
+        "fetched":1730859486288
+    },
+    {
+        "id":57572,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":20,
+        "status":"Crews Working",
+        "est_fixed":"11\/05\/2024 17:30",
+        "longitude":-118.420999,
+        "latitude":34.16261,
+        "fetched":1730859486288
     }
 ]
