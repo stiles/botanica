@@ -13781,5 +13781,203 @@
         "longitude":-118.447066,
         "latitude":34.310875,
         "fetched":"2024-11-06 14:21:26.322135-08:00"
+    },
+    {
+        "id":58091,
+        "name":"West Hills",
+        "rank":1,
+        "affected":252,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 16:00",
+        "longitude":-118.615338,
+        "latitude":34.219605,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58092,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":43,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58093,
+        "name":"Encino",
+        "rank":1,
+        "affected":142,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.474228,
+        "latitude":34.154582,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58095,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":305,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58096,
+        "name":"Pacoima",
+        "rank":2,
+        "affected":24,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:30",
+        "longitude":-118.417192,
+        "latitude":34.252569,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58097,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58099,
+        "name":"Sun Valley",
+        "rank":2,
+        "affected":90,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.375686,
+        "latitude":34.236502,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58100,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58103,
+        "name":"Mission Hills",
+        "rank":2,
+        "affected":3,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.493031,
+        "latitude":34.313858,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58104,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":30,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:30",
+        "longitude":-118.493065,
+        "latitude":34.31396,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58089,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":346,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.393473,
+        "latitude":34.227735,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58090,
+        "name":"Sunland",
+        "rank":1,
+        "affected":647,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.321167,
+        "latitude":34.259408,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58094,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":653,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.412869,
+        "latitude":34.32288,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58098,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":371,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.610771,
+        "latitude":34.18685,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58101,
+        "name":"Mission Hills",
+        "rank":3,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.450372,
+        "latitude":34.307835,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58087,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":291,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58088,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":273,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 18:30",
+        "longitude":-118.47509,
+        "latitude":34.193854,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
+    },
+    {
+        "id":58102,
+        "name":"Sylmar",
+        "rank":3,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.447066,
+        "latitude":34.310875,
+        "fetched":"2024-11-06 14:31:17.246352-08:00"
     }
 ]
