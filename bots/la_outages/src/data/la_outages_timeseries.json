@@ -4332,5 +4332,159 @@
         "longitude":-118.455661,
         "latitude":34.296252,
         "fetched":"2024-11-06 08:54:51.573606-08:00"
+    },
+    {
+        "id":57671,
+        "name":"Sylmar",
+        "rank":7,
+        "affected":1,
+        "status":null,
+        "est_fixed":null,
+        "longitude":-118.460042,
+        "latitude":34.306366,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57672,
+        "name":"Sylmar",
+        "rank":7,
+        "affected":4,
+        "status":null,
+        "est_fixed":null,
+        "longitude":-118.495178,
+        "latitude":34.324497,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57673,
+        "name":"Sylmar",
+        "rank":7,
+        "affected":7,
+        "status":null,
+        "est_fixed":null,
+        "longitude":-118.467734,
+        "latitude":34.326069,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57661,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":346,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 09:30",
+        "longitude":-118.393473,
+        "latitude":34.227735,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57664,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":1021,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 13:00",
+        "longitude":-118.424302,
+        "latitude":34.312256,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57670,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 15:30",
+        "longitude":-118.493065,
+        "latitude":34.31396,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57669,
+        "name":"Sylmar",
+        "rank":4,
+        "affected":623,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.450431,
+        "latitude":34.307773,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57663,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":883,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 12:30",
+        "longitude":-118.500458,
+        "latitude":34.305474,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57668,
+        "name":"Sylmar",
+        "rank":3,
+        "affected":889,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 13:30",
+        "longitude":-118.450416,
+        "latitude":34.307761,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57660,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":287,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 10:30",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57662,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":646,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 12:00",
+        "longitude":-118.331835,
+        "latitude":34.259653,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57665,
+        "name":"Sylmar",
+        "rank":5,
+        "affected":562,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:00",
+        "longitude":-118.412869,
+        "latitude":34.32288,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57666,
+        "name":"Sylmar",
+        "rank":6,
+        "affected":305,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 11:30",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
+    },
+    {
+        "id":57667,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":1285,
+        "status":"Reported Outage",
+        "est_fixed":"11\/06\/2024 10:00",
+        "longitude":-118.450399,
+        "latitude":34.30775,
+        "fetched":"2024-11-06 09:00:46.052281-08:00"
     }
 ]
