@@ -8,7 +8,7 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58618,
@@ -19,7 +19,7 @@
         "est_fixed":null,
         "longitude":-118.543173,
         "latitude":34.175118,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58621,
@@ -30,7 +30,7 @@
         "est_fixed":null,
         "longitude":-118.603895,
         "latitude":34.257511,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58622,
@@ -41,7 +41,7 @@
         "est_fixed":null,
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58623,
@@ -52,7 +52,7 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58619,
@@ -63,7 +63,7 @@
         "est_fixed":"11\/06\/2024 15:00",
         "longitude":-118.406194,
         "latitude":34.273956,
-        "fetched":1730962625270
+        "fetched":1730963075586
     },
     {
         "id":58620,
@@ -74,6 +74,6 @@
         "est_fixed":"11\/07\/2024 00:00",
         "longitude":-118.474228,
         "latitude":34.154582,
-        "fetched":1730962625270
+        "fetched":1730963075586
     }
 ]
