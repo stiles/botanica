@@ -1,6 +1,6 @@
 [
     {
-        "id":58688,
+        "id":58692,
         "name":"West Hills",
         "rank":1,
         "affected":7,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730975163782
+        "fetched":1730975734098
     },
     {
-        "id":58689,
+        "id":58693,
         "name":"Woodland Hills",
         "rank":1,
         "affected":8,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730975163782
+        "fetched":1730975734098
     },
     {
-        "id":58690,
+        "id":58694,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -30,10 +30,10 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730975163782
+        "fetched":1730975734098
     },
     {
-        "id":58687,
+        "id":58691,
         "name":"Tujunga",
         "rank":1,
         "affected":306,
@@ -41,6 +41,6 @@
         "est_fixed":"11\/06\/2024 17:00",
         "longitude":-118.273322,
         "latitude":34.240714,
-        "fetched":1730975163782
+        "fetched":1730975734098
     }
 ]
