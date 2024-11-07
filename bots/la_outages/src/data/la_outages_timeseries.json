@@ -25837,5 +25837,49 @@
         "longitude":-118.431096,
         "latitude":34.259132,
         "fetched":"2024-11-07 11:06:57.822230-08:00"
+    },
+    {
+        "id":58810,
+        "name":"West Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 10:30",
+        "longitude":-118.606493,
+        "latitude":34.227266,
+        "fetched":"2024-11-07 11:15:37.016198-08:00"
+    },
+    {
+        "id":58812,
+        "name":"Hollywood Hills West",
+        "rank":1,
+        "affected":126,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 14:30",
+        "longitude":-118.387455,
+        "latitude":34.10688,
+        "fetched":"2024-11-07 11:15:37.016198-08:00"
+    },
+    {
+        "id":58809,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":349,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 12:30",
+        "longitude":-118.349998,
+        "latitude":34.259043,
+        "fetched":"2024-11-07 11:15:37.016198-08:00"
+    },
+    {
+        "id":58811,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":13,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 12:30",
+        "longitude":-118.431096,
+        "latitude":34.259132,
+        "fetched":"2024-11-07 11:15:37.016198-08:00"
     }
 ]
