@@ -8,7 +8,7 @@
         "name":"Silver Lake",
         "longitude":-118.26059,
         "latitude":34.089488,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58454,
@@ -19,7 +19,7 @@
         "name":"Sylmar",
         "longitude":-118.403483,
         "latitude":34.316217,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58455,
@@ -30,7 +30,7 @@
         "name":"Chatsworth",
         "longitude":-118.603895,
         "latitude":34.257511,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58456,
@@ -41,7 +41,7 @@
         "name":"Tujunga",
         "longitude":-118.273322,
         "latitude":34.240714,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58457,
@@ -52,7 +52,7 @@
         "name":"Pacoima",
         "longitude":-118.406194,
         "latitude":34.273956,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58458,
@@ -63,7 +63,7 @@
         "name":"Woodland Hills",
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58459,
@@ -74,7 +74,7 @@
         "name":"Tarzana",
         "longitude":-118.535861,
         "latitude":34.178168,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58460,
@@ -85,7 +85,7 @@
         "name":"Pacoima",
         "longitude":-118.431661,
         "latitude":34.259212,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58461,
@@ -96,7 +96,7 @@
         "name":"Tarzana",
         "longitude":-118.543173,
         "latitude":34.175118,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58462,
@@ -107,7 +107,7 @@
         "name":"Encino",
         "longitude":-118.474228,
         "latitude":34.154582,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58463,
@@ -118,7 +118,7 @@
         "name":"Granada Hills",
         "longitude":-118.508319,
         "latitude":34.259953,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58464,
@@ -129,7 +129,7 @@
         "name":"Northridge",
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58465,
@@ -140,7 +140,7 @@
         "name":"Chatsworth",
         "longitude":-118.572097,
         "latitude":34.244974,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58466,
@@ -151,7 +151,7 @@
         "name":"West Hills",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58467,
@@ -162,7 +162,7 @@
         "name":"Chatsworth",
         "longitude":-118.579291,
         "latitude":34.250546,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58468,
@@ -173,7 +173,7 @@
         "name":"Shadow Hills",
         "longitude":-118.346949,
         "latitude":34.261665,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58469,
@@ -184,7 +184,7 @@
         "name":"Van Nuys",
         "longitude":-118.484114,
         "latitude":34.19353,
-        "fetched":1730951193714
+        "fetched":1730951548224
     },
     {
         "id":58470,
@@ -195,6 +195,6 @@
         "name":"Sylmar",
         "longitude":-118.440184,
         "latitude":34.3101,
-        "fetched":1730951193714
+        "fetched":1730951548224
     }
 ]
