@@ -1,6 +1,6 @@
 [
     {
-        "id":58822,
+        "id":58825,
         "name":"West Hills",
         "rank":1,
         "affected":10,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/07\/2024 10:30",
         "longitude":-118.606493,
         "latitude":34.227266,
-        "fetched":1731009939678
+        "fetched":1731010507413
     },
     {
-        "id":58823,
+        "id":58826,
         "name":"Hollywood Hills West",
         "rank":1,
         "affected":126,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/07\/2024 14:30",
         "longitude":-118.387455,
         "latitude":34.10688,
-        "fetched":1731009939678
+        "fetched":1731010507413
     },
     {
-        "id":58824,
+        "id":58827,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -30,17 +30,6 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1731009939678
-    },
-    {
-        "id":58821,
-        "name":"Shadow Hills",
-        "rank":1,
-        "affected":349,
-        "status":"Crews Working",
-        "est_fixed":"11\/07\/2024 12:30",
-        "longitude":-118.349998,
-        "latitude":34.259043,
-        "fetched":1731009939678
+        "fetched":1731010507413
     }
 ]
