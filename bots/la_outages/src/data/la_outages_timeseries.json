@@ -20964,5 +20964,126 @@
         "longitude":-118.403483,
         "latitude":34.316217,
         "fetched":"2024-11-06 21:38:47.273922-08:00"
+    },
+    {
+        "id":58574,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.620065,
+        "latitude":34.213596,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58575,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.543173,
+        "latitude":34.175118,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58577,
+        "name":"Encino",
+        "rank":1,
+        "affected":240,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 00:00",
+        "longitude":-118.474228,
+        "latitude":34.154582,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58578,
+        "name":"Chatsworth",
+        "rank":2,
+        "affected":13,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.603895,
+        "latitude":34.257511,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58580,
+        "name":"Pacoima",
+        "rank":2,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.431661,
+        "latitude":34.259212,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58581,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58583,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58573,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":348,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.346949,
+        "latitude":34.261665,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58576,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":43,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58582,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":586,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 04:00",
+        "longitude":-118.579291,
+        "latitude":34.250546,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
+    },
+    {
+        "id":58579,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":305,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":"2024-11-06 21:44:44.733126-08:00"
     }
 ]
