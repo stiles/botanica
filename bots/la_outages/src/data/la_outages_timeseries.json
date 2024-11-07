@@ -18896,5 +18896,192 @@
         "longitude":-118.440184,
         "latitude":34.3101,
         "fetched":"2024-11-06 19:52:28.224568-08:00"
+    },
+    {
+        "id":58471,
+        "name":"Silver Lake",
+        "rank":1,
+        "affected":42,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 20:00",
+        "longitude":-118.2606021931,
+        "latitude":34.0894928592,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58472,
+        "name":"Sylmar",
+        "rank":2,
+        "affected":305,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.4034952358,
+        "latitude":34.3162218758,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58473,
+        "name":"Chatsworth",
+        "rank":2,
+        "affected":13,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.6039072643,
+        "latitude":34.2575158579,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58476,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.6206522592,
+        "latitude":34.1621948466,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58478,
+        "name":"Pacoima",
+        "rank":2,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.4316732357,
+        "latitude":34.259216868,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58479,
+        "name":"Tarzana",
+        "rank":2,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.5431852473,
+        "latitude":34.1751228524,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58480,
+        "name":"Encino",
+        "rank":1,
+        "affected":240,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 00:00",
+        "longitude":-118.4742402342,
+        "latitude":34.1545868541,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58482,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.5587862552,
+        "latitude":34.2382678584,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58483,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.6200772633,
+        "latitude":34.2136008522,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58487,
+        "name":"Sylmar",
+        "rank":1,
+        "affected":378,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 11:30",
+        "longitude":-118.4401962414,
+        "latitude":34.3101048731,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58474,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":291,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.2733342077,
+        "latitude":34.2407188751,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58475,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":43,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.4062062327,
+        "latitude":34.2739608711,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58477,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":250,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 01:00",
+        "longitude":-118.5358732464,
+        "latitude":34.1781728532,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58481,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":9,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 22:00",
+        "longitude":-118.5083312486,
+        "latitude":34.2599578637,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58484,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":586,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 04:00",
+        "longitude":-118.5793032596,
+        "latitude":34.2505508586,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58485,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":348,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.3469612218,
+        "latitude":34.2616698731,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
+    },
+    {
+        "id":58486,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":1114,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.484126239,
+        "latitude":34.1935348578,
+        "fetched":"2024-11-06 19:58:12.011902-08:00"
     }
 ]
