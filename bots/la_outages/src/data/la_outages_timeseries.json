@@ -26629,5 +26629,38 @@
         "longitude":-118.5966632611,
         "latitude":34.2333298566,
         "fetched":"2024-11-07 13:40:17.535363-08:00"
+    },
+    {
+        "id":58845,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 13:46:08.881731-08:00"
+    },
+    {
+        "id":58843,
+        "name":"West Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.606493,
+        "latitude":34.227266,
+        "fetched":"2024-11-07 13:46:08.881731-08:00"
+    },
+    {
+        "id":58844,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":112,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.596651,
+        "latitude":34.233325,
+        "fetched":"2024-11-07 13:46:08.881731-08:00"
     }
 ]
