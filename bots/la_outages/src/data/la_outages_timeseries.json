@@ -26805,5 +26805,27 @@
         "longitude":-118.6065052622,
         "latitude":34.2272708545,
         "fetched":"2024-11-07 14:33:11.564390-08:00"
+    },
+    {
+        "id":58851,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.5587862552,
+        "latitude":34.2382678584,
+        "fetched":"2024-11-07 14:40:14.913222-08:00"
+    },
+    {
+        "id":58850,
+        "name":"West Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.6065052622,
+        "latitude":34.2272708545,
+        "fetched":"2024-11-07 14:40:14.913222-08:00"
     }
 ]
