@@ -26970,5 +26970,16 @@
         "longitude":-118.6065052622,
         "latitude":34.2272708554,
         "fetched":"2024-11-07 15:42:36.098850-08:00"
+    },
+    {
+        "id":58858,
+        "name":"West Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.6065052622,
+        "latitude":34.2272708554,
+        "fetched":"2024-11-07 15:48:30.067458-08:00"
     }
 ]
