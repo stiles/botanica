@@ -1,6 +1,6 @@
 [
     {
-        "id":58603,
+        "id":58610,
         "name":"West Hills",
         "rank":1,
         "affected":7,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58604,
+        "id":58611,
         "name":"Tarzana",
         "rank":1,
         "affected":8,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.543173,
         "latitude":34.175118,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58608,
+        "id":58615,
         "name":"Woodland Hills",
         "rank":1,
         "affected":8,
@@ -30,10 +30,10 @@
         "est_fixed":null,
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58609,
+        "id":58616,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -41,10 +41,10 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58605,
+        "id":58612,
         "name":"Pacoima",
         "rank":1,
         "affected":43,
@@ -52,10 +52,10 @@
         "est_fixed":"11\/06\/2024 15:00",
         "longitude":-118.406194,
         "latitude":34.273956,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58607,
+        "id":58614,
         "name":"Encino",
         "rank":1,
         "affected":240,
@@ -63,10 +63,10 @@
         "est_fixed":"11\/07\/2024 00:00",
         "longitude":-118.474228,
         "latitude":34.154582,
-        "fetched":1730961435720
+        "fetched":1730961915434
     },
     {
-        "id":58606,
+        "id":58613,
         "name":"Pacoima",
         "rank":2,
         "affected":42,
@@ -74,6 +74,6 @@
         "est_fixed":"11\/07\/2024 02:00",
         "longitude":-118.407069,
         "latitude":34.274384,
-        "fetched":1730961435720
+        "fetched":1730961915434
     }
 ]
