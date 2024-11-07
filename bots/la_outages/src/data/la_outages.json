@@ -1,6 +1,6 @@
 [
     {
-        "id":58839,
+        "id":58842,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.5587862552,
         "latitude":34.2382678593,
-        "fetched":1731014479027
+        "fetched":1731014907793
     },
     {
-        "id":58837,
+        "id":58840,
         "name":"West Hills",
         "rank":1,
         "affected":10,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.6065052622,
         "latitude":34.2272708554,
-        "fetched":1731014479027
+        "fetched":1731014907793
     },
     {
-        "id":58838,
+        "id":58841,
         "name":"Canoga Park",
         "rank":1,
         "affected":112,
@@ -30,6 +30,6 @@
         "est_fixed":null,
         "longitude":-118.5966632611,
         "latitude":34.2333298566,
-        "fetched":1731014479027
+        "fetched":1731014907793
     }
 ]
