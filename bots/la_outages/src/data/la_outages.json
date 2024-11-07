@@ -1,6 +1,6 @@
 [
     {
-        "id":58762,
+        "id":58764,
         "name":"Shadow Hills",
         "rank":1,
         "affected":349,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 19:00",
         "longitude":-118.346949,
         "latitude":34.261665,
-        "fetched":1730987556867
+        "fetched":1730987894361
     },
     {
-        "id":58763,
+        "id":58765,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730987556867
+        "fetched":1730987894361
     }
 ]
