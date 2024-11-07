@@ -21998,5 +21998,82 @@
         "longitude":-118.474228,
         "latitude":34.154582,
         "fetched":"2024-11-06 23:04:35.586486-08:00"
+    },
+    {
+        "id":58625,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.620065,
+        "latitude":34.213596,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58626,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.543173,
+        "latitude":34.175118,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58628,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":13,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.603895,
+        "latitude":34.257511,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58629,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58630,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58624,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":348,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.346949,
+        "latitude":34.261665,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
+    },
+    {
+        "id":58627,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":85,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":"2024-11-06 23:13:26.930720-08:00"
     }
 ]
