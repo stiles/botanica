@@ -25705,5 +25705,27 @@
         "longitude":-118.431096,
         "latitude":34.259132,
         "fetched":"2024-11-07 10:32:10.221657-08:00"
+    },
+    {
+        "id":58802,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":349,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 12:30",
+        "longitude":-118.349998,
+        "latitude":34.259043,
+        "fetched":"2024-11-07 10:40:53.744605-08:00"
+    },
+    {
+        "id":58803,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":13,
+        "status":"En Route",
+        "est_fixed":"11\/07\/2024 12:30",
+        "longitude":-118.431096,
+        "latitude":34.259132,
+        "fetched":"2024-11-07 10:40:53.744605-08:00"
     }
 ]
