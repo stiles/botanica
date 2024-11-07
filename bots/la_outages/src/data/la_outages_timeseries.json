@@ -22724,5 +22724,71 @@
         "longitude":-118.273322,
         "latitude":34.240714,
         "fetched":"2024-11-07 00:47:54.398547-08:00"
+    },
+    {
+        "id":58656,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.620065,
+        "latitude":34.213596,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
+    },
+    {
+        "id":58657,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":13,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 04:00",
+        "longitude":-118.603895,
+        "latitude":34.257511,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
+    },
+    {
+        "id":58658,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
+    },
+    {
+        "id":58659,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
+    },
+    {
+        "id":58655,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":348,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.346949,
+        "latitude":34.261665,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
+    },
+    {
+        "id":58654,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":306,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-07 00:53:34.557603-08:00"
     }
 ]
