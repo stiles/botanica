@@ -25276,5 +25276,27 @@
         "longitude":-118.558774,
         "latitude":34.238263,
         "fetched":"2024-11-07 08:04:18.359055-08:00"
+    },
+    {
+        "id":58783,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 08:13:49.734648-08:00"
+    },
+    {
+        "id":58782,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":349,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 12:30",
+        "longitude":-118.349998,
+        "latitude":34.259043,
+        "fetched":"2024-11-07 08:13:49.734648-08:00"
     }
 ]
