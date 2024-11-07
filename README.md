@@ -184,19 +184,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-### Step 7: Updating the inventory
-After creating a new bot, `create_bot.py` will automatically add an entry to the **bots inventory** section in the `README.md`. Here’s an example of what this section might look like:
-
-```markdown
-#### Bots inventory
-- **tiktok_followers**: Outputs to `./src/data/tiktok_followers`
-- **tsla_stock**: Outputs to `./src/data/tsla_stock`
-- **crumble_menu**: Outputs to `./src/data/crumble_menu`
-```
-
 ### Future enhancements:
 - **Automated cleanup**: Add a feature to automatically archive or delete old files from S3.
 - **Comprehensive error handling**: Improve the bot’s codebase to handle more specific errors and retry failed requests.
-- **Bot monitoring**: Consider setting up a monitoring system that alerts you if any bot encounters repeated failures.
-- **crumbl_menu**: Outputs to `./src/data/crumbl_menu`
-- **la_outages**: Outputs to `./src/data/la_outages`
+- **Bot monitoring**: A monitoring system that alerts if a bot encounters repeated failures.
+- **Automate inventory collection**: Keep an updated list of bots, metadata and output paths. 
