@@ -24946,5 +24946,27 @@
         "longitude":-118.558774,
         "latitude":34.238263,
         "fetched":"2024-11-07 06:15:21.395585-08:00"
+    },
+    {
+        "id":58766,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":349,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.346949,
+        "latitude":34.261665,
+        "fetched":"2024-11-07 06:25:08.141826-08:00"
+    },
+    {
+        "id":58767,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 06:25:08.141826-08:00"
     }
 ]
