@@ -1,3 +1,35 @@
 [
-
+    {
+        "id":58839,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.5587862552,
+        "latitude":34.2382678593,
+        "fetched":1731014479027
+    },
+    {
+        "id":58837,
+        "name":"West Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.6065052622,
+        "latitude":34.2272708554,
+        "fetched":1731014479027
+    },
+    {
+        "id":58838,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":112,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.5966632611,
+        "latitude":34.2333298566,
+        "fetched":1731014479027
+    }
 ]
