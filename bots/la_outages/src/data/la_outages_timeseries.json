@@ -24649,5 +24649,60 @@
         "longitude":-118.62064,
         "latitude":34.16219,
         "fetched":"2024-11-07 05:05:28.949393-08:00"
+    },
+    {
+        "id":58757,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 05:16:13.072130-08:00"
+    },
+    {
+        "id":58753,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":306,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-07 05:16:13.072130-08:00"
+    },
+    {
+        "id":58754,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":349,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.346949,
+        "latitude":34.261665,
+        "fetched":"2024-11-07 05:16:13.072130-08:00"
+    },
+    {
+        "id":58755,
+        "name":"Shadow Hills",
+        "rank":2,
+        "affected":8,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.342277,
+        "latitude":34.252062,
+        "fetched":"2024-11-07 05:16:13.072130-08:00"
+    },
+    {
+        "id":58756,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.620065,
+        "latitude":34.213596,
+        "fetched":"2024-11-07 05:16:13.072130-08:00"
     }
 ]
