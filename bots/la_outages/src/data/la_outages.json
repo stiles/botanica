@@ -8,7 +8,7 @@
         "est_fixed":null,
         "longitude":-118.596651,
         "latitude":34.233325,
-        "fetched":1731012271271
+        "fetched":1731012628665
     },
     {
         "id":58833,
@@ -19,7 +19,7 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1731012271271
+        "fetched":1731012628665
     },
     {
         "id":58831,
@@ -30,6 +30,6 @@
         "est_fixed":null,
         "longitude":-118.606493,
         "latitude":34.227266,
-        "fetched":1731012271271
+        "fetched":1731012628665
     }
 ]
