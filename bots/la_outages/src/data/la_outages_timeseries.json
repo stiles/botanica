@@ -22845,5 +22845,60 @@
         "longitude":-118.6039072643,
         "latitude":34.2575158579,
         "fetched":"2024-11-07 00:59:30.802362-08:00"
+    },
+    {
+        "id":58661,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.6200772633,
+        "latitude":34.2136008522,
+        "fetched":"2024-11-07 01:07:42.761020-08:00"
+    },
+    {
+        "id":58663,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.6206522592,
+        "latitude":34.1621948466,
+        "fetched":"2024-11-07 01:07:42.761020-08:00"
+    },
+    {
+        "id":58664,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.5587862552,
+        "latitude":34.2382678584,
+        "fetched":"2024-11-07 01:07:42.761020-08:00"
+    },
+    {
+        "id":58660,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":306,
+        "status":"En Route",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.2733342077,
+        "latitude":34.2407188751,
+        "fetched":"2024-11-07 01:07:42.761020-08:00"
+    },
+    {
+        "id":58662,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":13,
+        "status":"En Route",
+        "est_fixed":"11\/07\/2024 04:00",
+        "longitude":-118.6039072643,
+        "latitude":34.2575158579,
+        "fetched":"2024-11-07 01:07:42.761020-08:00"
     }
 ]
