@@ -23571,5 +23571,49 @@
         "longitude":-118.273322,
         "latitude":34.240714,
         "fetched":"2024-11-07 02:42:47.251388-08:00"
+    },
+    {
+        "id":58696,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.620065,
+        "latitude":34.213596,
+        "fetched":"2024-11-07 02:48:44.962183-08:00"
+    },
+    {
+        "id":58697,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":"2024-11-07 02:48:44.962183-08:00"
+    },
+    {
+        "id":58698,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":"2024-11-07 02:48:44.962183-08:00"
+    },
+    {
+        "id":58695,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":306,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.273322,
+        "latitude":34.240714,
+        "fetched":"2024-11-07 02:48:44.962183-08:00"
     }
 ]
