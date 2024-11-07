@@ -1,24 +1,24 @@
 [
     {
-        "id":58791,
-        "name":"Northridge",
-        "rank":1,
-        "affected":0,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.558774,
-        "latitude":34.238263,
-        "fetched":1731000170326
-    },
-    {
-        "id":58790,
-        "name":"Shadow Hills",
+        "id":58792,
         "rank":1,
         "affected":349,
         "status":"Crews Working",
         "est_fixed":"11\/07\/2024 12:30",
+        "name":"Shadow Hills",
         "longitude":-118.349998,
         "latitude":34.259043,
-        "fetched":1731000170326
+        "fetched":1731000642436
+    },
+    {
+        "id":58793,
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "name":"Northridge",
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":1731000642436
     }
 ]
