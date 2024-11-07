@@ -1,24 +1,24 @@
 [
     {
-        "id":58849,
+        "id":58851,
         "name":"Northridge",
         "rank":1,
         "affected":0,
         "status":"Assigned",
         "est_fixed":null,
-        "longitude":-118.558774,
-        "latitude":34.238263,
-        "fetched":1731018274870
+        "longitude":-118.5587862552,
+        "latitude":34.2382678584,
+        "fetched":1731018791564
     },
     {
-        "id":58848,
+        "id":58850,
         "name":"West Hills",
         "rank":1,
         "affected":10,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.606493,
-        "latitude":34.227266,
-        "fetched":1731018274870
+        "longitude":-118.6065052622,
+        "latitude":34.2272708545,
+        "fetched":1731018791564
     }
 ]
