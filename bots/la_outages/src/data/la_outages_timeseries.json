@@ -22504,5 +22504,49 @@
         "longitude":-118.346949,
         "latitude":34.261665,
         "fetched":"2024-11-07 00:09:28.059742-08:00"
+    },
+    {
+        "id":58646,
+        "name":"West Hills",
+        "rank":1,
+        "affected":7,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.6200772633,
+        "latitude":34.2136008522,
+        "fetched":"2024-11-07 00:20:44.265135-08:00"
+    },
+    {
+        "id":58647,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.6206522592,
+        "latitude":34.1621948466,
+        "fetched":"2024-11-07 00:20:44.265135-08:00"
+    },
+    {
+        "id":58648,
+        "name":"Northridge",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.5587862552,
+        "latitude":34.2382678584,
+        "fetched":"2024-11-07 00:20:44.265135-08:00"
+    },
+    {
+        "id":58645,
+        "name":"Shadow Hills",
+        "rank":1,
+        "affected":348,
+        "status":"Crews Working",
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.3469612218,
+        "latitude":34.2616698731,
+        "fetched":"2024-11-07 00:20:44.265135-08:00"
     }
 ]
