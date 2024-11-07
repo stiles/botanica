@@ -1,6 +1,6 @@
 [
     {
-        "id":58535,
+        "id":58549,
         "name":"West Hills",
         "rank":1,
         "affected":7,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58537,
+        "id":58550,
         "name":"Tarzana",
         "rank":1,
         "affected":8,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.543173,
         "latitude":34.175118,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58539,
+        "id":58552,
         "name":"Encino",
         "rank":1,
         "affected":240,
@@ -30,10 +30,10 @@
         "est_fixed":"11\/07\/2024 00:00",
         "longitude":-118.474228,
         "latitude":34.154582,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58540,
+        "id":58553,
         "name":"Chatsworth",
         "rank":2,
         "affected":13,
@@ -41,10 +41,10 @@
         "est_fixed":null,
         "longitude":-118.603895,
         "latitude":34.257511,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58541,
+        "id":58554,
         "name":"Sylmar",
         "rank":1,
         "affected":378,
@@ -52,10 +52,10 @@
         "est_fixed":"11\/06\/2024 11:30",
         "longitude":-118.440184,
         "latitude":34.3101,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58543,
+        "id":58556,
         "name":"Pacoima",
         "rank":2,
         "affected":34,
@@ -63,10 +63,10 @@
         "est_fixed":"11\/06\/2024 17:00",
         "longitude":-118.431661,
         "latitude":34.259212,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58544,
+        "id":58557,
         "name":"Woodland Hills",
         "rank":1,
         "affected":8,
@@ -74,10 +74,10 @@
         "est_fixed":null,
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58546,
+        "id":58559,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -85,10 +85,21 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58534,
+        "id":58547,
+        "name":"Silver Lake",
+        "rank":1,
+        "affected":42,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.26059,
+        "latitude":34.089488,
+        "fetched":1730956374509
+    },
+    {
+        "id":58548,
         "name":"Shadow Hills",
         "rank":1,
         "affected":348,
@@ -96,21 +107,10 @@
         "est_fixed":"11\/06\/2024 19:00",
         "longitude":-118.346949,
         "latitude":34.261665,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58536,
-        "name":"Century City",
-        "rank":1,
-        "affected":17,
-        "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.421831,
-        "latitude":34.054878,
-        "fetched":1730955845517
-    },
-    {
-        "id":58538,
+        "id":58551,
         "name":"Pacoima",
         "rank":1,
         "affected":43,
@@ -118,10 +118,10 @@
         "est_fixed":"11\/06\/2024 15:00",
         "longitude":-118.406194,
         "latitude":34.273956,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58545,
+        "id":58558,
         "name":"Chatsworth",
         "rank":1,
         "affected":586,
@@ -129,21 +129,10 @@
         "est_fixed":"11\/07\/2024 04:00",
         "longitude":-118.579291,
         "latitude":34.250546,
-        "fetched":1730955845517
+        "fetched":1730956374509
     },
     {
-        "id":58533,
-        "name":"Silver Lake",
-        "rank":1,
-        "affected":42,
-        "status":"En Route",
-        "est_fixed":null,
-        "longitude":-118.26059,
-        "latitude":34.089488,
-        "fetched":1730955845517
-    },
-    {
-        "id":58542,
+        "id":58555,
         "name":"Sylmar",
         "rank":2,
         "affected":305,
@@ -151,6 +140,6 @@
         "est_fixed":"11\/06\/2024 19:00",
         "longitude":-118.403483,
         "latitude":34.316217,
-        "fetched":1730955845517
+        "fetched":1730956374509
     }
 ]
