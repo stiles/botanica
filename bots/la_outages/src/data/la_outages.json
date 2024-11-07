@@ -1,6 +1,6 @@
 [
     {
-        "id":58799,
+        "id":58802,
         "name":"Shadow Hills",
         "rank":1,
         "affected":349,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/07\/2024 12:30",
         "longitude":-118.349998,
         "latitude":34.259043,
-        "fetched":1731003598502
+        "fetched":1731004330221
     },
     {
-        "id":58800,
+        "id":58803,
         "name":"Pacoima",
         "rank":1,
         "affected":13,
@@ -19,17 +19,6 @@
         "est_fixed":"11\/07\/2024 12:30",
         "longitude":-118.431096,
         "latitude":34.259132,
-        "fetched":1731003598502
-    },
-    {
-        "id":58801,
-        "name":"Northridge",
-        "rank":1,
-        "affected":0,
-        "status":"En Route",
-        "est_fixed":null,
-        "longitude":-118.558774,
-        "latitude":34.238263,
-        "fetched":1731003598502
+        "fetched":1731004330221
     }
 ]
