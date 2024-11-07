@@ -1,6 +1,6 @@
 [
     {
-        "id":58595,
+        "id":58603,
         "name":"West Hills",
         "rank":1,
         "affected":7,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58596,
+        "id":58604,
         "name":"Tarzana",
         "rank":1,
         "affected":8,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.543173,
         "latitude":34.175118,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58601,
+        "id":58608,
         "name":"Woodland Hills",
         "rank":1,
         "affected":8,
@@ -30,10 +30,10 @@
         "est_fixed":null,
         "longitude":-118.62064,
         "latitude":34.16219,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58602,
+        "id":58609,
         "name":"Northridge",
         "rank":1,
         "affected":0,
@@ -41,10 +41,10 @@
         "est_fixed":null,
         "longitude":-118.558774,
         "latitude":34.238263,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58597,
+        "id":58605,
         "name":"Pacoima",
         "rank":1,
         "affected":43,
@@ -52,21 +52,10 @@
         "est_fixed":"11\/06\/2024 15:00",
         "longitude":-118.406194,
         "latitude":34.273956,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58600,
-        "name":"Sylmar",
-        "rank":1,
-        "affected":305,
-        "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 19:00",
-        "longitude":-118.403483,
-        "latitude":34.316217,
-        "fetched":1730960040623
-    },
-    {
-        "id":58599,
+        "id":58607,
         "name":"Encino",
         "rank":1,
         "affected":240,
@@ -74,10 +63,10 @@
         "est_fixed":"11\/07\/2024 00:00",
         "longitude":-118.474228,
         "latitude":34.154582,
-        "fetched":1730960040623
+        "fetched":1730960797179
     },
     {
-        "id":58598,
+        "id":58606,
         "name":"Pacoima",
         "rank":2,
         "affected":42,
@@ -85,6 +74,6 @@
         "est_fixed":"11\/07\/2024 02:00",
         "longitude":-118.407069,
         "latitude":34.274384,
-        "fetched":1730960040623
+        "fetched":1730960797179
     }
 ]
