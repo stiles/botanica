@@ -1,83 +1,6 @@
 [
     {
-        "id":58505,
-        "name":"Sylmar",
-        "rank":2,
-        "affected":305,
-        "status":"Assigned",
-        "est_fixed":"11\/06\/2024 19:00",
-        "longitude":-118.403483,
-        "latitude":34.316217,
-        "fetched":1730954288625
-    },
-    {
-        "id":58507,
-        "name":"Century City",
-        "rank":1,
-        "affected":17,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.421831,
-        "latitude":34.054878,
-        "fetched":1730954288625
-    },
-    {
-        "id":58509,
-        "name":"Woodland Hills",
-        "rank":1,
-        "affected":8,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.62064,
-        "latitude":34.16219,
-        "fetched":1730954288625
-    },
-    {
-        "id":58510,
-        "name":"Pacoima",
-        "rank":2,
-        "affected":34,
-        "status":"Assigned",
-        "est_fixed":"11\/06\/2024 17:00",
-        "longitude":-118.431661,
-        "latitude":34.259212,
-        "fetched":1730954288625
-    },
-    {
-        "id":58511,
-        "name":"Tarzana",
-        "rank":1,
-        "affected":8,
-        "status":"Assigned",
-        "est_fixed":"11\/06\/2024 21:00",
-        "longitude":-118.543173,
-        "latitude":34.175118,
-        "fetched":1730954288625
-    },
-    {
-        "id":58512,
-        "name":"Encino",
-        "rank":1,
-        "affected":240,
-        "status":"Assigned",
-        "est_fixed":"11\/07\/2024 00:00",
-        "longitude":-118.474228,
-        "latitude":34.154582,
-        "fetched":1730954288625
-    },
-    {
-        "id":58514,
-        "name":"Northridge",
-        "rank":1,
-        "affected":0,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.558774,
-        "latitude":34.238263,
-        "fetched":1730954288625
-    },
-    {
-        "id":58515,
+        "id":58522,
         "name":"West Hills",
         "rank":1,
         "affected":7,
@@ -85,10 +8,43 @@
         "est_fixed":"11\/06\/2024 21:00",
         "longitude":-118.620065,
         "latitude":34.213596,
-        "fetched":1730954288625
+        "fetched":1730954703690
     },
     {
-        "id":58519,
+        "id":58523,
+        "name":"Century City",
+        "rank":1,
+        "affected":17,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.421831,
+        "latitude":34.054878,
+        "fetched":1730954703690
+    },
+    {
+        "id":58524,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 21:00",
+        "longitude":-118.543173,
+        "latitude":34.175118,
+        "fetched":1730954703690
+    },
+    {
+        "id":58526,
+        "name":"Encino",
+        "rank":1,
+        "affected":240,
+        "status":"Assigned",
+        "est_fixed":"11\/07\/2024 00:00",
+        "longitude":-118.474228,
+        "latitude":34.154582,
+        "fetched":1730954703690
+    },
+    {
+        "id":58527,
         "name":"Sylmar",
         "rank":1,
         "affected":378,
@@ -96,43 +52,43 @@
         "est_fixed":"11\/06\/2024 11:30",
         "longitude":-118.440184,
         "latitude":34.3101,
-        "fetched":1730954288625
+        "fetched":1730954703690
     },
     {
-        "id":58508,
+        "id":58529,
         "name":"Pacoima",
-        "rank":1,
-        "affected":43,
-        "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 15:00",
-        "longitude":-118.406194,
-        "latitude":34.273956,
-        "fetched":1730954288625
+        "rank":2,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"11\/06\/2024 17:00",
+        "longitude":-118.431661,
+        "latitude":34.259212,
+        "fetched":1730954703690
     },
     {
-        "id":58513,
-        "name":"Granada Hills",
+        "id":58530,
+        "name":"Woodland Hills",
         "rank":1,
-        "affected":9,
-        "status":"Crews Working",
-        "est_fixed":"11\/06\/2024 22:00",
-        "longitude":-118.508319,
-        "latitude":34.259953,
-        "fetched":1730954288625
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.62064,
+        "latitude":34.16219,
+        "fetched":1730954703690
     },
     {
-        "id":58516,
-        "name":"Chatsworth",
+        "id":58532,
+        "name":"Northridge",
         "rank":1,
-        "affected":586,
-        "status":"Crews Working",
-        "est_fixed":"11\/07\/2024 04:00",
-        "longitude":-118.579291,
-        "latitude":34.250546,
-        "fetched":1730954288625
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.558774,
+        "latitude":34.238263,
+        "fetched":1730954703690
     },
     {
-        "id":58517,
+        "id":58521,
         "name":"Shadow Hills",
         "rank":1,
         "affected":348,
@@ -140,21 +96,32 @@
         "est_fixed":"11\/06\/2024 19:00",
         "longitude":-118.346949,
         "latitude":34.261665,
-        "fetched":1730954288625
+        "fetched":1730954703690
     },
     {
-        "id":58518,
-        "name":"Van Nuys",
+        "id":58525,
+        "name":"Pacoima",
         "rank":1,
-        "affected":1114,
+        "affected":43,
         "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.484114,
-        "latitude":34.19353,
-        "fetched":1730954288625
+        "est_fixed":"11\/06\/2024 15:00",
+        "longitude":-118.406194,
+        "latitude":34.273956,
+        "fetched":1730954703690
     },
     {
-        "id":58504,
+        "id":58531,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":586,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 04:00",
+        "longitude":-118.579291,
+        "latitude":34.250546,
+        "fetched":1730954703690
+    },
+    {
+        "id":58520,
         "name":"Silver Lake",
         "rank":1,
         "affected":42,
@@ -162,17 +129,17 @@
         "est_fixed":null,
         "longitude":-118.26059,
         "latitude":34.089488,
-        "fetched":1730954288625
+        "fetched":1730954703690
     },
     {
-        "id":58506,
-        "name":"Chatsworth",
+        "id":58528,
+        "name":"Sylmar",
         "rank":2,
-        "affected":13,
+        "affected":305,
         "status":"En Route",
-        "est_fixed":null,
-        "longitude":-118.603895,
-        "latitude":34.257511,
-        "fetched":1730954288625
+        "est_fixed":"11\/06\/2024 19:00",
+        "longitude":-118.403483,
+        "latitude":34.316217,
+        "fetched":1730954703690
     }
 ]
