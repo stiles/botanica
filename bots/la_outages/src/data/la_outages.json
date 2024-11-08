@@ -1,13 +1,13 @@
 [
     {
-        "id":58861,
+        "id":58862,
         "name":"Green Meadows",
         "rank":1,
         "affected":2513,
-        "status":"Reported Outage",
+        "status":"Assigned",
         "est_fixed":"11\/08\/2024 06:00",
         "longitude":-118.256095,
         "latitude":33.946027,
-        "fetched":1731053721009
+        "fetched":1731054457861
     }
 ]
