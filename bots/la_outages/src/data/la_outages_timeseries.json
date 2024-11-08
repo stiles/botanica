@@ -27025,5 +27025,16 @@
         "longitude":-118.256095,
         "latitude":33.946027,
         "fetched":"2024-11-08 00:27:37.861556-08:00"
+    },
+    {
+        "id":58862,
+        "name":"Green Meadows",
+        "rank":1,
+        "affected":2513,
+        "status":"Assigned",
+        "est_fixed":"11\/08\/2024 06:00",
+        "longitude":-118.256095,
+        "latitude":33.946027,
+        "fetched":"2024-11-08 00:36:35.879412-08:00"
     }
 ]
