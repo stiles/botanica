@@ -1,6 +1,17 @@
 [
     {
-        "id":58895,
+        "id":58896,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.424155,
+        "latitude":34.311905,
+        "fetched":1731096704682
+    },
+    {
+        "id":58897,
         "name":"Pacific Palisades",
         "rank":1,
         "affected":1397,
@@ -8,6 +19,6 @@
         "est_fixed":"11\/08\/2024 10:00",
         "longitude":-118.52647,
         "latitude":34.048222,
-        "fetched":1731096163299
+        "fetched":1731096704682
     }
 ]
