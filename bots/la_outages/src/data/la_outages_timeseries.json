@@ -26992,5 +26992,16 @@
         "longitude":-118.6065052622,
         "latitude":34.2272708554,
         "fetched":"2024-11-07 15:54:23.462706-08:00"
+    },
+    {
+        "id":58860,
+        "name":"Koreatown",
+        "rank":1,
+        "affected":50,
+        "status":"Crews Working",
+        "est_fixed":"11\/07\/2024 20:30",
+        "longitude":-118.321102,
+        "latitude":34.056995,
+        "fetched":"2024-11-07 17:23:57.167017-08:00"
     }
 ]
