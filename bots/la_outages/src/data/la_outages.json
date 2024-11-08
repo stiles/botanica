@@ -1,13 +1,13 @@
 [
     {
-        "id":58862,
+        "id":58863,
         "name":"Green Meadows",
         "rank":1,
         "affected":2513,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"11\/08\/2024 06:00",
         "longitude":-118.256095,
         "latitude":33.946027,
-        "fetched":1731054995879
+        "fetched":1731055438571
     }
 ]
