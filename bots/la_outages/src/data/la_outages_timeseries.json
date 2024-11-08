@@ -27839,5 +27839,16 @@
         "longitude":-118.52647,
         "latitude":34.048222,
         "fetched":"2024-11-08 12:48:27.215200-08:00"
+    },
+    {
+        "id":58900,
+        "name":"Pacific Palisades",
+        "rank":1,
+        "affected":1397,
+        "status":"Crews Working",
+        "est_fixed":"11\/08\/2024 10:00",
+        "longitude":-118.52647,
+        "latitude":34.048222,
+        "fetched":"2024-11-08 12:54:18.939539-08:00"
     }
 ]
