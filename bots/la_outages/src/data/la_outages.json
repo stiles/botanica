@@ -1,6 +1,6 @@
 [
     {
-        "id":58885,
+        "id":58886,
         "name":"Pacific Palisades",
         "rank":1,
         "affected":104,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/08\/2024 10:00",
         "longitude":-118.539438,
         "latitude":34.048694,
-        "fetched":1731087607641
+        "fetched":1731087962062
     }
 ]
