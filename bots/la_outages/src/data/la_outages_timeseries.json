@@ -27058,5 +27058,16 @@
         "longitude":-118.256095,
         "latitude":33.946027,
         "fetched":"2024-11-08 00:49:58.106587-08:00"
+    },
+    {
+        "id":58863,
+        "name":"Green Meadows",
+        "rank":1,
+        "affected":2513,
+        "status":"En Route",
+        "est_fixed":"11\/08\/2024 06:00",
+        "longitude":-118.256095,
+        "latitude":33.946027,
+        "fetched":"2024-11-08 00:55:56.695492-08:00"
     }
 ]
