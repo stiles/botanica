@@ -27421,5 +27421,16 @@
         "longitude":-118.539438,
         "latitude":34.048694,
         "fetched":"2024-11-08 08:40:35.480391-08:00"
+    },
+    {
+        "id":58882,
+        "name":"Pacific Palisades",
+        "rank":1,
+        "affected":104,
+        "status":"En Route",
+        "est_fixed":"11\/08\/2024 10:00",
+        "longitude":-118.539438,
+        "latitude":34.048694,
+        "fetched":"2024-11-08 08:48:01.573084-08:00"
     }
 ]
