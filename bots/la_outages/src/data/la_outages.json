@@ -1,6 +1,6 @@
 [
     {
-        "id":58869,
+        "id":58870,
         "name":"Green Meadows",
         "rank":1,
         "affected":2513,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/08\/2024 06:00",
         "longitude":-118.256095,
         "latitude":33.946027,
-        "fetched":1731061106080
+        "fetched":1731061766144
     }
 ]
