@@ -4,60 +4,6 @@
         "cookie":"Milk Chocolate Chip",
         "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
         "image":"https:\/\/crumbl.video\/6c54f810-416b-4266-a628-fc00b5d4ed49_MilkChocolateChip_FlyingAerial_TECH.png",
-        "calories_serving":140,
-        "calories_total":730,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Banana Upside Down Cake",
-        "description":"A warm banana cake drenched in a toffee glaze, topped with a smooth vanilla bean whipped cream dollop, and then finished with a drizzle of more toffee glaze.\n\n",
-        "image":"https:\/\/crumbl.video\/6fda4f1c-b288-4884-a0f9-63600b10a7fc_BananaUpsideDownCake_LTO_FlyingAerial_TECH.png",
-        "calories_serving":380,
-        "calories_total":950,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Pink Velvet Cake Cookie",
-        "description":"A velvety cake batter cookie topped with a layer of vanilla cream cheese frosting and pink velvet cookie crumbs.",
-        "image":"https:\/\/crumbl.video\/80681ed8-6ff5-4c05-a509-cde5ee04dd4d_PinkVelvetCake_FlyingAerial_TECH.png",
-        "calories_serving":130,
-        "calories_total":710,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Confetti Milkshake",
-        "description":"A confetti sugar cookie rolled in rainbow sprinkles and topped with cake-flavored buttercream and a dollop of whipped cream. \n",
-        "image":"https:\/\/crumbl.video\/e4484514-88b4-48ed-a2d6-23e37f35a43d_ConfettiMilkshake_FlyingAerial_TECH.png",
-        "calories_serving":230,
-        "calories_total":930,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Kentucky Butter Cake ",
-        "description":"A yellow butter cake cookie smothered with a melt-in-your-mouth buttery glaze.\n",
-        "image":"https:\/\/crumbl.video\/80b81aed-b2b2-4241-84c6-ed88bdebddc5_KentuckyButterCake_FlyingAerial_TECH.png",
-        "calories_serving":131,
-        "calories_total":640,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Sticky Bun",
-        "description":"A buttery cookie stuffed with cinnamon sugar filling, then topped with butterscotch caramel and a crunch of pecan streusel.\n",
-        "image":"https:\/\/crumbl.video\/a69c2298-059a-4c26-822a-9c15282b4e24_StickyBun_FlyingAerial_TECH.png",
-        "calories_serving":140,
-        "calories_total":780,
-        "fetched":"2024-10-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Milk Chocolate Chip",
-        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
-        "image":"https:\/\/crumbl.video\/6c54f810-416b-4266-a628-fc00b5d4ed49_MilkChocolateChip_FlyingAerial_TECH.png",
         "calories_serving":"140",
         "calories_total":"730",
         "fetched":"2024-11-09"

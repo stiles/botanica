@@ -1,16 +1,31 @@
 import sys
 import os
 
-# Add the project root directory to Python's path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+# Set the project root directory dynamically based on the file’s location
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(script_dir, '../../'))
+
+# Add the project root directory to Python’s path
+sys.path.insert(0, project_root)  # Use insert(0, ...) to prioritize this path
 
 import json
 import requests
 import pytz
 import pandas as pd
-from bs4 import BeautifulSoup
 from datetime import datetime
-from utils.s3_upload import upload_to_s3
+from bs4 import BeautifulSoup
+from utils.s3_upload import upload_to_s3  # Import after adding project root to path
+
+# Load configuration settings
+def load_config():
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    if not os.path.exists(config_path):
+        print(f"Error: Config file not found at {config_path}")
+        exit(1)
+    with open(config_path, "r") as config_file:
+        return json.load(config_file)
+
+config = load_config()
 
 # Time variables, adjusted for Pacific time zone
 pacific = pytz.timezone('America/Los_Angeles')
@@ -34,7 +49,7 @@ def run_scraper():
     bot_slug = config.get("bot_name")
     s3_profile = config.get("s3_profile")
     timeseries_file = os.path.join(output_dir, f"{bot_slug}_timeseries.json")  # Set timeseries file path
-
+ 
     # Initialize data lists
     timeseries_data = []
     cookies_list = []
@@ -45,8 +60,11 @@ def run_scraper():
     content = BeautifulSoup(resp.text, 'html.parser')
     script_tag = content.find('script', id='__NEXT_DATA__')
     json_data = json.loads(script_tag.text)
+    print(json_data)
 
     cookies = json_data['props']['pageProps']['products']['cookies']
+
+    print(cookies)
 
     for cookie in cookies:
         calorie_info = cookie['calorieInformation']

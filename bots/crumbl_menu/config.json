@@ -6,7 +6,7 @@
     },
     "s3_profile": "haekeo",
     "bot_name": "crumbl_menu",
-    "output_directory": "./src/data/crumbl_menu",
+    "output_directory": "./src/data/",
     "archive_url": "https://stilesdata.com/crumbl_menu/crumbl_menu.json",
     "timeseries_file": "./src/data/crumbl_menu_timeseries.json",
     "retry_attempts": 3,
