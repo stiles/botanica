@@ -1,6 +1,17 @@
 [
     {
-        "id":58941,
+        "id":58942,
+        "name":"West Adams",
+        "rank":1,
+        "affected":2322,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 15:00",
+        "longitude":-118.36498,
+        "latitude":34.026824,
+        "fetched":1731189460060
+    },
+    {
+        "id":58943,
         "name":"Boyle Heights",
         "rank":1,
         "affected":4,
@@ -8,17 +19,6 @@
         "est_fixed":"11\/09\/2024 16:00",
         "longitude":-118.207254,
         "latitude":34.014663,
-        "fetched":1731189121512
-    },
-    {
-        "id":58940,
-        "name":"West Adams",
-        "rank":1,
-        "affected":130,
-        "status":"En Route",
-        "est_fixed":"11\/09\/2024 15:00",
-        "longitude":-118.357847,
-        "latitude":34.027553,
-        "fetched":1731189121512
+        "fetched":1731189460060
     }
 ]
