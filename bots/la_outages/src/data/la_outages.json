@@ -1,24 +1,13 @@
 [
     {
-        "id":58950,
+        "id":58951,
         "name":"Watts",
         "rank":1,
-        "affected":452,
+        "affected":3154,
         "status":"Assigned",
         "est_fixed":"11\/09\/2024 18:00",
         "longitude":-118.252488,
         "latitude":33.931191,
-        "fetched":1731194405752
-    },
-    {
-        "id":58949,
-        "name":"West Adams",
-        "rank":1,
-        "affected":2356,
-        "status":"Crews Working",
-        "est_fixed":"11\/09\/2024 15:00",
-        "longitude":-118.36498,
-        "latitude":34.026824,
-        "fetched":1731194405752
+        "fetched":1731194864713
     }
 ]
