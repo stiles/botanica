@@ -28444,5 +28444,27 @@
         "longitude":-118.5592932485,
         "latitude":34.1570278496,
         "fetched":"2024-11-09 12:17:10.978496-08:00"
+    },
+    {
+        "id":58932,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":4,
+        "status":"Assigned",
+        "est_fixed":"11\/09\/2024 16:00",
+        "longitude":-118.207266178,
+        "latitude":34.0146678539,
+        "fetched":"2024-11-09 12:25:33.068901-08:00"
+    },
+    {
+        "id":58931,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":164,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 11:30",
+        "longitude":-118.5592932485,
+        "latitude":34.1570278496,
+        "fetched":"2024-11-09 12:25:33.068901-08:00"
     }
 ]
