@@ -1,6 +1,6 @@
 [
     {
-        "id":58936,
+        "id":58937,
         "name":"Boyle Heights",
         "rank":1,
         "affected":4,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/09\/2024 16:00",
         "longitude":-118.207254,
         "latitude":34.014663,
-        "fetched":1731186607307
+        "fetched":1731187199283
     }
 ]
