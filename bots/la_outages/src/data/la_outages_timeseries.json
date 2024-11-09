@@ -28752,5 +28752,27 @@
         "longitude":-118.36498,
         "latitude":34.026824,
         "fetched":"2024-11-09 14:23:06.390296-08:00"
+    },
+    {
+        "id":58946,
+        "name":"West Adams",
+        "rank":1,
+        "affected":2221,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 15:00",
+        "longitude":-118.36498,
+        "latitude":34.026824,
+        "fetched":"2024-11-09 14:30:56.464767-08:00"
+    },
+    {
+        "id":58945,
+        "name":"West Adams",
+        "rank":2,
+        "affected":33,
+        "status":"Reported Outage",
+        "est_fixed":"11\/09\/2024 18:00",
+        "longitude":-118.36127,
+        "latitude":34.026803,
+        "fetched":"2024-11-09 14:30:56.464767-08:00"
     }
 ]
