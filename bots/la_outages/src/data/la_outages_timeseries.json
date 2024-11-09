@@ -28807,5 +28807,16 @@
         "longitude":-118.36498,
         "latitude":34.026824,
         "fetched":"2024-11-09 14:43:15.662813-08:00"
+    },
+    {
+        "id":58947,
+        "name":"West Adams",
+        "rank":1,
+        "affected":2322,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 15:00",
+        "longitude":-118.36498,
+        "latitude":34.026824,
+        "fetched":"2024-11-09 14:49:11.377908-08:00"
     }
 ]
