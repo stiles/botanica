@@ -1,6 +1,6 @@
 [
     {
-        "id":58913,
+        "id":58915,
         "name":"Mid-City",
         "rank":1,
         "affected":1,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/09\/2024 11:30",
         "longitude":-118.340393,
         "latitude":34.047258,
-        "fetched":1731173772922
+        "fetched":1731174141144
     },
     {
-        "id":58914,
+        "id":58916,
         "name":"Sawtelle",
         "rank":1,
         "affected":49,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/09\/2024 13:00",
         "longitude":-118.456081,
         "latitude":34.041212,
-        "fetched":1731173772922
+        "fetched":1731174141144
     }
 ]
