@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":58908,
+        "name":"Lincoln Heights",
+        "rank":1,
+        "affected":20,
+        "status":"En Route",
+        "est_fixed":"11\/09\/2024 01:30",
+        "longitude":-118.202747,
+        "latitude":34.076071,
+        "fetched":1731131115607
+    }
 ]
