@@ -27938,5 +27938,16 @@
         "longitude":-118.202747,
         "latitude":34.076071,
         "fetched":"2024-11-08 22:05:13.915735-08:00"
+    },
+    {
+        "id":58910,
+        "name":"Lincoln Heights",
+        "rank":1,
+        "affected":20,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 01:30",
+        "longitude":-118.202747,
+        "latitude":34.076071,
+        "fetched":"2024-11-08 22:15:03.024752-08:00"
     }
 ]
