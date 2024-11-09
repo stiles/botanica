@@ -1,6 +1,6 @@
 [
     {
-        "id":58904,
+        "id":58906,
         "name":"Harbor Gateway",
         "rank":1,
         "affected":431,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/08\/2024 20:00",
         "longitude":-118.28696,
         "latitude":33.923557,
-        "fetched":1731116809915
+        "fetched":1731118458868
     }
 ]

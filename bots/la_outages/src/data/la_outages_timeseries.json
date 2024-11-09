@@ -27872,5 +27872,16 @@
         "longitude":-118.28696,
         "latitude":33.923557,
         "fetched":"2024-11-08 17:46:49.915931-08:00"
+    },
+    {
+        "id":58906,
+        "name":"Harbor Gateway",
+        "rank":1,
+        "affected":431,
+        "status":"Crews Working",
+        "est_fixed":"11\/08\/2024 20:00",
+        "longitude":-118.28696,
+        "latitude":33.923557,
+        "fetched":"2024-11-08 18:14:18.868221-08:00"
     }
 ]
