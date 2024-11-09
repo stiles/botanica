@@ -1,13 +1,24 @@
 [
     {
-        "id":58925,
+        "id":58926,
+        "name":"Tarzana",
+        "rank":1,
+        "affected":164,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 11:30",
+        "longitude":-118.559281,
+        "latitude":34.157023,
+        "fetched":1731179865054
+    },
+    {
+        "id":58927,
         "name":"Sawtelle",
         "rank":1,
         "affected":49,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/09\/2024 13:00",
         "longitude":-118.456081,
         "latitude":34.041212,
-        "fetched":1731179400674
+        "fetched":1731179865054
     }
 ]
