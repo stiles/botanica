@@ -1,24 +1,13 @@
 [
     {
-        "id":58946,
+        "id":58947,
         "name":"West Adams",
         "rank":1,
-        "affected":2221,
+        "affected":2322,
         "status":"Crews Working",
         "est_fixed":"11\/09\/2024 15:00",
         "longitude":-118.36498,
         "latitude":34.026824,
-        "fetched":1731191846449
-    },
-    {
-        "id":58945,
-        "name":"West Adams",
-        "rank":2,
-        "affected":33,
-        "status":"Reported Outage",
-        "est_fixed":"11\/09\/2024 18:00",
-        "longitude":-118.36127,
-        "latitude":34.026803,
-        "fetched":1731191846449
+        "fetched":1731192195662
     }
 ]
