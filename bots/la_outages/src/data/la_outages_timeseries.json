@@ -29038,5 +29038,16 @@
         "longitude":-118.252488,
         "latitude":33.931191,
         "fetched":"2024-11-09 18:11:55.945494-08:00"
+    },
+    {
+        "id":58971,
+        "name":"Highland Park",
+        "rank":1,
+        "affected":14,
+        "status":"Assigned",
+        "est_fixed":"11\/09\/2024 22:00",
+        "longitude":-118.18771,
+        "latitude":34.121449,
+        "fetched":"2024-11-09 18:38:32.193232-08:00"
     }
 ]
