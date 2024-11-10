@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":58996,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":83,
+        "status":"Assigned",
+        "est_fixed":"11\/10\/2024 17:30",
+        "longitude":-118.409176,
+        "latitude":34.267259,
+        "fetched":1731277605384
+    }
 ]
