@@ -29016,5 +29016,27 @@
         "longitude":-118.252488,
         "latitude":33.931191,
         "fetched":"2024-11-09 17:41:51.680646-08:00"
+    },
+    {
+        "id":58970,
+        "name":"Highland Park",
+        "rank":1,
+        "affected":14,
+        "status":"Assigned",
+        "est_fixed":"11\/09\/2024 19:00",
+        "longitude":-118.18771,
+        "latitude":34.121449,
+        "fetched":"2024-11-09 18:11:55.945494-08:00"
+    },
+    {
+        "id":58969,
+        "name":"Watts",
+        "rank":1,
+        "affected":3154,
+        "status":"En Route",
+        "est_fixed":"11\/09\/2024 21:00",
+        "longitude":-118.252488,
+        "latitude":33.931191,
+        "fetched":"2024-11-09 18:11:55.945494-08:00"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "id":58966,
+        "id":58970,
         "name":"Highland Park",
         "rank":1,
         "affected":14,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/09\/2024 19:00",
         "longitude":-118.18771,
         "latitude":34.121449,
-        "fetched":1731202911680
+        "fetched":1731204715945
     },
     {
-        "id":58965,
+        "id":58969,
         "name":"Watts",
         "rank":1,
         "affected":3154,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/09\/2024 21:00",
         "longitude":-118.252488,
         "latitude":33.931191,
-        "fetched":1731202911680
+        "fetched":1731204715945
     }
 ]
