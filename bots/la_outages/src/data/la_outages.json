@@ -1,13 +1,13 @@
 [
     {
-        "id":58975,
+        "id":58976,
         "name":"Highland Park",
         "rank":1,
         "affected":14,
         "status":"Assigned",
         "est_fixed":"11\/09\/2024 22:00",
-        "longitude":-118.1877221835,
-        "latitude":34.1214538668,
-        "fetched":1731209938141
+        "longitude":-118.18771,
+        "latitude":34.121449,
+        "fetched":1731210299011
     }
 ]
