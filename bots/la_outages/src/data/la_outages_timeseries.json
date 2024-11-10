@@ -29621,5 +29621,16 @@
         "longitude":-118.409176,
         "latitude":34.267259,
         "fetched":"2024-11-10 14:46:01.783898-08:00"
+    },
+    {
+        "id":58997,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":83,
+        "status":"Reported Outage",
+        "est_fixed":"11\/10\/2024 17:30",
+        "longitude":-118.409176,
+        "latitude":34.267259,
+        "fetched":"2024-11-10 14:51:41.422228-08:00"
     }
 ]
