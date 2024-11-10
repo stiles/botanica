@@ -1,13 +1,13 @@
 [
     {
-        "id":58994,
+        "id":58995,
         "name":"Pacoima",
         "rank":1,
         "affected":37,
         "status":"Crews Working",
         "est_fixed":"11\/10\/2024 11:30",
-        "longitude":-118.4029532326,
-        "latitude":34.2792798718,
-        "fetched":1731272042411
+        "longitude":-118.402941,
+        "latitude":34.279275,
+        "fetched":1731272405521
     }
 ]
