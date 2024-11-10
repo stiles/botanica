@@ -29291,5 +29291,16 @@
         "longitude":-118.292661,
         "latitude":33.857485,
         "fetched":"2024-11-10 00:54:22.418556-08:00"
+    },
+    {
+        "id":58984,
+        "name":"Mid-Wilshire",
+        "rank":1,
+        "affected":1891,
+        "status":"Assigned",
+        "est_fixed":"11\/10\/2024 14:30",
+        "longitude":-118.342273,
+        "latitude":34.048919,
+        "fetched":"2024-11-10 08:28:52.835073-08:00"
     }
 ]
