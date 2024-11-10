@@ -29236,5 +29236,16 @@
         "longitude":-118.18771,
         "latitude":34.121449,
         "fetched":"2024-11-09 21:05:37.602225-08:00"
+    },
+    {
+        "id":58982,
+        "name":"Highland Park",
+        "rank":1,
+        "affected":14,
+        "status":"Crews Working",
+        "est_fixed":"11\/09\/2024 22:00",
+        "longitude":-118.18771,
+        "latitude":34.121449,
+        "fetched":"2024-11-09 21:14:31.380786-08:00"
     }
 ]
