@@ -60,13 +60,14 @@ def run_scraper():
     content = BeautifulSoup(resp.text, 'html.parser')
     script_tag = content.find('script', id='__NEXT_DATA__')
     json_data = json.loads(script_tag.text)
-    print(json_data)
+    # print(json_data)
 
     cookies = json_data['props']['pageProps']['products']['cookies']
 
-    print(cookies)
+    # print(cookies)
 
     for cookie in cookies:
+        print(cookie)
         calorie_info = cookie['calorieInformation']
         cookies_list.append({
             'status': cookie['status'],
@@ -99,20 +100,23 @@ def run_scraper():
     upload_to_s3(output_dir, bot_slug, s3_profile)
 
 def update_timeseries(timeseries_data, timeseries_file):
-    # Load existing timeseries data if available
-    if os.path.exists(timeseries_file):
-        ts_df = pd.read_json(timeseries_file)
-    else:
-        # Initialize with necessary columns if no existing data
-        ts_df = pd.DataFrame(columns=['status', 'cookie', 'description', 'image', 'calories_serving', 'calories_total', 'fetched'])
+    ts_df = pd.read_json(timeseries_file)    
+    ts_df["fetched"] = pd.to_datetime(ts_df["fetched"]).dt.strftime("%Y-%m-%d")
 
     # Convert new data into a DataFrame
     new_data = pd.DataFrame(timeseries_data)
 
     # Concatenate with the existing data and remove duplicates
     updated_ts_df = pd.concat([ts_df, new_data], ignore_index=True)
-    updated_ts_df.drop_duplicates(subset=['fetched', 'cookie'], keep='last', inplace=True)
+
+    updated_ts_df["date"] = pd.to_datetime(updated_ts_df["date"]).dt.strftime("%Y-%m-%d")
+    updated_ts_df["week"] = pd.to_datetime(updated_ts_df["date"]).dt.isocalendar().week
+    updated_ts_df["year"] = pd.to_datetime(updated_ts_df["date"]).dt.year
+    
+    updated_ts_df.drop_duplicates(subset=['date', 'cookie'], keep='last', inplace=True)
     updated_ts_df['fetched'] = updated_ts_df['fetched'].astype(str)
+    updated_ts_df['week'] = updated_ts_df['week'].astype(str)
+    updated_ts_df['year'] = updated_ts_df['year'].astype(str)
 
     # Save the updated timeseries data locally
     updated_ts_df.to_json(timeseries_file, indent=4, orient='records')

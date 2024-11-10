@@ -18,6 +18,10 @@ def upload_to_s3(path, bot_slug, profile_name=None):
         # Upload all files within the directory
         for root, _, files in os.walk(path):
             for file in files:
+                # Skip .DS_Store files
+                if file == '.DS_Store':
+                    continue
+                
                 local_path = os.path.join(root, file)
                 s3_path = f"{bot_slug}/{file}"
                 s3.upload_file(local_path, bucket_name, s3_path)
@@ -25,6 +29,9 @@ def upload_to_s3(path, bot_slug, profile_name=None):
     elif os.path.isfile(path):
         # Upload the single file
         file_name = os.path.basename(path)
+        if file_name == '.DS_Store':
+            print("Skipping .DS_Store file.")
+            return  # Skip upload if it's .DS_Store
         s3_path = f"{bot_slug}/{file_name}"
         s3.upload_file(path, bucket_name, s3_path)
         print(f"Uploaded {file_name} to s3://{bucket_name}/{s3_path}")
