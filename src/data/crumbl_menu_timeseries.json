@@ -4,9 +4,81 @@
         "cookie":"Milk Chocolate Chip",
         "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
         "image":"https:\/\/crumbl.video\/6c54f810-416b-4266-a628-fc00b5d4ed49_MilkChocolateChip_FlyingAerial_TECH.png",
+        "calories_serving":140,
+        "calories_total":730,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Butter Cake",
+        "description":"A warm, gooey butter cake baked with a crunch of sugar crystals, then topped with a delectable buttery glaze and a smooth vanilla bean whipped cream. ",
+        "image":"https:\/\/crumbl.video\/6da03d0b-47a6-4748-86c6-2d9ddb21ff87_ButterCake_FlyingAerial.png",
+        "calories_serving":339,
+        "calories_total":980,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Peanut Butter Blossom",
+        "description":"An iconic peanut butter cookie rolled in white sugar and decorated with a rich swoop of fudge frosting.",
+        "image":"https:\/\/crumbl.video\/f4383683-bf9a-4463-b0aa-26cb606e3ae7_PeanutButterBlossom_FlyingAerial_TECH.png",
+        "calories_serving":130,
+        "calories_total":750,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Strawberry Cupcake ",
+        "description":"A vanilla cupcake cookie with a heavenly swirl of strawberry cream cheese frosting and a splash of white sprinkles.",
+        "image":"https:\/\/crumbl.video\/4c890757-eb47-4765-b3fd-e37af22dccc6_StawberryCupcake_FlyingAerial_TECH.png",
+        "calories_serving":131,
+        "calories_total":810,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"New York Cheesecake",
+        "description":"A chilled buttery graham cracker cookie swirled with vanilla cheesecake frosting and sprinkled with a graham cracker streusel.",
+        "image":"https:\/\/crumbl.video\/fbe8b24c-6e59-4523-bd76-275573ed7514_NewYorkCheesecake_FlyingAerial_TECH.png",
+        "calories_serving":130,
+        "calories_total":880,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"The Original Pink Sugar",
+        "description":"Our original recipe is back! An almond sugar cookie topped with a perfect pink swoop of real almond frosting.",
+        "image":"https:\/\/crumbl.video\/568d7e50-71f9-4223-826a-72672312ddbb_ClassicPinkSugar_FlyingAerial_TECH.png",
+        "calories_serving":130,
+        "calories_total":760,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Original ft. M&M'S\u00ae Candies ",
+        "description":"A tried-and-true cookie packed with sweet and crispy M&M\u2019S\u00ae Milk Chocolate Candies.",
+        "image":"https:\/\/crumbl.video\/37f2040f-8d1b-400e-9c75-879878d64892_OriginalftMMSCandies_FlyingAerial_TECH.png",
+        "calories_serving":140,
+        "calories_total":730,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Oatmeal Raisin",
+        "description":"A thick cinnamon oatmeal cookie packed with delicious raisins.\n\n",
+        "image":"https:\/\/crumbl.video\/6b21cbf5-1ae6-4625-ba45-e98aad0a4be5_OatmealRaisin_FlyingAerial_TECH.png",
+        "calories_serving":131,
+        "calories_total":680,
+        "fetched":"2024-11-09"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Milk Chocolate Chip",
+        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
+        "image":"https:\/\/crumbl.video\/6c54f810-416b-4266-a628-fc00b5d4ed49_MilkChocolateChip_FlyingAerial_TECH.png",
         "calories_serving":"140",
         "calories_total":"730",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -15,7 +87,7 @@
         "image":"https:\/\/crumbl.video\/6da03d0b-47a6-4748-86c6-2d9ddb21ff87_ButterCake_FlyingAerial.png",
         "calories_serving":"339",
         "calories_total":"980",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -24,7 +96,7 @@
         "image":"https:\/\/crumbl.video\/f4383683-bf9a-4463-b0aa-26cb606e3ae7_PeanutButterBlossom_FlyingAerial_TECH.png",
         "calories_serving":"130",
         "calories_total":"750",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -33,7 +105,7 @@
         "image":"https:\/\/crumbl.video\/4c890757-eb47-4765-b3fd-e37af22dccc6_StawberryCupcake_FlyingAerial_TECH.png",
         "calories_serving":"131",
         "calories_total":"810",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -42,7 +114,7 @@
         "image":"https:\/\/crumbl.video\/fbe8b24c-6e59-4523-bd76-275573ed7514_NewYorkCheesecake_FlyingAerial_TECH.png",
         "calories_serving":"130",
         "calories_total":"880",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -51,7 +123,7 @@
         "image":"https:\/\/crumbl.video\/568d7e50-71f9-4223-826a-72672312ddbb_ClassicPinkSugar_FlyingAerial_TECH.png",
         "calories_serving":"130",
         "calories_total":"760",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -60,7 +132,7 @@
         "image":"https:\/\/crumbl.video\/37f2040f-8d1b-400e-9c75-879878d64892_OriginalftMMSCandies_FlyingAerial_TECH.png",
         "calories_serving":"140",
         "calories_total":"730",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     },
     {
         "status":"ACTIVE",
@@ -69,6 +141,6 @@
         "image":"https:\/\/crumbl.video\/6b21cbf5-1ae6-4625-ba45-e98aad0a4be5_OatmealRaisin_FlyingAerial_TECH.png",
         "calories_serving":"131",
         "calories_total":"680",
-        "fetched":"2024-11-09"
+        "fetched":"2024-11-10"
     }
 ]
