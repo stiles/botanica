@@ -1,13 +1,13 @@
 [
     {
-        "id":58996,
+        "id":58997,
         "name":"Pacoima",
         "rank":1,
         "affected":83,
-        "status":"Assigned",
+        "status":"Reported Outage",
         "est_fixed":"11\/10\/2024 17:30",
         "longitude":-118.409176,
         "latitude":34.267259,
-        "fetched":1731278397833
+        "fetched":1731278761783
     }
 ]
