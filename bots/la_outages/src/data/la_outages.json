@@ -1,13 +1,3 @@
 [
-    {
-        "id":58983,
-        "name":"Harbor Gateway",
-        "rank":1,
-        "affected":0,
-        "status":"Reported Outage",
-        "est_fixed":"11\/10\/2024 04:30",
-        "longitude":-118.292661,
-        "latitude":33.857485,
-        "fetched":1731228862418
-    }
+
 ]
