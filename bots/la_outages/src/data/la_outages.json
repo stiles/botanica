@@ -1,13 +1,13 @@
 [
     {
-        "id":59019,
+        "id":59020,
         "name":"Woodland Hills",
         "rank":1,
         "affected":207,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/10\/2024 22:30",
         "longitude":-118.607794,
         "latitude":34.184573,
-        "fetched":1731298789748
+        "fetched":1731299428957
     }
 ]
