@@ -1,6 +1,6 @@
 [
     {
-        "id":59042,
+        "id":59044,
         "name":"Panorama City",
         "rank":1,
         "affected":402,
@@ -8,6 +8,17 @@
         "est_fixed":"11\/11\/2024 15:30",
         "longitude":-118.4503622378,
         "latitude":34.2462948655,
-        "fetched":1731369127086
+        "fetched":1731369480369
+    },
+    {
+        "id":59043,
+        "name":"Green Meadows",
+        "rank":1,
+        "affected":1,
+        "status":"En Route",
+        "est_fixed":"11\/11\/2024 21:30",
+        "longitude":-118.2561071807,
+        "latitude":33.9460238436,
+        "fetched":1731369480369
     }
 ]
