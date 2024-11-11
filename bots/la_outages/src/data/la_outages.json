@@ -1,6 +1,6 @@
 [
     {
-        "id":59018,
+        "id":59019,
         "name":"Woodland Hills",
         "rank":1,
         "affected":207,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/10\/2024 22:30",
         "longitude":-118.607794,
         "latitude":34.184573,
-        "fetched":1731298152655
+        "fetched":1731298789748
     }
 ]
