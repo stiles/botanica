@@ -30336,5 +30336,16 @@
         "longitude":-118.45035,
         "latitude":34.24629,
         "fetched":"2024-11-11 14:44:18.489140-08:00"
+    },
+    {
+        "id":59038,
+        "name":"Panorama City",
+        "rank":1,
+        "affected":402,
+        "status":"Crews Working",
+        "est_fixed":"11\/11\/2024 15:30",
+        "longitude":-118.45035,
+        "latitude":34.24629,
+        "fetched":"2024-11-11 14:50:09.684699-08:00"
     }
 ]
