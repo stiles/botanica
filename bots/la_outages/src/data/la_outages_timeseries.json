@@ -30193,5 +30193,27 @@
         "longitude":-118.3927272242,
         "latitude":34.1984608636,
         "fetched":"2024-11-11 13:39:27.424318-08:00"
+    },
+    {
+        "id":59032,
+        "name":"North Hollywood",
+        "rank":1,
+        "affected":42,
+        "status":"Crews Working",
+        "est_fixed":"11\/11\/2024 21:00",
+        "longitude":-118.392715,
+        "latitude":34.198456,
+        "fetched":"2024-11-11 13:45:18.571852-08:00"
+    },
+    {
+        "id":59033,
+        "name":"Panorama City",
+        "rank":1,
+        "affected":402,
+        "status":"En Route",
+        "est_fixed":"11\/11\/2024 15:30",
+        "longitude":-118.45035,
+        "latitude":34.24629,
+        "fetched":"2024-11-11 13:45:18.571852-08:00"
     }
 ]
