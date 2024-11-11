@@ -29753,5 +29753,16 @@
         "longitude":-118.4091882327,
         "latitude":34.2672638702,
         "fetched":"2024-11-10 16:31:13.652131-08:00"
+    },
+    {
+        "id":59005,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":83,
+        "status":"Crews Working",
+        "est_fixed":"11\/10\/2024 17:30",
+        "longitude":-118.409176,
+        "latitude":34.267259,
+        "fetched":"2024-11-10 16:54:07.057933-08:00"
     }
 ]
