@@ -1,13 +1,13 @@
 [
     {
-        "id":59041,
+        "id":59042,
         "name":"Panorama City",
         "rank":1,
         "affected":402,
         "status":"Crews Working",
         "est_fixed":"11\/11\/2024 15:30",
-        "longitude":-118.45035,
-        "latitude":34.24629,
-        "fetched":1731368419589
+        "longitude":-118.4503622378,
+        "latitude":34.2462948655,
+        "fetched":1731368773988
     }
 ]
