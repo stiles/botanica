@@ -1,6 +1,6 @@
 [
     {
-        "id":59008,
+        "id":59010,
         "name":"Pacoima",
         "rank":1,
         "affected":83,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/10\/2024 17:30",
         "longitude":-118.409176,
         "latitude":34.267259,
-        "fetched":1731288399091
+        "fetched":1731290455372
     }
 ]
