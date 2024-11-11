@@ -29852,5 +29852,16 @@
         "longitude":-118.607794,
         "latitude":34.184573,
         "fetched":"2024-11-10 19:34:58.638788-08:00"
+    },
+    {
+        "id":59017,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":207,
+        "status":"En Route",
+        "est_fixed":"11\/10\/2024 22:30",
+        "longitude":-118.607794,
+        "latitude":34.184573,
+        "fetched":"2024-11-10 19:42:38.781829-08:00"
     }
 ]
