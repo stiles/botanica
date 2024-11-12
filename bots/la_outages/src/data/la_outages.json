@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":59068,
+        "name":"N Hollywood",
+        "rank":1,
+        "affected":21,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.361062,
+        "latitude":34.176268,
+        "fetched":1731390115687
+    }
 ]
