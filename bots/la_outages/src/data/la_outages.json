@@ -1,6 +1,6 @@
 [
     {
-        "id":59165,
+        "id":59166,
         "name":"Venice",
         "rank":1,
         "affected":19,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/12\/2024 11:00",
         "longitude":-118.473038,
         "latitude":33.98938,
-        "fetched":1731453831427
+        "fetched":1731454237316
     }
 ]
