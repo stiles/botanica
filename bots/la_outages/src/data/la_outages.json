@@ -1,13 +1,24 @@
 [
     {
-        "id":59073,
+        "id":59075,
         "name":"N Hollywood",
         "rank":1,
         "affected":21,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.361062,
-        "latitude":34.176268,
-        "fetched":1731395344969
+        "longitude":-118.3610742171,
+        "latitude":34.176272863,
+        "fetched":1731395922943
+    },
+    {
+        "id":59074,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":774,
+        "status":"Reported Outage",
+        "est_fixed":"11\/12\/2024 05:00",
+        "longitude":-118.5880172616,
+        "latitude":34.2564278587,
+        "fetched":1731395922943
     }
 ]
