@@ -1,6 +1,6 @@
 [
     {
-        "id":59095,
+        "id":59098,
         "name":"North Hollywood",
         "rank":1,
         "affected":9,
@@ -8,17 +8,17 @@
         "est_fixed":"11\/12\/2024 11:30",
         "longitude":-118.371817,
         "latitude":34.182754,
-        "fetched":1731430508795
+        "fetched":1731430872834
     },
     {
-        "id":59096,
+        "id":59099,
         "name":"Hyde Park",
         "rank":1,
         "affected":52,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/12\/2024 12:00",
         "longitude":-118.330151,
         "latitude":33.982176,
-        "fetched":1731430508795
+        "fetched":1731430872834
     }
 ]
