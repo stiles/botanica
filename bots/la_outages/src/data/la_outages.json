@@ -1,17 +1,6 @@
 [
     {
-        "id":59076,
-        "name":"Chatsworth",
-        "rank":1,
-        "affected":792,
-        "status":"Assigned",
-        "est_fixed":"11\/12\/2024 05:00",
-        "longitude":-118.588005,
-        "latitude":34.256423,
-        "fetched":1731397151645
-    },
-    {
-        "id":59077,
+        "id":59079,
         "name":"N Hollywood",
         "rank":1,
         "affected":21,
@@ -19,6 +8,17 @@
         "est_fixed":null,
         "longitude":-118.361062,
         "latitude":34.176268,
-        "fetched":1731397151645
+        "fetched":1731397490568
+    },
+    {
+        "id":59078,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":792,
+        "status":"En Route",
+        "est_fixed":"11\/12\/2024 05:00",
+        "longitude":-118.588005,
+        "latitude":34.256423,
+        "fetched":1731397490568
     }
 ]
