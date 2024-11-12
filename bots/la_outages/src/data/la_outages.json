@@ -1,6 +1,6 @@
 [
     {
-        "id":59145,
+        "id":59148,
         "name":"Venice",
         "rank":1,
         "affected":19,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/12\/2024 11:00",
         "longitude":-118.473038,
         "latitude":33.98938,
-        "fetched":1731445386992
+        "fetched":1731445897550
     },
     {
-        "id":59146,
+        "id":59149,
         "name":"East Hollywood",
         "rank":1,
         "affected":32,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/12\/2024 14:30",
         "longitude":-118.306049,
         "latitude":34.092951,
-        "fetched":1731445386992
+        "fetched":1731445897550
     },
     {
-        "id":59147,
+        "id":59150,
         "name":"Sawtelle",
         "rank":1,
         "affected":835,
@@ -30,6 +30,6 @@
         "est_fixed":"11\/12\/2024 14:30",
         "longitude":-118.450164,
         "latitude":34.029272,
-        "fetched":1731445386992
+        "fetched":1731445897550
     }
 ]
