@@ -1,6 +1,6 @@
 [
     {
-        "id":59118,
+        "id":59121,
         "name":"Venice",
         "rank":1,
         "affected":19,
@@ -8,28 +8,17 @@
         "est_fixed":"11\/12\/2024 11:00",
         "longitude":-118.473038,
         "latitude":33.98938,
-        "fetched":1731436825098
+        "fetched":1731437227420
     },
     {
-        "id":59119,
-        "name":"North Hollywood",
+        "id":59122,
+        "name":"East Hollywood",
         "rank":1,
-        "affected":9,
-        "status":"Crews Working",
-        "est_fixed":"11\/12\/2024 11:30",
-        "longitude":-118.371817,
-        "latitude":34.182754,
-        "fetched":1731436825098
-    },
-    {
-        "id":59120,
-        "name":"Palms",
-        "rank":1,
-        "affected":9,
-        "status":"Crews Working",
-        "est_fixed":"11\/12\/2024 13:00",
-        "longitude":-118.417532,
-        "latitude":34.030105,
-        "fetched":1731436825098
+        "affected":32,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 14:30",
+        "longitude":-118.306049,
+        "latitude":34.092951,
+        "fetched":1731437227420
     }
 ]

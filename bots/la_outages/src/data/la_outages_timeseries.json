@@ -31656,5 +31656,27 @@
         "longitude":-118.417532,
         "latitude":34.030105,
         "fetched":"2024-11-12 10:40:25.098813-08:00"
+    },
+    {
+        "id":59121,
+        "name":"Venice",
+        "rank":1,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 11:00",
+        "longitude":-118.473038,
+        "latitude":33.98938,
+        "fetched":"2024-11-12 10:47:07.420852-08:00"
+    },
+    {
+        "id":59122,
+        "name":"East Hollywood",
+        "rank":1,
+        "affected":32,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 14:30",
+        "longitude":-118.306049,
+        "latitude":34.092951,
+        "fetched":"2024-11-12 10:47:07.420852-08:00"
     }
 ]
