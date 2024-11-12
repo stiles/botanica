@@ -30754,5 +30754,16 @@
         "longitude":-118.361062,
         "latitude":34.176268,
         "fetched":"2024-11-11 21:53:33.178361-08:00"
+    },
+    {
+        "id":59069,
+        "name":"N Hollywood",
+        "rank":1,
+        "affected":21,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.361062,
+        "latitude":34.176268,
+        "fetched":"2024-11-11 21:59:06.215561-08:00"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "id":59068,
+        "id":59069,
         "name":"N Hollywood",
         "rank":1,
         "affected":21,
@@ -8,6 +8,6 @@
         "est_fixed":null,
         "longitude":-118.361062,
         "latitude":34.176268,
-        "fetched":1731390813178
+        "fetched":1731391146215
     }
 ]
