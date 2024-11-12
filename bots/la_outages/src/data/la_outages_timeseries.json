@@ -30842,5 +30842,16 @@
         "longitude":-118.361062,
         "latitude":34.176268,
         "fetched":"2024-11-11 23:00:49.574073-08:00"
+    },
+    {
+        "id":59073,
+        "name":"N Hollywood",
+        "rank":1,
+        "affected":21,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.361062,
+        "latitude":34.176268,
+        "fetched":"2024-11-11 23:09:04.969747-08:00"
     }
 ]
