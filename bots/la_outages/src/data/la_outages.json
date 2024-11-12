@@ -1,6 +1,6 @@
 [
     {
-        "id":59082,
+        "id":59083,
         "name":"Chatsworth",
         "rank":1,
         "affected":792,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/12\/2024 05:00",
         "longitude":-118.588005,
         "latitude":34.256423,
-        "fetched":1731400603544
+        "fetched":1731401078750
     }
 ]
