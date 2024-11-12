@@ -1,24 +1,13 @@
 [
     {
-        "id":59046,
-        "name":"Panorama City",
+        "id":59049,
+        "name":"Watts",
         "rank":1,
-        "affected":402,
+        "affected":488,
         "status":"Crews Working",
-        "est_fixed":"11\/11\/2024 15:30",
-        "longitude":-118.45035,
-        "latitude":34.24629,
-        "fetched":1731371045222
-    },
-    {
-        "id":59045,
-        "name":"Green Meadows",
-        "rank":1,
-        "affected":1,
-        "status":"En Route",
-        "est_fixed":"11\/11\/2024 21:30",
-        "longitude":-118.256095,
-        "latitude":33.946019,
-        "fetched":1731371045222
+        "est_fixed":"11\/11\/2024 17:30",
+        "longitude":-118.246226,
+        "latitude":33.937515,
+        "fetched":1731372240981
     }
 ]
