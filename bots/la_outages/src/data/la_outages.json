@@ -1,13 +1,13 @@
 [
     {
-        "id":59088,
+        "id":59090,
+        "name":"North Hollywood",
         "rank":1,
         "affected":9,
         "status":"En Route",
         "est_fixed":"11\/12\/2024 11:30",
-        "name":"North Hollywood",
         "longitude":-118.371817,
         "latitude":34.182754,
-        "fetched":1731427724611
+        "fetched":1731428368588
     }
 ]
