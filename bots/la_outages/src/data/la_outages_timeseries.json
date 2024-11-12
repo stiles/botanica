@@ -30919,5 +30919,27 @@
         "longitude":-118.361062,
         "latitude":34.176268,
         "fetched":"2024-11-11 23:33:33.348704-08:00"
+    },
+    {
+        "id":59076,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":792,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 05:00",
+        "longitude":-118.588005,
+        "latitude":34.256423,
+        "fetched":"2024-11-11 23:39:11.645496-08:00"
+    },
+    {
+        "id":59077,
+        "name":"N Hollywood",
+        "rank":1,
+        "affected":21,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.361062,
+        "latitude":34.176268,
+        "fetched":"2024-11-11 23:39:11.645496-08:00"
     }
 ]
