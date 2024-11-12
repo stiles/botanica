@@ -32283,5 +32283,38 @@
         "longitude":-118.450164,
         "latitude":34.029272,
         "fetched":"2024-11-12 13:11:37.550302-08:00"
+    },
+    {
+        "id":59148,
+        "name":"Venice",
+        "rank":1,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 11:00",
+        "longitude":-118.473038,
+        "latitude":33.98938,
+        "fetched":"2024-11-12 13:21:27.780562-08:00"
+    },
+    {
+        "id":59149,
+        "name":"East Hollywood",
+        "rank":1,
+        "affected":32,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 14:30",
+        "longitude":-118.306049,
+        "latitude":34.092951,
+        "fetched":"2024-11-12 13:21:27.780562-08:00"
+    },
+    {
+        "id":59150,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":835,
+        "status":"Crews Working",
+        "est_fixed":"11\/12\/2024 14:30",
+        "longitude":-118.450164,
+        "latitude":34.029272,
+        "fetched":"2024-11-12 13:21:27.780562-08:00"
     }
 ]
