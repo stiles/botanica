@@ -31029,5 +31029,16 @@
         "longitude":-118.588005,
         "latitude":34.256423,
         "fetched":"2024-11-12 00:27:12.221803-08:00"
+    },
+    {
+        "id":59082,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":792,
+        "status":"Crews Working",
+        "est_fixed":"11\/12\/2024 05:00",
+        "longitude":-118.588005,
+        "latitude":34.256423,
+        "fetched":"2024-11-12 00:36:43.544450-08:00"
     }
 ]
