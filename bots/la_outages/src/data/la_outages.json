@@ -1,6 +1,6 @@
 [
     {
-        "id":59154,
+        "id":59156,
         "name":"Venice",
         "rank":1,
         "affected":19,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/12\/2024 11:00",
         "longitude":-118.473038,
         "latitude":33.98938,
-        "fetched":1731448364219
+        "fetched":1731448702939
     },
     {
-        "id":59155,
+        "id":59157,
         "name":"Sawtelle",
         "rank":1,
         "affected":835,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/12\/2024 14:30",
         "longitude":-118.450164,
         "latitude":34.029272,
-        "fetched":1731448364219
+        "fetched":1731448702939
     }
 ]
