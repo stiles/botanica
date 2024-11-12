@@ -30523,5 +30523,27 @@
         "longitude":-118.5329692477,
         "latitude":34.2001828558,
         "fetched":"2024-11-11 17:12:10.197171-08:00"
+    },
+    {
+        "id":59057,
+        "name":"Watts",
+        "rank":1,
+        "affected":488,
+        "status":"Crews Working",
+        "est_fixed":"11\/11\/2024 20:30",
+        "longitude":-118.246226,
+        "latitude":33.937515,
+        "fetched":"2024-11-11 17:49:31.257811-08:00"
+    },
+    {
+        "id":59056,
+        "name":"Reseda",
+        "rank":1,
+        "affected":880,
+        "status":"En Route",
+        "est_fixed":"11\/11\/2024 23:00",
+        "longitude":-118.532957,
+        "latitude":34.200178,
+        "fetched":"2024-11-11 17:49:31.257811-08:00"
     }
 ]
