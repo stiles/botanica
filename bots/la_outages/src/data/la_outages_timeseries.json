@@ -30677,5 +30677,16 @@
         "longitude":-118.304744,
         "latitude":34.041729,
         "fetched":"2024-11-11 20:41:38.037272-08:00"
+    },
+    {
+        "id":59066,
+        "name":"Harvard Heights",
+        "rank":1,
+        "affected":20,
+        "status":"Crews Working",
+        "est_fixed":"11\/11\/2024 23:00",
+        "longitude":-118.304744,
+        "latitude":34.041729,
+        "fetched":"2024-11-11 20:47:29.981953-08:00"
     }
 ]
