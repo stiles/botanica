@@ -1,13 +1,13 @@
 [
     {
-        "id":59164,
+        "id":59165,
         "name":"Venice",
         "rank":1,
         "affected":19,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"11\/12\/2024 11:00",
         "longitude":-118.473038,
         "latitude":33.98938,
-        "fetched":1731452747931
+        "fetched":1731453299432
     }
 ]
