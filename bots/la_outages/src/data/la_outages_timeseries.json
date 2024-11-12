@@ -32569,5 +32569,27 @@
         "longitude":-118.450164,
         "latitude":34.029272,
         "fetched":"2024-11-12 14:33:44.391462-08:00"
+    },
+    {
+        "id":59160,
+        "name":"Venice",
+        "rank":1,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/12\/2024 11:00",
+        "longitude":-118.473038,
+        "latitude":33.98938,
+        "fetched":"2024-11-12 14:40:37.060686-08:00"
+    },
+    {
+        "id":59161,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":835,
+        "status":"Crews Working",
+        "est_fixed":"11\/12\/2024 14:30",
+        "longitude":-118.450164,
+        "latitude":34.029272,
+        "fetched":"2024-11-12 14:40:37.060686-08:00"
     }
 ]
