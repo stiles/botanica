@@ -32756,5 +32756,16 @@
         "longitude":-118.473038,
         "latitude":33.98938,
         "fetched":"2024-11-12 16:30:17.531566-08:00"
+    },
+    {
+        "id":59171,
+        "name":"Venice",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/12\/2024 11:00",
+        "longitude":-118.473038,
+        "latitude":33.98938,
+        "fetched":"2024-11-12 16:52:48.717258-08:00"
     }
 ]
