@@ -1,13 +1,13 @@
 [
     {
-        "id":59167,
+        "id":59168,
         "name":"Venice",
         "rank":1,
         "affected":19,
         "status":"Crews Working",
         "est_fixed":"11\/12\/2024 11:00",
-        "longitude":-118.4730502204,
-        "latitude":33.9893848361,
-        "fetched":1731455657572
+        "longitude":-118.473038,
+        "latitude":33.98938,
+        "fetched":1731456010515
     }
 ]
