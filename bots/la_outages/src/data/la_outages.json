@@ -1,13 +1,3 @@
 [
-    {
-        "id":59214,
-        "name":"Woodland Hills",
-        "rank":1,
-        "affected":559,
-        "status":"Reported Outage",
-        "est_fixed":"11\/14\/2024 12:30",
-        "longitude":-118.62296,
-        "latitude":34.166631,
-        "fetched":1731603358986
-    }
+
 ]
