@@ -33713,5 +33713,16 @@
         "longitude":-118.457233,
         "latitude":34.098912,
         "fetched":"2024-11-14 12:05:43.764675-08:00"
+    },
+    {
+        "id":59222,
+        "name":"Bel-Air",
+        "rank":1,
+        "affected":154,
+        "status":"Crews Working",
+        "est_fixed":"11\/14\/2024 20:00",
+        "longitude":-118.457233,
+        "latitude":34.098912,
+        "fetched":"2024-11-14 12:15:38.857204-08:00"
     }
 ]
