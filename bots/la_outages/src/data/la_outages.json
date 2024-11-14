@@ -1,13 +1,13 @@
 [
     {
-        "id":59210,
+        "id":59211,
         "name":"Westlake",
         "rank":1,
         "affected":132,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"11\/14\/2024 11:00",
         "longitude":-118.2637011911,
         "latitude":34.0586258556,
-        "fetched":1731599642536
+        "fetched":1731599993435
     }
 ]
