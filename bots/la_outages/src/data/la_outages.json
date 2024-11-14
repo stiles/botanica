@@ -1,13 +1,3 @@
 [
-    {
-        "id":59183,
-        "name":"Granada Hills",
-        "rank":1,
-        "affected":11,
-        "status":"Assigned",
-        "est_fixed":"11\/13\/2024 18:30",
-        "longitude":-118.528565,
-        "latitude":34.289029,
-        "fetched":1731547741709
-    }
+
 ]
