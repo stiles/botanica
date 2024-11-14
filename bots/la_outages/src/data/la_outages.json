@@ -1,6 +1,6 @@
 [
     {
-        "id":59187,
+        "id":59190,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":296,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/14\/2024 10:00",
         "longitude":-118.4400012266,
         "latitude":34.1317818536,
-        "fetched":1731580757572
+        "fetched":1731581173529
     },
     {
-        "id":59188,
+        "id":59191,
         "name":"Sherman Oaks",
         "rank":2,
         "affected":226,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/14\/2024 10:00",
         "longitude":-118.4399982266,
         "latitude":34.1318198536,
-        "fetched":1731580757572
+        "fetched":1731581173529
     },
     {
-        "id":59189,
+        "id":59192,
         "name":"Beverly Crest",
         "rank":1,
         "affected":67,
@@ -30,6 +30,6 @@
         "est_fixed":"11\/14\/2024 00:30",
         "longitude":-118.4278162245,
         "latitude":34.1312528542,
-        "fetched":1731580757572
+        "fetched":1731581173529
     }
 ]
