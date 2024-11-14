@@ -33493,5 +33493,16 @@
         "longitude":-118.2637011911,
         "latitude":34.0586258556,
         "fetched":"2024-11-14 08:08:45.035755-08:00"
+    },
+    {
+        "id":59212,
+        "name":"Westlake",
+        "rank":1,
+        "affected":132,
+        "status":"Crews Working",
+        "est_fixed":"11\/14\/2024 11:00",
+        "longitude":-118.263689,
+        "latitude":34.058621,
+        "fetched":"2024-11-14 08:19:41.653737-08:00"
     }
 ]
