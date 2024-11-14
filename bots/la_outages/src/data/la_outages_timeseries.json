@@ -32888,5 +32888,27 @@
         "longitude":-118.528565,
         "latitude":34.289029,
         "fetched":"2024-11-13 17:29:01.709791-08:00"
+    },
+    {
+        "id":59185,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":296,
+        "status":"Assigned",
+        "est_fixed":"11\/14\/2024 10:00",
+        "longitude":-118.4400012266,
+        "latitude":34.1317818536,
+        "fetched":"2024-11-14 02:18:10.769693-08:00"
+    },
+    {
+        "id":59186,
+        "name":"Beverly Crest",
+        "rank":1,
+        "affected":67,
+        "status":"Crews Working",
+        "est_fixed":"11\/14\/2024 00:30",
+        "longitude":-118.4278162245,
+        "latitude":34.1312528542,
+        "fetched":"2024-11-14 02:18:10.769693-08:00"
     }
 ]
