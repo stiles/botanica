@@ -35000,5 +35000,49 @@
         "longitude":-118.302462,
         "latitude":33.808117,
         "fetched":"2024-11-15 13:36:45.483739-08:00"
+    },
+    {
+        "id":59289,
+        "name":"Vermont-Slauson",
+        "rank":1,
+        "affected":1814,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 13:30",
+        "longitude":-118.2821151886,
+        "latitude":33.989992847,
+        "fetched":"2024-11-15 13:42:41.339583-08:00"
+    },
+    {
+        "id":59290,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":203,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 18:30",
+        "longitude":-118.3032782155,
+        "latitude":34.273884877,
+        "fetched":"2024-11-15 13:42:41.339583-08:00"
+    },
+    {
+        "id":59292,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":16,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 14:00",
+        "longitude":-118.3167351747,
+        "latitude":33.7451758179,
+        "fetched":"2024-11-15 13:42:41.339583-08:00"
+    },
+    {
+        "id":59291,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":2,
+        "status":"Reported Outage",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.3024741773,
+        "latitude":33.8081218257,
+        "fetched":"2024-11-15 13:42:41.339583-08:00"
     }
 ]
