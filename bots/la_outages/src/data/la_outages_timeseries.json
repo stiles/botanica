@@ -34538,5 +34538,27 @@
         "longitude":-118.303266,
         "latitude":34.27388,
         "fetched":"2024-11-15 11:21:19.709997-08:00"
+    },
+    {
+        "id":59269,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":203,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 18:30",
+        "longitude":-118.3032782155,
+        "latitude":34.273884877,
+        "fetched":"2024-11-15 11:26:51.907395-08:00"
+    },
+    {
+        "id":59270,
+        "name":"Vermont-Slauson",
+        "rank":1,
+        "affected":177,
+        "status":"Reported Outage",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.2870751894,
+        "latitude":33.9893578466,
+        "fetched":"2024-11-15 11:26:51.907395-08:00"
     }
 ]
