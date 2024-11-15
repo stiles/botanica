@@ -34362,5 +34362,16 @@
         "longitude":-118.303266,
         "latitude":34.27388,
         "fetched":"2024-11-15 09:13:13.888638-08:00"
+    },
+    {
+        "id":59260,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":203,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 18:30",
+        "longitude":-118.303266,
+        "latitude":34.27388,
+        "fetched":"2024-11-15 09:23:22.270006-08:00"
     }
 ]
