@@ -1,24 +1,24 @@
 [
     {
-        "id":59277,
+        "id":59279,
+        "name":"Vermont-Slauson",
         "rank":1,
         "affected":1814,
         "status":"Crews Working",
         "est_fixed":"11\/15\/2024 13:30",
-        "name":"Vermont-Slauson",
         "longitude":-118.282103,
         "latitude":33.989988,
-        "fetched":1731703165293
+        "fetched":1731703523034
     },
     {
-        "id":59278,
+        "id":59280,
+        "name":"Tujunga",
         "rank":1,
         "affected":203,
         "status":"Crews Working",
         "est_fixed":"11\/15\/2024 18:30",
-        "name":"Tujunga",
         "longitude":-118.303266,
         "latitude":34.27388,
-        "fetched":1731703165293
+        "fetched":1731703523034
     }
 ]
