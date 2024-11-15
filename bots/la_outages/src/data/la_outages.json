@@ -1,13 +1,13 @@
 [
     {
-        "id":59232,
+        "id":59233,
         "name":"Cheviot Hills",
         "rank":1,
         "affected":9,
         "status":"En Route",
         "est_fixed":"11\/14\/2024 20:00",
-        "longitude":-118.415305,
-        "latitude":34.038569,
-        "fetched":1731629587946
+        "longitude":-118.4153172148,
+        "latitude":34.0385738448,
+        "fetched":1731630908824
     }
 ]
