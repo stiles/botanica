@@ -1,6 +1,6 @@
 [
     {
-        "id":59451,
+        "id":59452,
         "name":"Harbor City",
         "rank":1,
         "affected":34,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/16\/2024 00:30",
         "longitude":-118.3012901766,
         "latitude":33.801159825,
-        "fetched":1731740952701
+        "fetched":1731741521591
     }
 ]
