@@ -1,35 +1,46 @@
 [
     {
-        "id":59423,
+        "id":59427,
         "name":"Harbor City",
         "rank":2,
         "affected":2,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.302462,
-        "latitude":33.808117,
-        "fetched":1731730094021
+        "longitude":-118.3024741773,
+        "latitude":33.8081218257,
+        "fetched":1731730732441
     },
     {
-        "id":59424,
+        "id":59428,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.316723,
-        "latitude":33.745171,
-        "fetched":1731730094021
+        "longitude":-118.3167351747,
+        "latitude":33.7451758179,
+        "fetched":1731730732441
     },
     {
-        "id":59422,
+        "id":59425,
         "name":"Harbor City",
         "rank":1,
         "affected":19,
         "status":"Crews Working",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.300645,
-        "latitude":33.797759,
-        "fetched":1731730094021
+        "longitude":-118.3006571762,
+        "latitude":33.7977638246,
+        "fetched":1731730732441
+    },
+    {
+        "id":59426,
+        "name":"Chinatown",
+        "rank":1,
+        "affected":1245,
+        "status":"En Route",
+        "est_fixed":"11\/16\/2024 02:00",
+        "longitude":-118.2264061854,
+        "latitude":34.0660518585,
+        "fetched":1731730732441
     }
 ]
