@@ -1,17 +1,6 @@
 [
     {
-        "id":59394,
-        "name":"Harbor City",
-        "rank":3,
-        "affected":19,
-        "status":"Assigned",
-        "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.3006571762,
-        "latitude":33.7977638246,
-        "fetched":1731724496957
-    },
-    {
-        "id":59395,
+        "id":59407,
         "name":"Harbor City",
         "rank":1,
         "affected":286,
@@ -19,10 +8,10 @@
         "est_fixed":"11\/15\/2024 18:00",
         "longitude":-118.3002881771,
         "latitude":33.809597826,
-        "fetched":1731724496957
+        "fetched":1731725827494
     },
     {
-        "id":59397,
+        "id":59409,
         "name":"Harbor City",
         "rank":4,
         "affected":2,
@@ -30,10 +19,10 @@
         "est_fixed":"11\/15\/2024 15:30",
         "longitude":-118.3024741773,
         "latitude":33.8081218257,
-        "fetched":1731724496957
+        "fetched":1731725827494
     },
     {
-        "id":59398,
+        "id":59410,
         "name":"Harbor City",
         "rank":2,
         "affected":115,
@@ -41,10 +30,10 @@
         "est_fixed":"11\/15\/2024 20:00",
         "longitude":-118.3013031767,
         "latitude":33.8019168251,
-        "fetched":1731724496957
+        "fetched":1731725827494
     },
     {
-        "id":59399,
+        "id":59411,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
@@ -52,10 +41,10 @@
         "est_fixed":"11\/15\/2024 18:00",
         "longitude":-118.3167351747,
         "latitude":33.7451758179,
-        "fetched":1731724496957
+        "fetched":1731725827494
     },
     {
-        "id":59396,
+        "id":59408,
         "name":"Los Feliz",
         "rank":1,
         "affected":9,
@@ -63,6 +52,17 @@
         "est_fixed":null,
         "longitude":-118.281339198,
         "latitude":34.1072918599,
-        "fetched":1731724496957
+        "fetched":1731725827494
+    },
+    {
+        "id":59406,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":19,
+        "status":"En Route",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.3006571762,
+        "latitude":33.7977638246,
+        "fetched":1731725827494
     }
 ]
