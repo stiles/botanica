@@ -35704,5 +35704,60 @@
         "longitude":-118.303266,
         "latitude":34.27388,
         "fetched":"2024-11-15 16:01:08.424222-08:00"
+    },
+    {
+        "id":59333,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":220,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 20:00",
+        "longitude":-118.3037781778,
+        "latitude":33.811606826,
+        "fetched":"2024-11-15 16:31:53.765934-08:00"
+    },
+    {
+        "id":59334,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":2,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.3024741773,
+        "latitude":33.8081218257,
+        "fetched":"2024-11-15 16:31:53.765934-08:00"
+    },
+    {
+        "id":59335,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":938,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.2999101759,
+        "latitude":33.7956278244,
+        "fetched":"2024-11-15 16:31:53.765934-08:00"
+    },
+    {
+        "id":59336,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":16,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 18:00",
+        "longitude":-118.3167351747,
+        "latitude":33.7451758179,
+        "fetched":"2024-11-15 16:31:53.765934-08:00"
+    },
+    {
+        "id":59331,
+        "name":"Tujunga",
+        "rank":1,
+        "affected":203,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 18:30",
+        "longitude":-118.3032782155,
+        "latitude":34.273884877,
+        "fetched":"2024-11-15 16:31:53.765934-08:00"
     }
 ]
