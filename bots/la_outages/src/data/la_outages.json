@@ -1,13 +1,13 @@
 [
     {
-        "id":59476,
+        "id":59477,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":155,
         "status":"Crews Working",
         "est_fixed":"11\/16\/2024 07:00",
-        "longitude":-118.422458,
-        "latitude":34.157441,
-        "fetched":1731764417240
+        "longitude":-118.4224702258,
+        "latitude":34.1574458574,
+        "fetched":1731764773294
     }
 ]
