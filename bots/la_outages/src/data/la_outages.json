@@ -1,68 +1,46 @@
 [
     {
-        "id":59407,
+        "id":59414,
         "name":"Harbor City",
-        "rank":1,
-        "affected":286,
-        "status":"Assigned",
-        "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.3002881771,
-        "latitude":33.809597826,
-        "fetched":1731725827494
-    },
-    {
-        "id":59409,
-        "name":"Harbor City",
-        "rank":4,
+        "rank":2,
         "affected":2,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.3024741773,
-        "latitude":33.8081218257,
-        "fetched":1731725827494
+        "longitude":-118.302462,
+        "latitude":33.808117,
+        "fetched":1731726752633
     },
     {
-        "id":59410,
-        "name":"Harbor City",
-        "rank":2,
-        "affected":115,
-        "status":"Assigned",
-        "est_fixed":"11\/15\/2024 20:00",
-        "longitude":-118.3013031767,
-        "latitude":33.8019168251,
-        "fetched":1731725827494
-    },
-    {
-        "id":59411,
+        "id":59415,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.3167351747,
-        "latitude":33.7451758179,
-        "fetched":1731725827494
+        "longitude":-118.316723,
+        "latitude":33.745171,
+        "fetched":1731726752633
     },
     {
-        "id":59408,
+        "id":59412,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.300645,
+        "latitude":33.797759,
+        "fetched":1731726752633
+    },
+    {
+        "id":59413,
         "name":"Los Feliz",
         "rank":1,
         "affected":9,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.281339198,
-        "latitude":34.1072918599,
-        "fetched":1731725827494
-    },
-    {
-        "id":59406,
-        "name":"Harbor City",
-        "rank":3,
-        "affected":19,
-        "status":"En Route",
-        "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.3006571762,
-        "latitude":33.7977638246,
-        "fetched":1731725827494
+        "longitude":-118.281327,
+        "latitude":34.107287,
+        "fetched":1731726752633
     }
 ]
