@@ -1,6 +1,6 @@
 [
     {
-        "id":59420,
+        "id":59423,
         "name":"Harbor City",
         "rank":2,
         "affected":2,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/15\/2024 15:30",
         "longitude":-118.302462,
         "latitude":33.808117,
-        "fetched":1731729155893
+        "fetched":1731729525179
     },
     {
-        "id":59421,
+        "id":59424,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/15\/2024 18:00",
         "longitude":-118.316723,
         "latitude":33.745171,
-        "fetched":1731729155893
+        "fetched":1731729525179
     },
     {
-        "id":59419,
+        "id":59422,
         "name":"Harbor City",
         "rank":1,
         "affected":19,
@@ -30,6 +30,6 @@
         "est_fixed":"11\/15\/2024 15:30",
         "longitude":-118.300645,
         "latitude":33.797759,
-        "fetched":1731729155893
+        "fetched":1731729525179
     }
 ]

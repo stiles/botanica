@@ -36276,5 +36276,38 @@
         "longitude":-118.300645,
         "latitude":33.797759,
         "fetched":"2024-11-15 19:52:35.893090-08:00"
+    },
+    {
+        "id":59423,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":2,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.302462,
+        "latitude":33.808117,
+        "fetched":"2024-11-15 19:58:45.179899-08:00"
+    },
+    {
+        "id":59424,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":16,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 18:00",
+        "longitude":-118.316723,
+        "latitude":33.745171,
+        "fetched":"2024-11-15 19:58:45.179899-08:00"
+    },
+    {
+        "id":59422,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.300645,
+        "latitude":33.797759,
+        "fetched":"2024-11-15 19:58:45.179899-08:00"
     }
 ]
