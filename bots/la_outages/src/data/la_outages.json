@@ -1,57 +1,68 @@
 [
     {
-        "id":59340,
+        "id":59361,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":66,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 18:00",
+        "longitude":-118.3002881771,
+        "latitude":33.809597826,
+        "fetched":1731720501803
+    },
+    {
+        "id":59363,
         "name":"Harbor City",
         "rank":2,
         "affected":220,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.303766,
-        "latitude":33.811602,
-        "fetched":1731718512816
+        "longitude":-118.3037781778,
+        "latitude":33.811606826,
+        "fetched":1731720501803
     },
     {
-        "id":59341,
+        "id":59364,
         "name":"Harbor City",
-        "rank":3,
+        "rank":4,
         "affected":2,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.302462,
-        "latitude":33.808117,
-        "fetched":1731718512816
+        "longitude":-118.3024741773,
+        "latitude":33.8081218257,
+        "fetched":1731720501803
     },
     {
-        "id":59342,
+        "id":59365,
         "name":"Harbor City",
         "rank":1,
         "affected":938,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.299898,
-        "latitude":33.795623,
-        "fetched":1731718512816
+        "longitude":-118.2999101759,
+        "latitude":33.7956278244,
+        "fetched":1731720501803
     },
     {
-        "id":59343,
+        "id":59366,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.316723,
-        "latitude":33.745171,
-        "fetched":1731718512816
+        "longitude":-118.3167351747,
+        "latitude":33.7451758179,
+        "fetched":1731720501803
     },
     {
-        "id":59338,
-        "name":"Tujunga",
+        "id":59362,
+        "name":"Los Feliz",
         "rank":1,
-        "affected":203,
+        "affected":9,
         "status":"Crews Working",
-        "est_fixed":"11\/15\/2024 18:30",
-        "longitude":-118.303266,
-        "latitude":34.27388,
-        "fetched":1731718512816
+        "est_fixed":null,
+        "longitude":-118.281339198,
+        "latitude":34.1072918599,
+        "fetched":1731720501803
     }
 ]
