@@ -1,13 +1,13 @@
 [
     {
-        "id":59488,
+        "id":59489,
         "name":"Harbor City",
         "rank":1,
         "affected":2,
         "status":"Crews Working",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.3024741773,
-        "latitude":33.8081218257,
-        "fetched":1731780482505
+        "longitude":-118.302462,
+        "latitude":33.808117,
+        "fetched":1731781118496
     }
 ]
