@@ -8,7 +8,7 @@
         "name":"Chinatown",
         "longitude":-118.2264061854,
         "latitude":34.0660518585,
-        "fetched":1731733222209
+        "fetched":1731733723409
     },
     {
         "id":59439,
@@ -19,7 +19,7 @@
         "name":"Harbor City",
         "longitude":-118.2999101759,
         "latitude":33.7956278244,
-        "fetched":1731733222209
+        "fetched":1731733723409
     },
     {
         "id":59440,
@@ -30,6 +30,6 @@
         "name":"Harbor City",
         "longitude":-118.3024741773,
         "latitude":33.8081218257,
-        "fetched":1731733222209
+        "fetched":1731733723409
     }
 ]
