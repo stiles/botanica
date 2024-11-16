@@ -36991,5 +36991,27 @@
         "longitude":-118.393245,
         "latitude":34.033544,
         "fetched":"2024-11-16 02:54:59.503924-08:00"
+    },
+    {
+        "id":59457,
+        "name":"Palms",
+        "rank":1,
+        "affected":13500,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 08:30",
+        "longitude":-118.3932572107,
+        "latitude":34.0335488455,
+        "fetched":"2024-11-16 03:00:53.698318-08:00"
+    },
+    {
+        "id":59458,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":155,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 07:00",
+        "longitude":-118.4224702258,
+        "latitude":34.1574458574,
+        "fetched":"2024-11-16 03:00:53.698318-08:00"
     }
 ]
