@@ -1,68 +1,79 @@
 [
     {
-        "id":59361,
+        "id":59378,
+        "name":"Harbor City",
+        "rank":4,
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.300645,
+        "latitude":33.797759,
+        "fetched":1731722721714
+    },
+    {
+        "id":59379,
         "name":"Harbor City",
         "rank":3,
         "affected":66,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.3002881771,
-        "latitude":33.809597826,
-        "fetched":1731720501803
+        "longitude":-118.300276,
+        "latitude":33.809593,
+        "fetched":1731722721714
     },
     {
-        "id":59363,
+        "id":59381,
         "name":"Harbor City",
-        "rank":2,
+        "rank":1,
         "affected":220,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.3037781778,
-        "latitude":33.811606826,
-        "fetched":1731720501803
+        "longitude":-118.303766,
+        "latitude":33.811602,
+        "fetched":1731722721714
     },
     {
-        "id":59364,
+        "id":59382,
         "name":"Harbor City",
-        "rank":4,
+        "rank":5,
         "affected":2,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.3024741773,
-        "latitude":33.8081218257,
-        "fetched":1731720501803
+        "longitude":-118.302462,
+        "latitude":33.808117,
+        "fetched":1731722721714
     },
     {
-        "id":59365,
+        "id":59383,
         "name":"Harbor City",
-        "rank":1,
-        "affected":938,
+        "rank":2,
+        "affected":115,
         "status":"Assigned",
-        "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.2999101759,
-        "latitude":33.7956278244,
-        "fetched":1731720501803
+        "est_fixed":"11\/15\/2024 20:00",
+        "longitude":-118.301291,
+        "latitude":33.801912,
+        "fetched":1731722721714
     },
     {
-        "id":59366,
+        "id":59384,
         "name":"San Pedro",
         "rank":1,
         "affected":16,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 18:00",
-        "longitude":-118.3167351747,
-        "latitude":33.7451758179,
-        "fetched":1731720501803
+        "longitude":-118.316723,
+        "latitude":33.745171,
+        "fetched":1731722721714
     },
     {
-        "id":59362,
+        "id":59380,
         "name":"Los Feliz",
         "rank":1,
         "affected":9,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.281339198,
-        "latitude":34.1072918599,
-        "fetched":1731720501803
+        "longitude":-118.281327,
+        "latitude":34.107287,
+        "fetched":1731722721714
     }
 ]
