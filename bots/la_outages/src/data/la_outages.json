@@ -1,35 +1,35 @@
 [
     {
-        "id":59438,
-        "rank":1,
-        "affected":1261,
-        "status":"Crews Working",
-        "est_fixed":"11\/16\/2024 02:00",
-        "name":"Chinatown",
-        "longitude":-118.2264061854,
-        "latitude":34.0660518585,
-        "fetched":1731733723409
-    },
-    {
-        "id":59439,
-        "rank":1,
-        "affected":938,
-        "status":"Crews Working",
-        "est_fixed":"11\/15\/2024 15:30",
+        "id":59443,
         "name":"Harbor City",
-        "longitude":-118.2999101759,
-        "latitude":33.7956278244,
-        "fetched":1731733723409
-    },
-    {
-        "id":59440,
         "rank":2,
         "affected":2,
         "status":"Assigned",
         "est_fixed":"11\/15\/2024 15:30",
-        "name":"Harbor City",
         "longitude":-118.3024741773,
         "latitude":33.8081218257,
-        "fetched":1731733723409
+        "fetched":1731734313175
+    },
+    {
+        "id":59441,
+        "name":"Chinatown",
+        "rank":1,
+        "affected":1261,
+        "status":"Crews Working",
+        "est_fixed":"11\/16\/2024 02:00",
+        "longitude":-118.2264061854,
+        "latitude":34.0660518585,
+        "fetched":1731734313175
+    },
+    {
+        "id":59442,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":938,
+        "status":"Crews Working",
+        "est_fixed":"11\/15\/2024 15:30",
+        "longitude":-118.2999101759,
+        "latitude":33.7956278244,
+        "fetched":1731734313175
     }
 ]
