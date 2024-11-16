@@ -1,3 +1,24 @@
 [
-
+    {
+        "id":59468,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":155,
+        "status":"En Route",
+        "est_fixed":"11\/16\/2024 07:00",
+        "longitude":-118.4224702258,
+        "latitude":34.1574458574,
+        "fetched":1731759841419
+    },
+    {
+        "id":59467,
+        "name":"Palms",
+        "rank":1,
+        "affected":13705,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 08:30",
+        "longitude":-118.3932572107,
+        "latitude":34.0335488455,
+        "fetched":1731759841419
+    }
 ]
