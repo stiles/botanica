@@ -1,13 +1,24 @@
 [
     {
-        "id":59489,
-        "name":"Harbor City",
+        "id":59490,
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 14:00",
+        "name":"Palms",
+        "longitude":-118.4188842135,
+        "latitude":34.0157018421,
+        "fetched":1731781860371
+    },
+    {
+        "id":59491,
         "rank":1,
         "affected":2,
         "status":"Crews Working",
         "est_fixed":"11\/15\/2024 15:30",
-        "longitude":-118.302462,
-        "latitude":33.808117,
-        "fetched":1731781118496
+        "name":"Harbor City",
+        "longitude":-118.3024741773,
+        "latitude":33.8081218257,
+        "fetched":1731781860371
     }
 ]
