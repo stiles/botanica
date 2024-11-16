@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":59455,
+        "name":"Palms",
+        "rank":1,
+        "affected":13384,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 08:30",
+        "longitude":-118.3932572107,
+        "latitude":34.0335488455,
+        "fetched":1731752911259
+    }
 ]
