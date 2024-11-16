@@ -1,13 +1,13 @@
 [
     {
-        "id":59484,
+        "id":59485,
         "name":"Harbor City",
         "rank":1,
         "affected":2,
-        "status":"Assigned",
+        "status":"Reported Outage",
         "est_fixed":"11\/15\/2024 15:30",
         "longitude":-118.3024741773,
         "latitude":33.8081218257,
-        "fetched":1731777058391
+        "fetched":1731777627468
     }
 ]
