@@ -1,6 +1,6 @@
 [
     {
-        "id":59553,
+        "id":59554,
         "name":"Broadway-Manchester",
         "rank":1,
         "affected":32,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/17\/2024 09:00",
         "longitude":-118.2759341842,
         "latitude":33.9487708427,
-        "fetched":1731877645311
+        "fetched":1731878189481
     }
 ]
