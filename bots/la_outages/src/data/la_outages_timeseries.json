@@ -37739,5 +37739,16 @@
         "longitude":-118.4785482453,
         "latitude":34.2799658676,
         "fetched":"2024-11-16 17:37:55.681179-08:00"
+    },
+    {
+        "id":59502,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/16\/2024 23:30",
+        "longitude":-118.4785482453,
+        "latitude":34.2799658676,
+        "fetched":"2024-11-16 18:15:17.388693-08:00"
     }
 ]
