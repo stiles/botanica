@@ -1,13 +1,13 @@
 [
     {
-        "id":59552,
+        "id":59553,
         "name":"Broadway-Manchester",
         "rank":1,
         "affected":32,
         "status":"Crews Working",
         "est_fixed":"11\/17\/2024 09:00",
-        "longitude":-118.275922,
-        "latitude":33.948766,
-        "fetched":1731876820277
+        "longitude":-118.2759341842,
+        "latitude":33.9487708427,
+        "fetched":1731877166405
     }
 ]
