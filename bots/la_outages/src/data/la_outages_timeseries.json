@@ -38432,5 +38432,27 @@
         "longitude":-118.2724551882,
         "latitude":34.0047248491,
         "fetched":"2024-11-17 10:44:28.084187-08:00"
+    },
+    {
+        "id":59539,
+        "name":"Broadway-Manchester",
+        "rank":1,
+        "affected":32,
+        "status":"Assigned",
+        "est_fixed":"11\/17\/2024 09:00",
+        "longitude":-118.2759341842,
+        "latitude":33.9487708427,
+        "fetched":"2024-11-17 10:50:07.962002-08:00"
+    },
+    {
+        "id":59540,
+        "name":"Historic South-Central",
+        "rank":1,
+        "affected":2337,
+        "status":"Crews Working",
+        "est_fixed":"11\/17\/2024 15:30",
+        "longitude":-118.2724551882,
+        "latitude":34.0047248491,
+        "fetched":"2024-11-17 10:50:07.962002-08:00"
     }
 ]
