@@ -38058,5 +38058,16 @@
         "longitude":-118.517156,
         "latitude":34.296486,
         "fetched":"2024-11-16 23:35:43.649816-08:00"
+    },
+    {
+        "id":59522,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":30,
+        "status":"Crews Working",
+        "est_fixed":"11\/17\/2024 01:30",
+        "longitude":-118.5171682531,
+        "latitude":34.2964908671,
+        "fetched":"2024-11-16 23:41:21.823251-08:00"
     }
 ]
