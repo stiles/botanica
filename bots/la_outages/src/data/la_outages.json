@@ -1,24 +1,24 @@
 [
     {
-        "id":59541,
+        "id":59543,
         "name":"Broadway-Manchester",
         "rank":1,
         "affected":32,
         "status":"Assigned",
         "est_fixed":"11\/17\/2024 09:00",
-        "longitude":-118.2759341842,
-        "latitude":33.9487708427,
-        "fetched":1731870632389
+        "longitude":-118.275922,
+        "latitude":33.948766,
+        "fetched":1731871167790
     },
     {
-        "id":59542,
+        "id":59544,
         "name":"South Park",
         "rank":1,
-        "affected":1639,
+        "affected":1598,
         "status":"Crews Working",
         "est_fixed":"11\/17\/2024 15:30",
-        "longitude":-118.2739421877,
-        "latitude":33.9965298481,
-        "fetched":1731870632389
+        "longitude":-118.27393,
+        "latitude":33.996525,
+        "fetched":1731871167790
     }
 ]
