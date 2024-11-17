@@ -60,14 +60,10 @@ def run_scraper():
     content = BeautifulSoup(resp.text, 'html.parser')
     script_tag = content.find('script', id='__NEXT_DATA__')
     json_data = json.loads(script_tag.text)
-    # print(json_data)
 
     cookies = json_data['props']['pageProps']['products']['cookies']
 
-    # print(cookies)
-
     for cookie in cookies:
-        print(cookie)
         calorie_info = cookie['calorieInformation']
         cookies_list.append({
             'status': cookie['status'],
@@ -76,6 +72,7 @@ def run_scraper():
             'image': cookie['aerialImage'],
             'calories_serving': calorie_info['perServing'],
             'calories_total': calorie_info['total'],
+            'date': TODAY,
             'fetched': TODAY,
         })
         timeseries_data.append({
@@ -85,6 +82,7 @@ def run_scraper():
             'image': cookie['aerialImage'],
             'calories_serving': calorie_info['perServing'],
             'calories_total': calorie_info['total'],
+            'date': TODAY,
             'fetched': TODAY,
         })
 
