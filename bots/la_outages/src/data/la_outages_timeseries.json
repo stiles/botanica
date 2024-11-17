@@ -38729,5 +38729,16 @@
         "longitude":-118.275922,
         "latitude":33.948766,
         "fetched":"2024-11-17 12:35:24.930557-08:00"
+    },
+    {
+        "id":59552,
+        "name":"Broadway-Manchester",
+        "rank":1,
+        "affected":32,
+        "status":"Crews Working",
+        "est_fixed":"11\/17\/2024 09:00",
+        "longitude":-118.275922,
+        "latitude":33.948766,
+        "fetched":"2024-11-17 12:41:53.799277-08:00"
     }
 ]
