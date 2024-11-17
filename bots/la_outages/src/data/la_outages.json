@@ -1,13 +1,13 @@
 [
     {
-        "id":59515,
+        "id":59516,
         "name":"Granada Hills",
         "rank":1,
         "affected":30,
         "status":"Crews Working",
         "est_fixed":"11\/17\/2024 01:30",
-        "longitude":-118.517156,
-        "latitude":34.296486,
-        "fetched":1731823739702
+        "longitude":-118.5171682531,
+        "latitude":34.2964908671,
+        "fetched":1731824407072
     }
 ]
