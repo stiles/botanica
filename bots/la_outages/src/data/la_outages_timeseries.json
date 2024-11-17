@@ -38586,5 +38586,27 @@
         "longitude":-118.2759341842,
         "latitude":33.9487708427,
         "fetched":"2024-11-17 11:31:12.887188-08:00"
+    },
+    {
+        "id":59546,
+        "name":"South Park",
+        "rank":1,
+        "affected":1639,
+        "status":"Crews Working",
+        "est_fixed":"11\/17\/2024 15:30",
+        "longitude":-118.2739421877,
+        "latitude":33.9965298481,
+        "fetched":"2024-11-17 11:37:18.084939-08:00"
+    },
+    {
+        "id":59545,
+        "name":"Broadway-Manchester",
+        "rank":1,
+        "affected":32,
+        "status":"En Route",
+        "est_fixed":"11\/17\/2024 09:00",
+        "longitude":-118.2759341842,
+        "latitude":33.9487708427,
+        "fetched":"2024-11-17 11:37:18.084939-08:00"
     }
 ]
