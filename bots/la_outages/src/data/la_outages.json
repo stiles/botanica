@@ -1,6 +1,6 @@
 [
     {
-        "id":59592,
+        "id":59594,
         "name":"Sun Valley",
         "rank":1,
         "affected":92,
@@ -8,17 +8,6 @@
         "est_fixed":"11\/18\/2024 16:00",
         "longitude":-118.3758422245,
         "latitude":34.2364758687,
-        "fetched":1731957656893
-    },
-    {
-        "id":59593,
-        "name":"Encino",
-        "rank":1,
-        "affected":8,
-        "status":"En Route",
-        "est_fixed":"11\/18\/2024 12:00",
-        "longitude":-118.50220724,
-        "latitude":34.1687038541,
-        "fetched":1731957656893
+        "fetched":1731958017318
     }
 ]
