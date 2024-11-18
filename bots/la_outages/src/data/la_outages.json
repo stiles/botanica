@@ -1,13 +1,3 @@
 [
-    {
-        "id":59573,
-        "name":"Granada Hills",
-        "rank":1,
-        "affected":665,
-        "status":"Reported Outage",
-        "est_fixed":"11\/18\/2024 06:00",
-        "longitude":-118.5286862517,
-        "latitude":34.2567038621,
-        "fetched":1731930719023
-    }
+
 ]
