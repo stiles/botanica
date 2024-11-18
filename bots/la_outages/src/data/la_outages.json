@@ -1,13 +1,13 @@
 [
     {
-        "id":59581,
+        "id":59582,
         "name":"Encino",
         "rank":1,
         "affected":8,
         "status":"Assigned",
         "est_fixed":"11\/18\/2024 12:00",
-        "longitude":-118.502195,
-        "latitude":34.168699,
-        "fetched":1731951328390
+        "longitude":-118.50220724,
+        "latitude":34.1687038541,
+        "fetched":1731951735580
     }
 ]
