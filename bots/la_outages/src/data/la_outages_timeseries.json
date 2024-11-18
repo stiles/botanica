@@ -38927,5 +38927,16 @@
         "longitude":-118.51072525,
         "latitude":34.2721318649,
         "fetched":"2024-11-18 02:01:27.999923-08:00"
+    },
+    {
+        "id":59560,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":408,
+        "status":"Reported Outage",
+        "est_fixed":"11\/18\/2024 06:00",
+        "longitude":-118.51072525,
+        "latitude":34.2721318649,
+        "fetched":"2024-11-18 02:10:26.365986-08:00"
     }
 ]
