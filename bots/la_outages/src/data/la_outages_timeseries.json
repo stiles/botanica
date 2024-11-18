@@ -39763,5 +39763,16 @@
         "longitude":-118.5777692524,
         "latitude":34.1671118496,
         "fetched":"2024-11-18 15:43:03.157221-08:00"
+    },
+    {
+        "id":59601,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":419,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.5777692524,
+        "latitude":34.1671118496,
+        "fetched":"2024-11-18 15:48:56.697785-08:00"
     }
 ]
