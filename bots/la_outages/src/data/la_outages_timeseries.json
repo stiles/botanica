@@ -39048,5 +39048,27 @@
         "longitude":-118.5286862517,
         "latitude":34.2567038621,
         "fetched":"2024-11-18 02:55:49.761982-08:00"
+    },
+    {
+        "id":59567,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":422,
+        "status":"Crews Working",
+        "est_fixed":"11\/18\/2024 14:00",
+        "longitude":-118.5065802308,
+        "latitude":34.0486268407,
+        "fetched":"2024-11-18 03:02:33.593890-08:00"
+    },
+    {
+        "id":59568,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":665,
+        "status":"Reported Outage",
+        "est_fixed":"11\/18\/2024 06:00",
+        "longitude":-118.5286862517,
+        "latitude":34.2567038621,
+        "fetched":"2024-11-18 03:02:33.593890-08:00"
     }
 ]
