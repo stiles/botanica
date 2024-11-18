@@ -1,6 +1,17 @@
 [
     {
-        "id":59560,
+        "id":59561,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":422,
+        "status":"Crews Working",
+        "est_fixed":"11\/18\/2024 14:00",
+        "longitude":-118.5065802308,
+        "latitude":34.0486268407,
+        "fetched":1731925281089
+    },
+    {
+        "id":59562,
         "name":"Granada Hills",
         "rank":1,
         "affected":408,
@@ -8,6 +19,6 @@
         "est_fixed":"11\/18\/2024 06:00",
         "longitude":-118.51072525,
         "latitude":34.2721318649,
-        "fetched":1731924626365
+        "fetched":1731925281089
     }
 ]
