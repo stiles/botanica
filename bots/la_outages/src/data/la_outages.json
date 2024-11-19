@@ -1,13 +1,13 @@
 [
     {
-        "id":59602,
+        "id":59604,
         "name":"Woodland Hills",
         "rank":1,
-        "affected":419,
+        "affected":0,
         "status":"Assigned",
         "est_fixed":null,
-        "longitude":-118.5777692524,
-        "latitude":34.1671118496,
-        "fetched":1731974475091
+        "longitude":-118.5788872526,
+        "latitude":34.1670068495,
+        "fetched":1731976367517
     }
 ]
