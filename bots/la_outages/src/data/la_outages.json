@@ -1,35 +1,35 @@
 [
     {
-        "id":59614,
+        "id":59620,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":602,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/18\/2024 20:00",
-        "longitude":-118.444467,
-        "latitude":34.153032,
-        "fetched":1731983914818
+        "longitude":-118.4444792291,
+        "latitude":34.1530368557,
+        "fetched":1731985274492
     },
     {
-        "id":59615,
+        "id":59621,
         "name":"Los Feliz",
         "rank":1,
         "affected":94,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/18\/2024 22:00",
-        "longitude":-118.279977,
-        "latitude":34.110748,
-        "fetched":1731983914818
+        "longitude":-118.2799891981,
+        "latitude":34.1107528604,
+        "fetched":1731985274492
     },
     {
-        "id":59616,
+        "id":59622,
         "name":"Woodland Hills",
         "rank":1,
         "affected":0,
         "status":"En Route",
         "est_fixed":null,
-        "longitude":-118.578875,
-        "latitude":34.167002,
-        "fetched":1731983914818
+        "longitude":-118.5788872526,
+        "latitude":34.1670068495,
+        "fetched":1731985274492
     }
 ]
