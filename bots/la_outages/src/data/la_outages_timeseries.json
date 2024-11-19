@@ -40115,5 +40115,27 @@
         "longitude":-118.279906198,
         "latitude":34.1102308603,
         "fetched":"2024-11-18 20:47:21.619496-08:00"
+    },
+    {
+        "id":59635,
+        "name":"Hollywood",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/19\/2024 04:30",
+        "longitude":-118.3486142086,
+        "latitude":34.0984908551,
+        "fetched":"2024-11-18 20:53:17.431675-08:00"
+    },
+    {
+        "id":59634,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/18\/2024 20:00",
+        "longitude":-118.279906198,
+        "latitude":34.1102308603,
+        "fetched":"2024-11-18 20:53:17.431675-08:00"
     }
 ]
