@@ -1,6 +1,6 @@
 [
     {
-        "id":59630,
+        "id":59632,
         "name":"Los Feliz",
         "rank":1,
         "affected":0,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/18\/2024 20:00",
         "longitude":-118.279906198,
         "latitude":34.1102308603,
-        "fetched":1731990007997
+        "fetched":1731990714212
     },
     {
-        "id":59631,
+        "id":59633,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":602,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/18\/2024 20:00",
         "longitude":-118.4444792291,
         "latitude":34.1530368557,
-        "fetched":1731990007997
+        "fetched":1731990714212
     }
 ]
