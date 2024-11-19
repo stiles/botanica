@@ -1,6 +1,6 @@
 [
     {
-        "id":59641,
+        "id":59642,
         "name":"Hollywood",
         "rank":1,
         "affected":0,
@@ -8,17 +8,6 @@
         "est_fixed":"11\/19\/2024 04:30",
         "longitude":-118.3486142086,
         "latitude":34.0984908551,
-        "fetched":1731994609200
-    },
-    {
-        "id":59640,
-        "name":"Los Feliz",
-        "rank":1,
-        "affected":0,
-        "status":"Crews Working",
-        "est_fixed":"11\/18\/2024 20:00",
-        "longitude":-118.279906198,
-        "latitude":34.1102308603,
-        "fetched":1731994609200
+        "fetched":1731995004107
     }
 ]
