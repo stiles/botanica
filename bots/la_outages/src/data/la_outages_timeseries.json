@@ -39840,5 +39840,38 @@
         "longitude":-118.5788872526,
         "latitude":34.1670068495,
         "fetched":"2024-11-18 18:08:41.208549-08:00"
+    },
+    {
+        "id":59614,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":602,
+        "status":"En Route",
+        "est_fixed":"11\/18\/2024 20:00",
+        "longitude":-118.444467,
+        "latitude":34.153032,
+        "fetched":"2024-11-18 18:38:34.818252-08:00"
+    },
+    {
+        "id":59615,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":94,
+        "status":"En Route",
+        "est_fixed":"11\/18\/2024 22:00",
+        "longitude":-118.279977,
+        "latitude":34.110748,
+        "fetched":"2024-11-18 18:38:34.818252-08:00"
+    },
+    {
+        "id":59616,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.578875,
+        "latitude":34.167002,
+        "fetched":"2024-11-18 18:38:34.818252-08:00"
     }
 ]
