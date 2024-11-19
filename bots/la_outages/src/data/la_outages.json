@@ -1,24 +1,13 @@
 [
     {
-        "id":59623,
+        "id":59625,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":602,
         "status":"Crews Working",
         "est_fixed":"11\/18\/2024 20:00",
-        "longitude":-118.444467,
-        "latitude":34.153032,
-        "fetched":1731986250965
-    },
-    {
-        "id":59624,
-        "name":"Los Feliz",
-        "rank":1,
-        "affected":94,
-        "status":"Crews Working",
-        "est_fixed":"11\/18\/2024 22:00",
-        "longitude":-118.279977,
-        "latitude":34.110748,
-        "fetched":1731986250965
+        "longitude":-118.4444792291,
+        "latitude":34.1530368557,
+        "fetched":1731987092702
     }
 ]
