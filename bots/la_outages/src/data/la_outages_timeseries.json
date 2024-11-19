@@ -39983,5 +39983,27 @@
         "longitude":-118.4444792291,
         "latitude":34.1530368557,
         "fetched":"2024-11-18 19:53:33.238094-08:00"
+    },
+    {
+        "id":59628,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/18\/2024 20:00",
+        "longitude":-118.279894,
+        "latitude":34.110226,
+        "fetched":"2024-11-18 19:59:32.936604-08:00"
+    },
+    {
+        "id":59629,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":602,
+        "status":"Crews Working",
+        "est_fixed":"11\/18\/2024 20:00",
+        "longitude":-118.444467,
+        "latitude":34.153032,
+        "fetched":"2024-11-18 19:59:32.936604-08:00"
     }
 ]
