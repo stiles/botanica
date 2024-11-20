@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":59693,
+        "name":"Hollywood",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 08:30",
+        "longitude":-118.3390212065,
+        "latitude":34.092554855,
+        "fetched":1732111398992
+    }
 ]

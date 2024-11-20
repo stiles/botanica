@@ -41050,5 +41050,16 @@
         "longitude":-118.1976241868,
         "latitude":34.1422298686,
         "fetched":"2024-11-20 01:55:22.392644-08:00"
+    },
+    {
+        "id":59693,
+        "name":"Hollywood",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/16\/2024 08:30",
+        "longitude":-118.3390212065,
+        "latitude":34.092554855,
+        "fetched":"2024-11-20 06:03:18.992845-08:00"
     }
 ]
