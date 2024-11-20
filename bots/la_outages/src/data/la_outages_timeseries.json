@@ -41820,5 +41820,16 @@
         "longitude":-118.4321732162,
         "latitude":34.021618842,
         "fetched":"2024-11-20 15:50:35.413963-08:00"
+    },
+    {
+        "id":59728,
+        "name":"Mar Vista",
+        "rank":1,
+        "affected":646,
+        "status":"Crews Working",
+        "est_fixed":"11\/20\/2024 17:00",
+        "longitude":-118.432161,
+        "latitude":34.021614,
+        "fetched":"2024-11-20 15:56:15.583714-08:00"
     }
 ]
