@@ -1,6 +1,6 @@
 [
     {
-        "id":59703,
+        "id":59704,
         "name":"Harvard Park",
         "rank":1,
         "affected":1484,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/20\/2024 15:30",
         "longitude":-118.3087031932,
         "latitude":33.9917918457,
-        "fetched":1732126846733
+        "fetched":1732127657321
     }
 ]
