@@ -1,6 +1,6 @@
 [
     {
-        "id":59715,
+        "id":59716,
         "name":"Porter Ranch",
         "rank":1,
         "affected":1,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/20\/2024 15:00",
         "longitude":-118.5399092538,
         "latitude":34.2589068617,
-        "fetched":1732136002271
+        "fetched":1732136360089
     }
 ]
