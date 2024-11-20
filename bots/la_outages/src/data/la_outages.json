@@ -1,13 +1,13 @@
 [
     {
-        "id":59716,
-        "name":"Porter Ranch",
+        "id":59717,
+        "name":"Mar Vista",
         "rank":1,
-        "affected":1,
-        "status":"Crews Working",
-        "est_fixed":"11\/20\/2024 15:00",
-        "longitude":-118.5399092538,
-        "latitude":34.2589068617,
-        "fetched":1732136842643
+        "affected":12,
+        "status":"Assigned",
+        "est_fixed":"11\/20\/2024 17:00",
+        "longitude":-118.4315302161,
+        "latitude":34.0207898419,
+        "fetched":1732137426758
     }
 ]
