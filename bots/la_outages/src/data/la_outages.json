@@ -1,13 +1,13 @@
 [
     {
-        "id":59698,
-        "name":"Chesterfield Square",
+        "id":59699,
+        "name":"Harvard Park",
         "rank":1,
-        "affected":498,
-        "status":"Reported Outage",
-        "est_fixed":"11\/20\/2024 13:30",
-        "longitude":-118.3095081933,
-        "latitude":33.9913018456,
-        "fetched":1732122990467
+        "affected":1449,
+        "status":"Assigned",
+        "est_fixed":"11\/20\/2024 15:30",
+        "longitude":-118.3087031932,
+        "latitude":33.9917918457,
+        "fetched":1732123611969
     }
 ]
