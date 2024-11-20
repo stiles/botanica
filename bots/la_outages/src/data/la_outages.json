@@ -1,6 +1,6 @@
 [
     {
-        "id":59667,
+        "id":59669,
         "name":"Venice",
         "rank":1,
         "affected":40,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/19\/2024 23:30",
         "longitude":-118.4607382186,
         "latitude":33.9924628372,
-        "fetched":1732075515351
+        "fetched":1732076113930
     },
     {
-        "id":59668,
+        "id":59670,
         "name":"East Hollywood",
         "rank":1,
         "affected":2336,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/20\/2024 02:00",
         "longitude":-118.3092922004,
         "latitude":34.0797678553,
-        "fetched":1732075515351
+        "fetched":1732076113930
     }
 ]
