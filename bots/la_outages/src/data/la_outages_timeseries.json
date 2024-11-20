@@ -41380,5 +41380,27 @@
         "longitude":-118.3087031932,
         "latitude":33.9917918457,
         "fetched":"2024-11-20 11:20:52.674054-08:00"
+    },
+    {
+        "id":59710,
+        "name":"Porter Ranch",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/20\/2024 15:00",
+        "longitude":-118.5399092538,
+        "latitude":34.2589068617,
+        "fetched":"2024-11-20 11:26:53.590587-08:00"
+    },
+    {
+        "id":59709,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":1484,
+        "status":"En Route",
+        "est_fixed":"11\/20\/2024 15:30",
+        "longitude":-118.3087031932,
+        "latitude":33.9917918457,
+        "fetched":"2024-11-20 11:26:53.590587-08:00"
     }
 ]
