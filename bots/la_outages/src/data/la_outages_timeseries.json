@@ -41325,5 +41325,16 @@
         "longitude":-118.308691,
         "latitude":33.991787,
         "fetched":"2024-11-20 10:56:52.745912-08:00"
+    },
+    {
+        "id":59706,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":1484,
+        "status":"En Route",
+        "est_fixed":"11\/20\/2024 15:30",
+        "longitude":-118.308691,
+        "latitude":33.991787,
+        "fetched":"2024-11-20 11:03:51.436148-08:00"
     }
 ]
