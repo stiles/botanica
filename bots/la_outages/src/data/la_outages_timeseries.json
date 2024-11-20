@@ -41149,5 +41149,16 @@
         "longitude":-118.3390212065,
         "latitude":34.092554855,
         "fetched":"2024-11-20 07:07:01.969229-08:00"
+    },
+    {
+        "id":59698,
+        "name":"Chesterfield Square",
+        "rank":1,
+        "affected":498,
+        "status":"Reported Outage",
+        "est_fixed":"11\/20\/2024 13:30",
+        "longitude":-118.3095081933,
+        "latitude":33.9913018456,
+        "fetched":"2024-11-20 09:16:30.467926-08:00"
     }
 ]
