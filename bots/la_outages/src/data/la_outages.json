@@ -1,13 +1,13 @@
 [
     {
-        "id":59663,
+        "id":59664,
         "name":"East Hollywood",
         "rank":1,
         "affected":2335,
         "status":"En Route",
         "est_fixed":"11\/20\/2024 02:00",
-        "longitude":-118.3092922004,
-        "latitude":34.0797678553,
-        "fetched":1732072591342
+        "longitude":-118.30928,
+        "latitude":34.079763,
+        "fetched":1732073422950
     }
 ]
