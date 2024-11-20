@@ -1,24 +1,35 @@
 [
     {
-        "id":59653,
+        "id":59658,
         "name":"Harvard Heights",
         "rank":1,
         "affected":5,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/20\/2024 02:00",
-        "longitude":-118.310527,
-        "latitude":34.0424,
-        "fetched":1732068508419
+        "longitude":-118.3105391976,
+        "latitude":34.0424048511,
+        "fetched":1732070260989
     },
     {
-        "id":59654,
+        "id":59659,
+        "name":"East Hollywood",
+        "rank":1,
+        "affected":2204,
+        "status":"En Route",
+        "est_fixed":"11\/20\/2024 02:00",
+        "longitude":-118.3092922004,
+        "latitude":34.0797678553,
+        "fetched":1732070260989
+    },
+    {
+        "id":59660,
         "name":"Encino",
         "rank":1,
         "affected":82,
         "status":"En Route",
         "est_fixed":"11\/19\/2024 20:00",
-        "longitude":-118.52709,
-        "latitude":34.168216,
-        "fetched":1732068508419
+        "longitude":-118.5271022441,
+        "latitude":34.1682208526,
+        "fetched":1732070260989
     }
 ]
