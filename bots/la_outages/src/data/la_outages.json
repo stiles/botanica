@@ -1,13 +1,13 @@
 [
     {
-        "id":59646,
+        "id":59648,
         "name":"Hancock Park",
         "rank":1,
         "affected":0,
         "status":"En Route",
         "est_fixed":"11\/19\/2024 19:30",
-        "longitude":-118.342527,
-        "latitude":34.062732,
-        "fetched":1732061128949
+        "longitude":-118.3425392046,
+        "latitude":34.0627368516,
+        "fetched":1732062784649
     }
 ]
