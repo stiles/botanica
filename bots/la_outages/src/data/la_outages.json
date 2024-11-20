@@ -1,13 +1,13 @@
 [
     {
-        "id":59719,
+        "id":59720,
         "name":"Mar Vista",
         "rank":1,
-        "affected":38,
-        "status":"En Route",
-        "est_fixed":"11\/20\/2024 15:00",
-        "longitude":-118.4321732162,
-        "latitude":34.021618842,
-        "fetched":1732139484756
+        "affected":646,
+        "status":"Reported Outage",
+        "est_fixed":"11\/20\/2024 17:00",
+        "longitude":-118.432161,
+        "latitude":34.021614,
+        "fetched":1732139826889
     }
 ]
