@@ -1,13 +1,24 @@
 [
     {
-        "id":59664,
+        "id":59665,
+        "name":"Venice",
+        "rank":1,
+        "affected":40,
+        "status":"Assigned",
+        "est_fixed":"11\/19\/2024 23:30",
+        "longitude":-118.4607382186,
+        "latitude":33.9924628372,
+        "fetched":1732074154063
+    },
+    {
+        "id":59666,
         "name":"East Hollywood",
         "rank":1,
-        "affected":2335,
+        "affected":2336,
         "status":"En Route",
         "est_fixed":"11\/20\/2024 02:00",
-        "longitude":-118.30928,
-        "latitude":34.079763,
-        "fetched":1732073422950
+        "longitude":-118.3092922004,
+        "latitude":34.0797678553,
+        "fetched":1732074154063
     }
 ]
