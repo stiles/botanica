@@ -40665,5 +40665,38 @@
         "longitude":-118.5271022441,
         "latitude":34.1682208526,
         "fetched":"2024-11-19 20:45:17.136451-08:00"
+    },
+    {
+        "id":59673,
+        "name":"Venice",
+        "rank":1,
+        "affected":40,
+        "status":"Crews Working",
+        "est_fixed":"11\/19\/2024 23:30",
+        "longitude":-118.4607382186,
+        "latitude":33.9924628372,
+        "fetched":"2024-11-19 20:52:09.749463-08:00"
+    },
+    {
+        "id":59675,
+        "name":"East Hollywood",
+        "rank":1,
+        "affected":2336,
+        "status":"Crews Working",
+        "est_fixed":"11\/20\/2024 02:00",
+        "longitude":-118.3092922004,
+        "latitude":34.0797678553,
+        "fetched":"2024-11-19 20:52:09.749463-08:00"
+    },
+    {
+        "id":59674,
+        "name":"Encino",
+        "rank":1,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"11\/19\/2024 23:00",
+        "longitude":-118.5271022441,
+        "latitude":34.1682208526,
+        "fetched":"2024-11-19 20:52:09.749463-08:00"
     }
 ]
