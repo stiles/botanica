@@ -40390,5 +40390,27 @@
         "longitude":-118.3425392046,
         "latitude":34.0627368516,
         "fetched":"2024-11-19 17:31:52.853563-08:00"
+    },
+    {
+        "id":59653,
+        "name":"Harvard Heights",
+        "rank":1,
+        "affected":5,
+        "status":"En Route",
+        "est_fixed":"11\/20\/2024 02:00",
+        "longitude":-118.310527,
+        "latitude":34.0424,
+        "fetched":"2024-11-19 18:08:28.419595-08:00"
+    },
+    {
+        "id":59654,
+        "name":"Encino",
+        "rank":1,
+        "affected":82,
+        "status":"En Route",
+        "est_fixed":"11\/19\/2024 20:00",
+        "longitude":-118.52709,
+        "latitude":34.168216,
+        "fetched":"2024-11-19 18:08:28.419595-08:00"
     }
 ]
