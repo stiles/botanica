@@ -41226,5 +41226,27 @@
         "longitude":-118.3143541942,
         "latitude":33.9927098454,
         "fetched":"2024-11-20 09:47:42.572805-08:00"
+    },
+    {
+        "id":59701,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":1439,
+        "status":"En Route",
+        "est_fixed":"11\/20\/2024 15:30",
+        "longitude":-118.3087031932,
+        "latitude":33.9917918457,
+        "fetched":"2024-11-20 09:53:35.474802-08:00"
+    },
+    {
+        "id":59700,
+        "name":"Chesterfield Square",
+        "rank":1,
+        "affected":35,
+        "status":"Reported Outage",
+        "est_fixed":"11\/20\/2024 13:30",
+        "longitude":-118.3143541942,
+        "latitude":33.9927098454,
+        "fetched":"2024-11-20 09:53:35.474802-08:00"
     }
 ]
