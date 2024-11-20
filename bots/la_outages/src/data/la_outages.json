@@ -1,13 +1,24 @@
 [
     {
-        "id":59706,
+        "id":59708,
+        "name":"Porter Ranch",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/20\/2024 15:00",
+        "longitude":-118.5399092538,
+        "latitude":34.2589068617,
+        "fetched":1732129943760
+    },
+    {
+        "id":59707,
         "name":"Harvard Park",
         "rank":1,
         "affected":1484,
         "status":"En Route",
         "est_fixed":"11\/20\/2024 15:30",
-        "longitude":-118.308691,
-        "latitude":33.991787,
-        "fetched":1732129431436
+        "longitude":-118.3087031932,
+        "latitude":33.9917918457,
+        "fetched":1732129943760
     }
 ]
