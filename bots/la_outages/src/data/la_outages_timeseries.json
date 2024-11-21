@@ -42392,5 +42392,27 @@
         "longitude":-118.360967,
         "latitude":34.176188,
         "fetched":"2024-11-21 15:00:59.047469-08:00"
+    },
+    {
+        "id":59757,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"11\/21\/2024 17:30",
+        "longitude":-118.216768,
+        "latitude":34.037979,
+        "fetched":"2024-11-21 15:09:27.712243-08:00"
+    },
+    {
+        "id":59756,
+        "name":"North Hollywood",
+        "rank":1,
+        "affected":8,
+        "status":"Crews Working",
+        "est_fixed":"11\/21\/2024 13:00",
+        "longitude":-118.360967,
+        "latitude":34.176188,
+        "fetched":"2024-11-21 15:09:27.712243-08:00"
     }
 ]
