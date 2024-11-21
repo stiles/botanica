@@ -42018,5 +42018,16 @@
         "longitude":-118.610552,
         "latitude":34.181404,
         "fetched":"2024-11-21 08:06:12.969720-08:00"
+    },
+    {
+        "id":59741,
+        "name":"Hollywood Hills",
+        "rank":1,
+        "affected":50,
+        "status":"Crews Working",
+        "est_fixed":"11\/21\/2024 12:00",
+        "longitude":-118.3205062045,
+        "latitude":34.1068948577,
+        "fetched":"2024-11-21 12:43:37.269519-08:00"
     }
 ]
