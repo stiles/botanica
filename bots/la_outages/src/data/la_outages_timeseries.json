@@ -42106,5 +42106,27 @@
         "longitude":-118.3611652171,
         "latitude":34.176347863,
         "fetched":"2024-11-21 13:28:44.074081-08:00"
+    },
+    {
+        "id":59744,
+        "name":"Hollywood Hills",
+        "rank":1,
+        "affected":50,
+        "status":"Assigned",
+        "est_fixed":"11\/21\/2024 12:00",
+        "longitude":-118.3205062045,
+        "latitude":34.1068948577,
+        "fetched":"2024-11-21 13:35:26.158087-08:00"
+    },
+    {
+        "id":59745,
+        "name":"N Hollywood",
+        "rank":1,
+        "affected":5,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.3611652171,
+        "latitude":34.176347863,
+        "fetched":"2024-11-21 13:35:26.158087-08:00"
     }
 ]
