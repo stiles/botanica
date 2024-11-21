@@ -1,13 +1,13 @@
 [
     {
-        "id":59736,
+        "id":59737,
         "name":"Panorama City",
         "rank":1,
         "affected":35,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"11\/20\/2024 21:30",
         "longitude":-118.427883,
         "latitude":34.209405,
-        "fetched":1732162506208
+        "fetched":1732163253247
     }
 ]
