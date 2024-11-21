@@ -1,13 +1,3 @@
 [
-    {
-        "id":59738,
-        "name":"Watts",
-        "rank":1,
-        "affected":338,
-        "status":"Reported Outage",
-        "est_fixed":"11\/21\/2024 05:30",
-        "longitude":-118.2540131797,
-        "latitude":33.9388958429,
-        "fetched":1732181847221
-    }
+
 ]
