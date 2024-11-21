@@ -42128,5 +42128,27 @@
         "longitude":-118.3611652171,
         "latitude":34.176347863,
         "fetched":"2024-11-21 13:35:26.158087-08:00"
+    },
+    {
+        "id":59746,
+        "name":"Hollywood Hills",
+        "rank":1,
+        "affected":50,
+        "status":"Crews Working",
+        "est_fixed":"11\/21\/2024 12:00",
+        "longitude":-118.320494,
+        "latitude":34.10689,
+        "fetched":"2024-11-21 13:41:30.507231-08:00"
+    },
+    {
+        "id":59747,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/21\/2024 17:30",
+        "longitude":-118.216768,
+        "latitude":34.037979,
+        "fetched":"2024-11-21 13:41:30.507231-08:00"
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
-        "id":59744,
+        "id":59746,
         "name":"Hollywood Hills",
         "rank":1,
         "affected":50,
-        "status":"Assigned",
+        "status":"Crews Working",
         "est_fixed":"11\/21\/2024 12:00",
-        "longitude":-118.3205062045,
-        "latitude":34.1068948577,
-        "fetched":1732224926158
+        "longitude":-118.320494,
+        "latitude":34.10689,
+        "fetched":1732225290507
     },
     {
-        "id":59745,
-        "name":"N Hollywood",
+        "id":59747,
+        "name":"Boyle Heights",
         "rank":1,
-        "affected":5,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.3611652171,
-        "latitude":34.176347863,
-        "fetched":1732224926158
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/21\/2024 17:30",
+        "longitude":-118.216768,
+        "latitude":34.037979,
+        "fetched":1732225290507
     }
 ]
