@@ -1,6 +1,6 @@
 [
     {
-        "id":59749,
+        "id":59751,
         "name":"Boyle Heights",
         "rank":1,
         "affected":0,
@@ -8,17 +8,17 @@
         "est_fixed":"11\/21\/2024 17:30",
         "longitude":-118.216768,
         "latitude":34.037979,
-        "fetched":1732226832695
+        "fetched":1732227404130
     },
     {
-        "id":59748,
-        "name":"Hollywood Hills",
+        "id":59750,
+        "name":"North Hollywood",
         "rank":1,
-        "affected":50,
+        "affected":8,
         "status":"Crews Working",
-        "est_fixed":"11\/21\/2024 12:00",
-        "longitude":-118.320494,
-        "latitude":34.10689,
-        "fetched":1732226832695
+        "est_fixed":"11\/21\/2024 13:00",
+        "longitude":-118.360967,
+        "latitude":34.176188,
+        "fetched":1732227404130
     }
 ]
