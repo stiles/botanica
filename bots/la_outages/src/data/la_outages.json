@@ -1,13 +1,13 @@
 [
     {
-        "id":59803,
+        "id":59804,
         "name":"Canoga Park",
         "rank":1,
         "affected":0,
         "status":"Assigned",
         "est_fixed":"11\/22\/2024 16:00",
-        "longitude":-118.6043842588,
-        "latitude":34.1907308506,
-        "fetched":1732305324735
+        "longitude":-118.604372,
+        "latitude":34.190726,
+        "fetched":1732305714929
     }
 ]
