@@ -1,6 +1,6 @@
 [
     {
-        "id":59782,
+        "id":59783,
         "name":"North Hollywood",
         "rank":1,
         "affected":8,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/21\/2024 13:00",
         "longitude":-118.360979217,
         "latitude":34.176192863,
-        "fetched":1732251132390
+        "fetched":1732251492844
     }
 ]
