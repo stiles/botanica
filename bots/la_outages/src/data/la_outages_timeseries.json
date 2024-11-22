@@ -42722,5 +42722,16 @@
         "longitude":-118.360979217,
         "latitude":34.176192863,
         "fetched":"2024-11-21 20:58:12.844998-08:00"
+    },
+    {
+        "id":59783,
+        "name":"North Hollywood",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":"11\/21\/2024 13:00",
+        "longitude":-118.360979217,
+        "latitude":34.176192863,
+        "fetched":"2024-11-21 21:06:46.592932-08:00"
     }
 ]
