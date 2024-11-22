@@ -1,6 +1,6 @@
 [
     {
-        "id":59794,
+        "id":59795,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":17,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/22\/2024 06:00",
         "longitude":-118.455305,
         "latitude":34.14516,
-        "fetched":1732281883388
+        "fetched":1732282494509
     }
 ]
