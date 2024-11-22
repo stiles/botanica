@@ -42788,5 +42788,16 @@
         "longitude":-118.4553172302,
         "latitude":34.1451648542,
         "fetched":"2024-11-22 03:16:53.892227-08:00"
+    },
+    {
+        "id":59786,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":12,
+        "status":"Reported Outage",
+        "est_fixed":"11\/22\/2024 06:00",
+        "longitude":-118.4553172302,
+        "latitude":34.1451648542,
+        "fetched":"2024-11-22 03:25:03.099362-08:00"
     }
 ]
