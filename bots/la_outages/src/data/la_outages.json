@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":59801,
+        "name":"Hollywood",
+        "rank":1,
+        "affected":53,
+        "status":"En Route",
+        "est_fixed":"11\/22\/2024 21:30",
+        "longitude":-118.314632,
+        "latitude":34.101016,
+        "fetched":1732300951941
+    }
 ]
