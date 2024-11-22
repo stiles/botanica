@@ -1,13 +1,13 @@
 [
     {
-        "id":59765,
+        "id":59766,
         "name":"North Hollywood",
         "rank":1,
         "affected":8,
         "status":"Crews Working",
         "est_fixed":"11\/21\/2024 13:00",
-        "longitude":-118.360967,
-        "latitude":34.176188,
-        "fetched":1732235545364
+        "longitude":-118.360979217,
+        "latitude":34.176192863,
+        "fetched":1732236964427
     }
 ]
