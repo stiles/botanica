@@ -1,13 +1,13 @@
 [
     {
-        "id":59786,
+        "id":59787,
         "name":"Sherman Oaks",
         "rank":1,
-        "affected":12,
-        "status":"Reported Outage",
+        "affected":17,
+        "status":"En Route",
         "est_fixed":"11\/22\/2024 06:00",
         "longitude":-118.4553172302,
         "latitude":34.1451648542,
-        "fetched":1732274703099
+        "fetched":1732275059343
     }
 ]
