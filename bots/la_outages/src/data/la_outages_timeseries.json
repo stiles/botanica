@@ -44845,5 +44845,60 @@
         "longitude":-118.24853,
         "latitude":34.026777,
         "fetched":"2024-11-23 09:26:35.631655-08:00"
+    },
+    {
+        "id":59901,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":107,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.210819,
+        "latitude":34.023167,
+        "fetched":"2024-11-23 09:33:07.950497-08:00"
+    },
+    {
+        "id":59903,
+        "name":"Playa Del Rey",
+        "rank":1,
+        "affected":238,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.434805,
+        "latitude":33.959238,
+        "fetched":"2024-11-23 09:33:07.950497-08:00"
+    },
+    {
+        "id":59902,
+        "name":"Reseda",
+        "rank":1,
+        "affected":14,
+        "status":"Crews Working",
+        "est_fixed":"11\/22\/2024 21:00",
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":"2024-11-23 09:33:07.950497-08:00"
+    },
+    {
+        "id":59904,
+        "name":"El Segundo",
+        "rank":1,
+        "affected":16,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 09:00",
+        "longitude":-118.428257,
+        "latitude":33.930653,
+        "fetched":"2024-11-23 09:33:07.950497-08:00"
+    },
+    {
+        "id":59905,
+        "name":"Downtown",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.24853,
+        "latitude":34.026777,
+        "fetched":"2024-11-23 09:33:07.950497-08:00"
     }
 ]
