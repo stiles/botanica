@@ -1,6 +1,6 @@
 [
     {
-        "id":59839,
+        "id":59840,
         "name":"Reseda",
         "rank":1,
         "affected":14,
@@ -8,17 +8,6 @@
         "est_fixed":"11\/23\/2024 06:00",
         "longitude":-118.522097245,
         "latitude":34.1889778552,
-        "fetched":1732357016379
-    },
-    {
-        "id":59838,
-        "name":"Harbor City",
-        "rank":1,
-        "affected":19,
-        "status":"Crews Working",
-        "est_fixed":"11\/23\/2024 05:00",
-        "longitude":-118.3060701757,
-        "latitude":33.7798668223,
-        "fetched":1732357016379
+        "fetched":1732357685854
     }
 ]
