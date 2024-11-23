@@ -45043,5 +45043,49 @@
         "longitude":-118.2485421859,
         "latitude":34.0267818529,
         "fetched":"2024-11-23 09:50:45.003296-08:00"
+    },
+    {
+        "id":59912,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":107,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.2108311793,
+        "latitude":34.0231718546,
+        "fetched":"2024-11-23 09:56:21.790270-08:00"
+    },
+    {
+        "id":59913,
+        "name":"Reseda",
+        "rank":1,
+        "affected":14,
+        "status":"Crews Working",
+        "est_fixed":"11\/22\/2024 21:00",
+        "longitude":-118.522097245,
+        "latitude":34.1889778552,
+        "fetched":"2024-11-23 09:56:21.790270-08:00"
+    },
+    {
+        "id":59914,
+        "name":"El Segundo",
+        "rank":1,
+        "affected":16,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 09:00",
+        "longitude":-118.4282692082,
+        "latitude":33.9306578322,
+        "fetched":"2024-11-23 09:56:21.790270-08:00"
+    },
+    {
+        "id":59915,
+        "name":"Downtown",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.2485421859,
+        "latitude":34.0267818529,
+        "fetched":"2024-11-23 09:56:21.790270-08:00"
     }
 ]
