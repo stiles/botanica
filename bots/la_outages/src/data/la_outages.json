@@ -1,24 +1,24 @@
 [
     {
-        "id":59835,
+        "id":59837,
         "name":"Reseda",
         "rank":1,
         "affected":14,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 06:00",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732355535884
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732355943485
     },
     {
-        "id":59834,
+        "id":59836,
         "name":"Harbor City",
         "rank":1,
         "affected":19,
         "status":"En Route",
         "est_fixed":"11\/23\/2024 05:00",
-        "longitude":-118.3060701757,
-        "latitude":33.7798668223,
-        "fetched":1732355535884
+        "longitude":-118.306058,
+        "latitude":33.779862,
+        "fetched":1732355943485
     }
 ]
