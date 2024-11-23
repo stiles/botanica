@@ -45824,5 +45824,27 @@
         "longitude":-118.4282692082,
         "latitude":33.9306578322,
         "fetched":"2024-11-23 13:23:34.570763-08:00"
+    },
+    {
+        "id":59952,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":107,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.210819,
+        "latitude":34.023167,
+        "fetched":"2024-11-23 13:31:16.179687-08:00"
+    },
+    {
+        "id":59953,
+        "name":"El Segundo",
+        "rank":1,
+        "affected":16,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 09:00",
+        "longitude":-118.428257,
+        "latitude":33.930653,
+        "fetched":"2024-11-23 13:31:16.179687-08:00"
     }
 ]
