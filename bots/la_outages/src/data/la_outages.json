@@ -1,46 +1,35 @@
 [
     {
-        "id":59922,
+        "id":59927,
         "name":"Boyle Heights",
         "rank":1,
         "affected":107,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 19:30",
-        "longitude":-118.210819,
-        "latitude":34.023167,
-        "fetched":1732386889067
+        "longitude":-118.2108311793,
+        "latitude":34.0231718546,
+        "fetched":1732387421424
     },
     {
-        "id":59923,
-        "name":"Reseda",
-        "rank":1,
-        "affected":14,
-        "status":"Crews Working",
-        "est_fixed":"11\/22\/2024 21:00",
-        "longitude":-118.522085,
-        "latitude":34.188973,
-        "fetched":1732386889067
-    },
-    {
-        "id":59924,
+        "id":59928,
         "name":"El Segundo",
         "rank":1,
         "affected":16,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 09:00",
-        "longitude":-118.428257,
-        "latitude":33.930653,
-        "fetched":1732386889067
+        "longitude":-118.4282692082,
+        "latitude":33.9306578322,
+        "fetched":1732387421424
     },
     {
-        "id":59925,
+        "id":59929,
         "name":"Downtown",
         "rank":1,
         "affected":19,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 11:00",
-        "longitude":-118.24853,
-        "latitude":34.026777,
-        "fetched":1732386889067
+        "longitude":-118.2485421859,
+        "latitude":34.0267818529,
+        "fetched":1732387421424
     }
 ]
