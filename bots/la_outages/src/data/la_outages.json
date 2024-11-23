@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":59807,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/22\/2024 19:30",
+        "longitude":-118.5979342619,
+        "latitude":34.2404918564,
+        "fetched":1732325331750
+    }
 ]
