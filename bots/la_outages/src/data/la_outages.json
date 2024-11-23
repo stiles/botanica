@@ -1,13 +1,13 @@
 [
     {
-        "id":59822,
+        "id":59823,
         "name":"Reseda",
         "rank":1,
         "affected":14,
-        "status":"Reported Outage",
+        "status":"Assigned",
         "est_fixed":"11\/23\/2024 00:00",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732345717585
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732346374293
     }
 ]
