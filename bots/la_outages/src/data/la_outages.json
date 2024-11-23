@@ -1,24 +1,24 @@
 [
     {
-        "id":59861,
+        "id":59864,
         "name":"Reseda",
         "rank":1,
         "affected":14,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 06:00",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732375466369
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732375881787
     },
     {
-        "id":59862,
+        "id":59865,
         "name":"Playa Del Rey",
         "rank":1,
         "affected":7,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/23\/2024 09:00",
-        "longitude":-118.4301152085,
-        "latitude":33.9309598321,
-        "fetched":1732375466369
+        "longitude":-118.430103,
+        "latitude":33.930955,
+        "fetched":1732375881787
     }
 ]
