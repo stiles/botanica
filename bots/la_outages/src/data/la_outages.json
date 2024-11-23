@@ -1,57 +1,57 @@
 [
     {
-        "id":59889,
+        "id":59895,
+        "name":"Boyle Heights",
         "rank":1,
         "affected":107,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 19:30",
-        "name":"Boyle Heights",
-        "longitude":-118.2108311793,
-        "latitude":34.0231718546,
-        "fetched":1732381755300
+        "longitude":-118.210819,
+        "latitude":34.023167,
+        "fetched":1732382252077
     },
     {
-        "id":59890,
+        "id":59896,
+        "name":"Reseda",
         "rank":1,
         "affected":14,
         "status":"Crews Working",
         "est_fixed":"11\/22\/2024 21:00",
-        "name":"Reseda",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732381755300
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732382252077
     },
     {
-        "id":59891,
+        "id":59898,
+        "name":"Playa Del Rey",
+        "rank":2,
+        "affected":8,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 09:00",
+        "longitude":-118.430103,
+        "latitude":33.930955,
+        "fetched":1732382252077
+    },
+    {
+        "id":59899,
+        "name":"Downtown",
+        "rank":1,
+        "affected":19,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.24853,
+        "latitude":34.026777,
+        "fetched":1732382252077
+    },
+    {
+        "id":59897,
+        "name":"Playa Del Rey",
         "rank":1,
         "affected":238,
         "status":"Reported Outage",
         "est_fixed":"11\/23\/2024 11:00",
-        "name":"Playa Del Rey",
-        "longitude":-118.4348172116,
-        "latitude":33.959242835,
-        "fetched":1732381755300
-    },
-    {
-        "id":59892,
-        "rank":2,
-        "affected":6,
-        "status":"Crews Working",
-        "est_fixed":"11\/23\/2024 09:00",
-        "name":"Playa Del Rey",
-        "longitude":-118.4301152085,
-        "latitude":33.9309598321,
-        "fetched":1732381755300
-    },
-    {
-        "id":59893,
-        "rank":1,
-        "affected":19,
-        "status":"Assigned",
-        "est_fixed":"11\/23\/2024 11:00",
-        "name":"Downtown",
-        "longitude":-118.2485421859,
-        "latitude":34.0267818529,
-        "fetched":1732381755300
+        "longitude":-118.434805,
+        "latitude":33.959238,
+        "fetched":1732382252077
     }
 ]
