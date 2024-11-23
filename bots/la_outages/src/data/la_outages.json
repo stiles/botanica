@@ -1,13 +1,13 @@
 [
     {
-        "id":59844,
+        "id":59845,
         "name":"Reseda",
         "rank":1,
         "affected":14,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 06:00",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732361890265
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732362232676
     }
 ]
