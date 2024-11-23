@@ -43734,5 +43734,27 @@
         "longitude":-118.306058,
         "latitude":33.779862,
         "fetched":"2024-11-23 01:59:03.485841-08:00"
+    },
+    {
+        "id":59837,
+        "name":"Reseda",
+        "rank":1,
+        "affected":14,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 06:00",
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":"2024-11-23 02:06:26.050394-08:00"
+    },
+    {
+        "id":59836,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":19,
+        "status":"En Route",
+        "est_fixed":"11\/23\/2024 05:00",
+        "longitude":-118.306058,
+        "latitude":33.779862,
+        "fetched":"2024-11-23 02:06:26.050394-08:00"
     }
 ]
