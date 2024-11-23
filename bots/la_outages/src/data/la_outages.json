@@ -1,6 +1,6 @@
 [
     {
-        "id":59867,
+        "id":59870,
         "name":"Reseda",
         "rank":1,
         "affected":14,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/23\/2024 06:00",
         "longitude":-118.522097245,
         "latitude":34.1889778552,
-        "fetched":1732377363780
+        "fetched":1732377698622
     },
     {
-        "id":59868,
+        "id":59871,
         "name":"Playa Del Rey",
         "rank":1,
         "affected":238,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/23\/2024 11:00",
         "longitude":-118.4348172116,
         "latitude":33.959242835,
-        "fetched":1732377363780
+        "fetched":1732377698622
     }
 ]

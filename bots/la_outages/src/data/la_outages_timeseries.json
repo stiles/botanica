@@ -44328,5 +44328,27 @@
         "longitude":-118.4348172116,
         "latitude":33.959242835,
         "fetched":"2024-11-23 07:56:03.780426-08:00"
+    },
+    {
+        "id":59870,
+        "name":"Reseda",
+        "rank":1,
+        "affected":14,
+        "status":"En Route",
+        "est_fixed":"11\/23\/2024 06:00",
+        "longitude":-118.522097245,
+        "latitude":34.1889778552,
+        "fetched":"2024-11-23 08:01:38.622492-08:00"
+    },
+    {
+        "id":59871,
+        "name":"Playa Del Rey",
+        "rank":1,
+        "affected":238,
+        "status":"Reported Outage",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.4348172116,
+        "latitude":33.959242835,
+        "fetched":"2024-11-23 08:01:38.622492-08:00"
     }
 ]
