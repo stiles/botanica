@@ -44240,5 +44240,27 @@
         "longitude":-118.430103,
         "latitude":33.930955,
         "fetched":"2024-11-23 07:31:21.787811-08:00"
+    },
+    {
+        "id":59864,
+        "name":"Reseda",
+        "rank":1,
+        "affected":14,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 06:00",
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":"2024-11-23 07:38:32.279708-08:00"
+    },
+    {
+        "id":59865,
+        "name":"Playa Del Rey",
+        "rank":1,
+        "affected":7,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 09:00",
+        "longitude":-118.430103,
+        "latitude":33.930955,
+        "fetched":"2024-11-23 07:38:32.279708-08:00"
     }
 ]
