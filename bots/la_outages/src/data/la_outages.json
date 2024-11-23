@@ -1,24 +1,24 @@
 [
     {
-        "id":59936,
+        "id":59938,
         "name":"Boyle Heights",
         "rank":1,
         "affected":107,
         "status":"Assigned",
         "est_fixed":"11\/23\/2024 19:30",
-        "longitude":-118.210819,
-        "latitude":34.023167,
-        "fetched":1732390518020
+        "longitude":-118.2108311793,
+        "latitude":34.0231718546,
+        "fetched":1732390919982
     },
     {
-        "id":59937,
+        "id":59939,
         "name":"El Segundo",
         "rank":1,
         "affected":16,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 09:00",
-        "longitude":-118.428257,
-        "latitude":33.930653,
-        "fetched":1732390518020
+        "longitude":-118.4282692082,
+        "latitude":33.9306578322,
+        "fetched":1732390919982
     }
 ]
