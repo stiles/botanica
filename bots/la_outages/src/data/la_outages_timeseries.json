@@ -43195,5 +43195,16 @@
         "longitude":-118.5979342619,
         "latitude":34.2404918564,
         "fetched":"2024-11-22 17:28:51.750440-08:00"
+    },
+    {
+        "id":59810,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":2,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 02:00",
+        "longitude":-118.258434,
+        "latitude":33.79878,
+        "fetched":"2024-11-22 18:33:24.923052-08:00"
     }
 ]
