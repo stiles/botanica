@@ -1,24 +1,46 @@
 [
     {
-        "id":59870,
-        "name":"Reseda",
+        "id":59876,
+        "name":"Downtown",
         "rank":1,
-        "affected":14,
-        "status":"En Route",
-        "est_fixed":"11\/23\/2024 06:00",
-        "longitude":-118.522097245,
-        "latitude":34.1889778552,
-        "fetched":1732378265952
+        "affected":19,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 11:00",
+        "longitude":-118.24853,
+        "latitude":34.026777,
+        "fetched":1732378879081
     },
     {
-        "id":59871,
+        "id":59874,
+        "name":"Reseda",
+        "rank":1,
+        "affected":36,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 06:00",
+        "longitude":-118.522085,
+        "latitude":34.188973,
+        "fetched":1732378879081
+    },
+    {
+        "id":59873,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":107,
+        "status":"Reported Outage",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.210819,
+        "latitude":34.023167,
+        "fetched":1732378879081
+    },
+    {
+        "id":59875,
         "name":"Playa Del Rey",
         "rank":1,
         "affected":238,
         "status":"Reported Outage",
         "est_fixed":"11\/23\/2024 11:00",
-        "longitude":-118.4348172116,
-        "latitude":33.959242835,
-        "fetched":1732378265952
+        "longitude":-118.434805,
+        "latitude":33.959238,
+        "fetched":1732378879081
     }
 ]
