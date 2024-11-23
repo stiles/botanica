@@ -1,25 +1,13 @@
 [
     {
-        "username":"mattystiles",
-        "nickname":"Matt Stiles",
-        "uniqueId":"mattystiles",
-        "verified":false,
-        "region":"US",
-        "followerCount":892,
-        "followingCount":679,
-        "heartCount":113300,
-        "videoCount":94,
-        "diggCount":0
-    },
-    {
         "username":"evablytheofficial",
         "nickname":"eva \ud83c\udf1f",
         "uniqueId":"evablytheofficial",
         "verified":false,
         "region":"US",
-        "followerCount":498,
+        "followerCount":502,
         "followingCount":177,
-        "heartCount":1411,
+        "heartCount":1427,
         "videoCount":11,
         "diggCount":0
     }
