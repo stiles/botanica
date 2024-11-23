@@ -1,13 +1,13 @@
 [
     {
-        "id":59959,
+        "id":59960,
         "name":"El Segundo",
         "rank":1,
         "affected":16,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 09:00",
-        "longitude":-118.4282692082,
-        "latitude":33.9306578322,
-        "fetched":1732401337255
+        "longitude":-118.428257,
+        "latitude":33.930653,
+        "fetched":1732401784018
     }
 ]
