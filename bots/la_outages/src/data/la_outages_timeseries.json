@@ -48321,5 +48321,16 @@
         "longitude":-118.2915861922,
         "latitude":34.0151828492,
         "fetched":"2024-11-24 14:48:21.229723-08:00"
+    },
+    {
+        "id":60097,
+        "name":"Exposition Park",
+        "rank":1,
+        "affected":1105,
+        "status":"Crews Working",
+        "est_fixed":"11\/24\/2024 21:00",
+        "longitude":-118.2915861922,
+        "latitude":34.0151828492,
+        "fetched":"2024-11-24 14:54:16.440819-08:00"
     }
 ]
