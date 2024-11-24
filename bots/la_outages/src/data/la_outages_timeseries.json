@@ -46440,5 +46440,16 @@
         "longitude":-118.406076,
         "latitude":34.23403,
         "fetched":"2024-11-23 21:54:30.719942-08:00"
+    },
+    {
+        "id":59994,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":62,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 23:30",
+        "longitude":-118.4060882294,
+        "latitude":34.2340348667,
+        "fetched":"2024-11-23 22:00:13.678001-08:00"
     }
 ]
