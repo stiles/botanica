@@ -47364,5 +47364,16 @@
         "longitude":-118.265699,
         "latitude":34.085788,
         "fetched":"2024-11-24 05:52:51.848850-08:00"
+    },
+    {
+        "id":60049,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":18,
+        "status":"Crews Working",
+        "est_fixed":"11\/24\/2024 07:00",
+        "longitude":-118.265699,
+        "latitude":34.085788,
+        "fetched":"2024-11-24 05:57:54.207305-08:00"
     }
 ]
