@@ -1,24 +1,24 @@
 [
     {
-        "id":59971,
-        "name":"Del Rey",
-        "rank":1,
-        "affected":27,
-        "status":"Assigned",
-        "est_fixed":"11\/23\/2024 19:30",
-        "longitude":-118.422616,
-        "latitude":33.987907,
-        "fetched":1732410584382
-    },
-    {
-        "id":59972,
+        "id":59978,
         "name":"El Segundo",
         "rank":1,
         "affected":16,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 09:00",
-        "longitude":-118.428257,
-        "latitude":33.930653,
-        "fetched":1732410584382
+        "longitude":-118.4282692082,
+        "latitude":33.9306578322,
+        "fetched":1732413029581
+    },
+    {
+        "id":59977,
+        "name":"Del Rey",
+        "rank":1,
+        "affected":27,
+        "status":"En Route",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.4226282119,
+        "latitude":33.9879118388,
+        "fetched":1732413029581
     }
 ]
