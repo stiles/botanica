@@ -46715,5 +46715,38 @@
         "longitude":-118.4060882294,
         "latitude":34.2340348667,
         "fetched":"2024-11-24 00:56:56.993360-08:00"
+    },
+    {
+        "id":60006,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":2447,
+        "status":"Assigned",
+        "est_fixed":"11\/24\/2024 06:00",
+        "longitude":-118.2797371689,
+        "latitude":33.7494568204,
+        "fetched":"2024-11-24 01:04:57.373806-08:00"
+    },
+    {
+        "id":60008,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":648,
+        "status":"Assigned",
+        "est_fixed":"11\/24\/2024 03:00",
+        "longitude":-118.2657111936,
+        "latitude":34.0857928585,
+        "fetched":"2024-11-24 01:04:57.373806-08:00"
+    },
+    {
+        "id":60007,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":62,
+        "status":"Crews Working",
+        "est_fixed":"11\/23\/2024 23:30",
+        "longitude":-118.4060882294,
+        "latitude":34.2340348667,
+        "fetched":"2024-11-24 01:04:57.373806-08:00"
     }
 ]
