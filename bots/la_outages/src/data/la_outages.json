@@ -1,13 +1,13 @@
 [
     {
-        "id":59989,
-        "name":"Sun Valley",
+        "id":59990,
         "rank":1,
         "affected":62,
         "status":"Crews Working",
         "est_fixed":"11\/23\/2024 23:30",
-        "longitude":-118.4060882294,
-        "latitude":34.2340348667,
-        "fetched":1732424127283
+        "name":"Sun Valley",
+        "longitude":-118.406076,
+        "latitude":34.23403,
+        "fetched":1732424432818
     }
 ]
