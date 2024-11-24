@@ -1,17 +1,6 @@
 [
     {
-        "id":60082,
-        "name":"Harbor Gateway",
-        "rank":1,
-        "affected":12,
-        "status":"Crews Working",
-        "est_fixed":"11\/24\/2024 14:30",
-        "longitude":-118.2913191815,
-        "latitude":33.8829288346,
-        "fetched":1732470926286
-    },
-    {
-        "id":60083,
+        "id":60084,
         "name":"Echo Park",
         "rank":1,
         "affected":93,
@@ -19,6 +8,6 @@
         "est_fixed":"11\/24\/2024 07:00",
         "longitude":-118.2657111936,
         "latitude":34.0857928585,
-        "fetched":1732470926286
+        "fetched":1732471332860
     }
 ]
