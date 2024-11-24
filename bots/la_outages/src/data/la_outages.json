@@ -1,6 +1,6 @@
 [
     {
-        "id":60088,
+        "id":60089,
         "name":"Exposition Park",
         "rank":1,
         "affected":1105,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/24\/2024 21:00",
         "longitude":-118.2915861922,
         "latitude":34.0151828492,
-        "fetched":1732480861299
+        "fetched":1732481217945
     }
 ]
