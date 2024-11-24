@@ -1,13 +1,3 @@
 [
-    {
-        "id":60098,
-        "name":"Exposition Park",
-        "rank":1,
-        "affected":1105,
-        "status":"Crews Working",
-        "est_fixed":"11\/24\/2024 21:00",
-        "longitude":-118.291574,
-        "latitude":34.015178,
-        "fetched":1732489684455
-    }
+
 ]
