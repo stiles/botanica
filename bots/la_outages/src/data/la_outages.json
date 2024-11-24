@@ -1,6 +1,6 @@
 [
     {
-        "id":60049,
+        "id":60051,
         "name":"Echo Park",
         "rank":1,
         "affected":18,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/24\/2024 07:00",
         "longitude":-118.265699,
         "latitude":34.085788,
-        "fetched":1732457123052
+        "fetched":1732457643211
     }
 ]
