@@ -1,13 +1,13 @@
 [
     {
-        "id":60041,
+        "id":60043,
         "name":"Echo Park",
         "rank":1,
         "affected":18,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"11\/24\/2024 07:00",
         "longitude":-118.2657111936,
         "latitude":34.0857928585,
-        "fetched":1732453431082
+        "fetched":1732454067163
     }
 ]
