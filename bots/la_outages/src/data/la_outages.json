@@ -1,6 +1,17 @@
 [
     {
-        "id":59966,
+        "id":59969,
+        "name":"Del Rey",
+        "rank":1,
+        "affected":27,
+        "status":"Assigned",
+        "est_fixed":"11\/23\/2024 19:30",
+        "longitude":-118.4226282119,
+        "latitude":33.9879118388,
+        "fetched":1732408914628
+    },
+    {
+        "id":59970,
         "name":"El Segundo",
         "rank":1,
         "affected":16,
@@ -8,6 +19,6 @@
         "est_fixed":"11\/23\/2024 09:00",
         "longitude":-118.4282692082,
         "latitude":33.9306578322,
-        "fetched":1732407736065
+        "fetched":1732408914628
     }
 ]
