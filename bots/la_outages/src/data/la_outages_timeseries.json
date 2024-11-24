@@ -47452,5 +47452,27 @@
         "longitude":-118.291307,
         "latitude":33.882924,
         "fetched":"2024-11-24 06:44:38.878052-08:00"
+    },
+    {
+        "id":60056,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":65,
+        "status":"Crews Working",
+        "est_fixed":"11\/24\/2024 07:00",
+        "longitude":-118.265699,
+        "latitude":34.085788,
+        "fetched":"2024-11-24 06:50:29.626841-08:00"
+    },
+    {
+        "id":60055,
+        "name":"Harbor Gateway",
+        "rank":1,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"11\/24\/2024 08:30",
+        "longitude":-118.291307,
+        "latitude":33.882924,
+        "fetched":"2024-11-24 06:50:29.626841-08:00"
     }
 ]
