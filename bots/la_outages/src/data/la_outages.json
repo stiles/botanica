@@ -1,17 +1,6 @@
 [
     {
-        "id":60025,
-        "name":"Echo Park",
-        "rank":1,
-        "affected":18,
-        "status":"Assigned",
-        "est_fixed":"11\/24\/2024 07:00",
-        "longitude":-118.2657111936,
-        "latitude":34.0857928585,
-        "fetched":1732447488538
-    },
-    {
-        "id":60024,
+        "id":60026,
         "name":"San Pedro",
         "rank":1,
         "affected":1359,
@@ -19,6 +8,17 @@
         "est_fixed":"11\/24\/2024 06:00",
         "longitude":-118.2862291685,
         "latitude":33.730601818,
-        "fetched":1732447488538
+        "fetched":1732447844343
+    },
+    {
+        "id":60028,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":18,
+        "status":"En Route",
+        "est_fixed":"11\/24\/2024 07:00",
+        "longitude":-118.2657111936,
+        "latitude":34.0857928585,
+        "fetched":1732447844343
     }
 ]

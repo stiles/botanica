@@ -47122,5 +47122,27 @@
         "longitude":-118.2862291685,
         "latitude":33.730601818,
         "fetched":"2024-11-24 03:24:48.538004-08:00"
+    },
+    {
+        "id":60026,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":1359,
+        "status":"Crews Working",
+        "est_fixed":"11\/24\/2024 06:00",
+        "longitude":-118.2862291685,
+        "latitude":33.730601818,
+        "fetched":"2024-11-24 03:30:44.343701-08:00"
+    },
+    {
+        "id":60028,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":18,
+        "status":"En Route",
+        "est_fixed":"11\/24\/2024 07:00",
+        "longitude":-118.2657111936,
+        "latitude":34.0857928585,
+        "fetched":"2024-11-24 03:30:44.343701-08:00"
     }
 ]
