@@ -1,6 +1,6 @@
 [
     {
-        "id":60070,
+        "id":60072,
         "name":"Harbor Gateway",
         "rank":1,
         "affected":12,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/24\/2024 14:30",
         "longitude":-118.2913191815,
         "latitude":33.8829288346,
-        "fetched":1732465263064
+        "fetched":1732465874434
     },
     {
-        "id":60071,
+        "id":60073,
         "name":"Echo Park",
         "rank":1,
         "affected":65,
@@ -19,6 +19,6 @@
         "est_fixed":"11\/24\/2024 07:00",
         "longitude":-118.2657111936,
         "latitude":34.0857928585,
-        "fetched":1732465263064
+        "fetched":1732465874434
     }
 ]
