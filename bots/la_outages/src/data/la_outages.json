@@ -1,6 +1,6 @@
 [
     {
-        "id":60114,
+        "id":60115,
         "name":"Beverly Crest",
         "rank":1,
         "affected":118,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/25\/2024 13:30",
         "longitude":-118.4467332258,
         "latitude":34.1090068507,
-        "fetched":1732566869277
+        "fetched":1732567306786
     }
 ]
