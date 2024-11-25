@@ -48442,5 +48442,16 @@
         "longitude":-118.3801642026,
         "latitude":33.9608898382,
         "fetched":"2024-11-25 11:04:17.189113-08:00"
+    },
+    {
+        "id":60105,
+        "name":"Westchester",
+        "rank":1,
+        "affected":164,
+        "status":"Reported Outage",
+        "est_fixed":"11\/25\/2024 19:00",
+        "longitude":-118.3850762038,
+        "latitude":33.9659358385,
+        "fetched":"2024-11-25 11:12:49.629085-08:00"
     }
 ]

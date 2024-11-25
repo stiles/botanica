@@ -1,6 +1,6 @@
 [
     {
-        "id":60103,
+        "id":60105,
         "name":"Westchester",
         "rank":1,
         "affected":164,
@@ -8,17 +8,6 @@
         "est_fixed":"11\/25\/2024 19:00",
         "longitude":-118.3850762038,
         "latitude":33.9659358385,
-        "fetched":1732561457189
-    },
-    {
-        "id":60104,
-        "name":"Westchester",
-        "rank":2,
-        "affected":16,
-        "status":"Reported Outage",
-        "est_fixed":"11\/25\/2024 15:00",
-        "longitude":-118.3801642026,
-        "latitude":33.9608898382,
-        "fetched":1732561457189
+        "fetched":1732561969629
     }
 ]
