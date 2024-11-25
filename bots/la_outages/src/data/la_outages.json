@@ -1,13 +1,13 @@
 [
     {
-        "id":60115,
+        "id":60116,
         "name":"Beverly Crest",
         "rank":1,
         "affected":118,
-        "status":"En Route",
-        "est_fixed":"11\/25\/2024 13:30",
+        "status":"Crews Working",
+        "est_fixed":"11\/25\/2024 15:30",
         "longitude":-118.4467332258,
         "latitude":34.1090068507,
-        "fetched":1732568019572
+        "fetched":1732568357315
     }
 ]
