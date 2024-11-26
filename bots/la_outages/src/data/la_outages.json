@@ -1,24 +1,24 @@
 [
     {
-        "id":60242,
+        "id":60244,
         "name":"Cheviot Hills",
         "rank":1,
         "affected":3,
         "status":"Assigned",
         "est_fixed":"11\/26\/2024 15:30",
-        "longitude":-118.413229,
-        "latitude":34.045551,
-        "fetched":1732653449625
+        "longitude":-118.413241215,
+        "latitude":34.0455558457,
+        "fetched":1732653873441
     },
     {
-        "id":60241,
+        "id":60243,
         "name":"Harvard Park",
         "rank":1,
-        "affected":424,
+        "affected":0,
         "status":"En Route",
-        "est_fixed":"11\/26\/2024 14:00",
-        "longitude":-118.302362,
-        "latitude":33.985099,
-        "fetched":1732653449625
+        "est_fixed":"11\/26\/2024 18:00",
+        "longitude":-118.3023741916,
+        "latitude":33.9851038453,
+        "fetched":1732653873441
     }
 ]
