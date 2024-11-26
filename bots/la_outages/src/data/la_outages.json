@@ -1,24 +1,24 @@
 [
     {
-        "id":60192,
+        "id":60194,
         "name":"Westwood",
         "rank":1,
         "affected":85,
         "status":"Crews Working",
         "est_fixed":"11\/26\/2024 06:30",
-        "longitude":-118.427561,
-        "latitude":34.06454,
-        "fetched":1732616402025
+        "longitude":-118.427573219,
+        "latitude":34.0645448469,
+        "fetched":1732617127048
     },
     {
-        "id":60193,
+        "id":60195,
         "name":"Westwood",
         "rank":2,
         "affected":31,
         "status":"Crews Working",
         "est_fixed":"11\/26\/2024 06:30",
-        "longitude":-118.425731,
-        "latitude":34.064989,
-        "fetched":1732616402025
+        "longitude":-118.4257432187,
+        "latitude":34.0649938471,
+        "fetched":1732617127048
     }
 ]
