@@ -1,6 +1,6 @@
 [
     {
-        "id":60173,
+        "id":60176,
         "name":"Westwood",
         "rank":1,
         "affected":85,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.427561,
         "latitude":34.06454,
-        "fetched":1732608670724
+        "fetched":1732609308264
     },
     {
-        "id":60174,
+        "id":60177,
         "name":"Westwood",
         "rank":2,
         "affected":31,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/26\/2024 00:30",
         "longitude":-118.425731,
         "latitude":34.064989,
-        "fetched":1732608670724
+        "fetched":1732609308264
     },
     {
-        "id":60172,
+        "id":60175,
         "name":"Westchester",
         "rank":1,
         "affected":128,
@@ -30,6 +30,6 @@
         "est_fixed":"11\/26\/2024 00:00",
         "longitude":-118.409921,
         "latitude":33.960241,
-        "fetched":1732608670724
+        "fetched":1732609308264
     }
 ]
