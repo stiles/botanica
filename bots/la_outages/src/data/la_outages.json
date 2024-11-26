@@ -1,6 +1,6 @@
 [
     {
-        "id":60130,
+        "id":60132,
         "name":"Westwood",
         "rank":1,
         "affected":85,
@@ -8,17 +8,17 @@
         "est_fixed":null,
         "longitude":-118.427573219,
         "latitude":34.0645448469,
-        "fetched":1732589371881
+        "fetched":1732590500803
     },
     {
-        "id":60131,
-        "name":"Playa Del Rey",
+        "id":60133,
+        "name":"Westchester",
         "rank":1,
         "affected":317,
-        "status":"En Route",
-        "est_fixed":"11\/26\/2024 00:00",
-        "longitude":-118.4338412114,
-        "latitude":33.9584028349,
-        "fetched":1732589371881
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.411872208,
+        "latitude":33.9615668365,
+        "fetched":1732590500803
     }
 ]
