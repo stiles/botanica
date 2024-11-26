@@ -48860,5 +48860,27 @@
         "longitude":-118.4338412114,
         "latitude":33.9584028349,
         "fetched":"2024-11-25 18:23:45.388552-08:00"
+    },
+    {
+        "id":60130,
+        "name":"Westwood",
+        "rank":1,
+        "affected":85,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.427573219,
+        "latitude":34.0645448469,
+        "fetched":"2024-11-25 18:49:31.881950-08:00"
+    },
+    {
+        "id":60131,
+        "name":"Playa Del Rey",
+        "rank":1,
+        "affected":317,
+        "status":"En Route",
+        "est_fixed":"11\/26\/2024 00:00",
+        "longitude":-118.4338412114,
+        "latitude":33.9584028349,
+        "fetched":"2024-11-25 18:49:31.881950-08:00"
     }
 ]
