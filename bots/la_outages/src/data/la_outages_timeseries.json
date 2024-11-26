@@ -50587,5 +50587,16 @@
         "longitude":-118.425731,
         "latitude":34.064989,
         "fetched":"2024-11-26 09:20:50.763400-08:00"
+    },
+    {
+        "id":60222,
+        "name":"Westwood",
+        "rank":1,
+        "affected":31,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.425731,
+        "latitude":34.064989,
+        "fetched":"2024-11-26 09:30:45.315791-08:00"
     }
 ]
