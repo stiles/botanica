@@ -49322,5 +49322,27 @@
         "longitude":-118.4099332075,
         "latitude":33.9602458365,
         "fetched":"2024-11-25 22:14:00.104221-08:00"
+    },
+    {
+        "id":60157,
+        "name":"Westwood",
+        "rank":1,
+        "affected":85,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.427561,
+        "latitude":34.06454,
+        "fetched":"2024-11-25 22:26:50.946513-08:00"
+    },
+    {
+        "id":60158,
+        "name":"Westchester",
+        "rank":1,
+        "affected":110,
+        "status":"Crews Working",
+        "est_fixed":"11\/26\/2024 00:00",
+        "longitude":-118.409921,
+        "latitude":33.960241,
+        "fetched":"2024-11-25 22:26:50.946513-08:00"
     }
 ]
