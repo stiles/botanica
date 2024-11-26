@@ -1,13 +1,13 @@
 [
     {
-        "id":60202,
-        "name":"Westwood",
+        "id":60203,
         "rank":1,
         "affected":85,
         "status":"Crews Working",
         "est_fixed":"11\/26\/2024 06:30",
-        "longitude":-118.427561,
-        "latitude":34.06454,
-        "fetched":1732622147356
+        "name":"Westwood",
+        "longitude":-118.427573219,
+        "latitude":34.0645448469,
+        "fetched":1732622627068
     }
 ]
