@@ -51038,5 +51038,27 @@
         "longitude":-118.3023741916,
         "latitude":33.9851038453,
         "fetched":"2024-11-26 12:44:33.441364-08:00"
+    },
+    {
+        "id":60244,
+        "name":"Cheviot Hills",
+        "rank":1,
+        "affected":3,
+        "status":"Assigned",
+        "est_fixed":"11\/26\/2024 15:30",
+        "longitude":-118.413241215,
+        "latitude":34.0455558457,
+        "fetched":"2024-11-26 12:50:27.257660-08:00"
+    },
+    {
+        "id":60243,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":0,
+        "status":"En Route",
+        "est_fixed":"11\/26\/2024 18:00",
+        "longitude":-118.3023741916,
+        "latitude":33.9851038453,
+        "fetched":"2024-11-26 12:50:27.257660-08:00"
     }
 ]
