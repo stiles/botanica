@@ -1,6 +1,6 @@
 [
     {
-        "id":60132,
+        "id":60134,
         "name":"Westwood",
         "rank":1,
         "affected":85,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.427573219,
         "latitude":34.0645448469,
-        "fetched":1732590500803
+        "fetched":1732591326508
     },
     {
-        "id":60133,
+        "id":60135,
         "name":"Westchester",
         "rank":1,
         "affected":317,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.411872208,
         "latitude":33.9615668365,
-        "fetched":1732590500803
+        "fetched":1732591326508
     }
 ]
