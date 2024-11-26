@@ -1,3 +1,13 @@
 [
-
+    {
+        "id":60124,
+        "name":"Westwood",
+        "rank":1,
+        "affected":42,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.427561,
+        "latitude":34.06454,
+        "fetched":1732585920329
+    }
 ]
