@@ -1,13 +1,13 @@
 [
     {
-        "id":60211,
+        "id":60212,
         "name":"Westwood",
         "rank":1,
         "affected":31,
         "status":"Assigned",
         "est_fixed":"11\/26\/2024 06:30",
-        "longitude":-118.4257432187,
-        "latitude":34.0649938471,
-        "fetched":1732630612649
+        "longitude":-118.425731,
+        "latitude":34.064989,
+        "fetched":1732631288866
     }
 ]
