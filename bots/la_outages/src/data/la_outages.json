@@ -1,6 +1,6 @@
 [
     {
-        "id":60234,
+        "id":60235,
         "name":"Cheviot Hills",
         "rank":1,
         "affected":3,
@@ -8,17 +8,6 @@
         "est_fixed":"11\/26\/2024 15:30",
         "longitude":-118.413229,
         "latitude":34.045551,
-        "fetched":1732648041638
-    },
-    {
-        "id":60233,
-        "name":"Westwood",
-        "rank":1,
-        "affected":31,
-        "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.425731,
-        "latitude":34.064989,
-        "fetched":1732648041638
+        "fetched":1732648588346
     }
 ]
