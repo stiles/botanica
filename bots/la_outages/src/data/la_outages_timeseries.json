@@ -51720,5 +51720,27 @@
         "longitude":-118.475598,
         "latitude":33.993402,
         "fetched":"2024-11-26 19:55:37.401887-08:00"
+    },
+    {
+        "id":60291,
+        "name":"Cheviot Hills",
+        "rank":1,
+        "affected":149,
+        "status":"Assigned",
+        "est_fixed":"11\/26\/2024 18:00",
+        "longitude":-118.412976,
+        "latitude":34.049178,
+        "fetched":"2024-11-26 20:02:36.658010-08:00"
+    },
+    {
+        "id":60292,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/27\/2024 02:30",
+        "longitude":-118.593987,
+        "latitude":34.181998,
+        "fetched":"2024-11-26 20:02:36.658010-08:00"
     }
 ]
