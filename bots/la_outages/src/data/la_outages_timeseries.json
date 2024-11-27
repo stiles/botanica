@@ -51478,5 +51478,27 @@
         "longitude":-118.3025171812,
         "latitude":33.8556568309,
         "fetched":"2024-11-26 17:35:59.169154-08:00"
+    },
+    {
+        "id":60270,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/27\/2024 02:30",
+        "longitude":-118.5936832564,
+        "latitude":34.1830708504,
+        "fetched":"2024-11-26 18:13:19.634252-08:00"
+    },
+    {
+        "id":60271,
+        "name":"Harbor Gateway",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"11\/26\/2024 20:30",
+        "longitude":-118.3025171812,
+        "latitude":33.8556568309,
+        "fetched":"2024-11-26 18:13:19.634252-08:00"
     }
 ]
