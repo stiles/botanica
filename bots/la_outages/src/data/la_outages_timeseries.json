@@ -51533,5 +51533,38 @@
         "longitude":-118.4756102212,
         "latitude":33.9934068364,
         "fetched":"2024-11-26 18:43:06.284133-08:00"
+    },
+    {
+        "id":60280,
+        "name":"Harbor Gateway",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"11\/26\/2024 20:30",
+        "longitude":-118.302505,
+        "latitude":33.855652,
+        "fetched":"2024-11-26 19:06:04.862412-08:00"
+    },
+    {
+        "id":60279,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"En Route",
+        "est_fixed":"11\/27\/2024 02:30",
+        "longitude":-118.593987,
+        "latitude":34.181998,
+        "fetched":"2024-11-26 19:06:04.862412-08:00"
+    },
+    {
+        "id":60278,
+        "name":"Venice",
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":"11\/26\/2024 19:30",
+        "longitude":-118.475598,
+        "latitude":33.993402,
+        "fetched":"2024-11-26 19:06:04.862412-08:00"
     }
 ]
