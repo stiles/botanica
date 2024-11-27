@@ -1,13 +1,13 @@
 [
     {
-        "id":60265,
+        "id":60267,
         "name":"Harbor Gateway",
         "rank":1,
         "affected":0,
         "status":"Assigned",
         "est_fixed":"11\/26\/2024 20:30",
-        "longitude":-118.302505,
-        "latitude":33.855652,
-        "fetched":1732669208122
+        "longitude":-118.3025171812,
+        "latitude":33.8556568309,
+        "fetched":1732671359169
     }
 ]
