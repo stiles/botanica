@@ -51676,5 +51676,49 @@
         "longitude":-118.475598,
         "latitude":33.993402,
         "fetched":"2024-11-26 19:48:06.843749-08:00"
+    },
+    {
+        "id":60288,
+        "name":"Cheviot Hills",
+        "rank":1,
+        "affected":149,
+        "status":"Assigned",
+        "est_fixed":"11\/26\/2024 18:00",
+        "longitude":-118.412976,
+        "latitude":34.049178,
+        "fetched":"2024-11-26 19:55:37.401887-08:00"
+    },
+    {
+        "id":60289,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/27\/2024 02:30",
+        "longitude":-118.593987,
+        "latitude":34.181998,
+        "fetched":"2024-11-26 19:55:37.401887-08:00"
+    },
+    {
+        "id":60290,
+        "name":"Harbor Gateway",
+        "rank":1,
+        "affected":1,
+        "status":"En Route",
+        "est_fixed":"11\/26\/2024 20:30",
+        "longitude":-118.302505,
+        "latitude":33.855652,
+        "fetched":"2024-11-26 19:55:37.401887-08:00"
+    },
+    {
+        "id":60287,
+        "name":"Venice",
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":"11\/26\/2024 19:30",
+        "longitude":-118.475598,
+        "latitude":33.993402,
+        "fetched":"2024-11-26 19:55:37.401887-08:00"
     }
 ]
