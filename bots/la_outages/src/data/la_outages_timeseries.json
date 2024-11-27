@@ -51775,5 +51775,16 @@
         "longitude":-118.593987,
         "latitude":34.181998,
         "fetched":"2024-11-26 20:34:42.354851-08:00"
+    },
+    {
+        "id":60295,
+        "name":"Woodland Hills",
+        "rank":1,
+        "affected":0,
+        "status":"Crews Working",
+        "est_fixed":"11\/27\/2024 02:30",
+        "longitude":-118.5939992564,
+        "latitude":34.1820028503,
+        "fetched":"2024-11-26 20:43:44.594686-08:00"
     }
 ]
