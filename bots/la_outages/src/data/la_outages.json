@@ -1,24 +1,24 @@
 [
     {
-        "id":60330,
-        "rank":2,
-        "affected":272,
-        "status":"Crews Working",
-        "est_fixed":"11\/28\/2024 07:30",
+        "id":60333,
         "name":"Studio City",
-        "longitude":-118.3817172168,
-        "latitude":34.1317738569,
-        "fetched":1732790057608
-    },
-    {
-        "id":60331,
         "rank":1,
         "affected":429,
         "status":"Assigned",
         "est_fixed":"11\/28\/2024 09:00",
-        "name":"Studio City",
         "longitude":-118.3755502152,
         "latitude":34.1241988564,
-        "fetched":1732790057608
+        "fetched":1732790591002
+    },
+    {
+        "id":60332,
+        "name":"Studio City",
+        "rank":2,
+        "affected":272,
+        "status":"Crews Working",
+        "est_fixed":"11\/28\/2024 07:30",
+        "longitude":-118.3817172168,
+        "latitude":34.1317738569,
+        "fetched":1732790591002
     }
 ]
