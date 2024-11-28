@@ -51896,5 +51896,27 @@
         "longitude":-118.379380216,
         "latitude":34.1266788565,
         "fetched":"2024-11-28 00:10:27.240285-08:00"
+    },
+    {
+        "id":60314,
+        "name":"Downtown",
+        "rank":1,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"11\/28\/2024 04:00",
+        "longitude":-118.256307,
+        "latitude":34.040956,
+        "fetched":"2024-11-28 00:22:07.202358-08:00"
+    },
+    {
+        "id":60313,
+        "name":"Studio City",
+        "rank":1,
+        "affected":624,
+        "status":"En Route",
+        "est_fixed":"11\/28\/2024 07:30",
+        "longitude":-118.375521,
+        "latitude":34.124187,
+        "fetched":"2024-11-28 00:22:07.202358-08:00"
     }
 ]
