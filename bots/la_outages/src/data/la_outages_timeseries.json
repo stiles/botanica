@@ -52754,5 +52754,49 @@
         "longitude":-118.4452652155,
         "latitude":33.9857008373,
         "fetched":"2024-11-28 05:50:10.741870-08:00"
+    },
+    {
+        "id":60362,
+        "name":"Studio City",
+        "rank":1,
+        "affected":429,
+        "status":"Assigned",
+        "est_fixed":"11\/28\/2024 09:00",
+        "longitude":-118.3755502152,
+        "latitude":34.1241988564,
+        "fetched":"2024-11-28 05:56:08.785119-08:00"
+    },
+    {
+        "id":60360,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":684,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.4308762272,
+        "latitude":34.1575258569,
+        "fetched":"2024-11-28 05:56:08.785119-08:00"
+    },
+    {
+        "id":60361,
+        "name":"Studio City",
+        "rank":2,
+        "affected":272,
+        "status":"Crews Working",
+        "est_fixed":"11\/28\/2024 07:30",
+        "longitude":-118.3817172168,
+        "latitude":34.1317738569,
+        "fetched":"2024-11-28 05:56:08.785119-08:00"
+    },
+    {
+        "id":60363,
+        "name":"Venice",
+        "rank":1,
+        "affected":0,
+        "status":"En Route",
+        "est_fixed":"11\/28\/2024 09:00",
+        "longitude":-118.4452652155,
+        "latitude":33.9857008373,
+        "fetched":"2024-11-28 05:56:08.785119-08:00"
     }
 ]
