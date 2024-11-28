@@ -51863,5 +51863,16 @@
         "longitude":-118.381705,
         "latitude":34.131769,
         "fetched":"2024-11-27 23:48:01.517893-08:00"
+    },
+    {
+        "id":60311,
+        "name":"Studio City",
+        "rank":1,
+        "affected":272,
+        "status":"Reported Outage",
+        "est_fixed":"11\/28\/2024 04:00",
+        "longitude":-118.381705,
+        "latitude":34.131769,
+        "fetched":"2024-11-27 23:54:08.711484-08:00"
     }
 ]
