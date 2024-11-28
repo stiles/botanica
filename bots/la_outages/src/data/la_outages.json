@@ -1,17 +1,6 @@
 [
     {
-        "id":60316,
-        "name":"Downtown",
-        "rank":1,
-        "affected":0,
-        "status":"Assigned",
-        "est_fixed":"11\/28\/2024 04:00",
-        "longitude":-118.2563191884,
-        "latitude":34.040960854,
-        "fetched":1732782873425
-    },
-    {
-        "id":60315,
+        "id":60317,
         "name":"Studio City",
         "rank":1,
         "affected":624,
@@ -19,6 +8,6 @@
         "est_fixed":"11\/28\/2024 07:30",
         "longitude":-118.3755332152,
         "latitude":34.1241918564,
-        "fetched":1732782873425
+        "fetched":1732783437709
     }
 ]
