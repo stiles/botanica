@@ -52006,5 +52006,27 @@
         "longitude":-118.3755332152,
         "latitude":34.1241918564,
         "fetched":"2024-11-28 01:06:06.138738-08:00"
+    },
+    {
+        "id":60321,
+        "name":"Studio City",
+        "rank":2,
+        "affected":429,
+        "status":"Assigned",
+        "est_fixed":"11\/28\/2024 09:00",
+        "longitude":-118.375538,
+        "latitude":34.124194,
+        "fetched":"2024-11-28 01:15:59.354777-08:00"
+    },
+    {
+        "id":60320,
+        "name":"Studio City",
+        "rank":1,
+        "affected":624,
+        "status":"Crews Working",
+        "est_fixed":"11\/28\/2024 07:30",
+        "longitude":-118.375521,
+        "latitude":34.124187,
+        "fetched":"2024-11-28 01:15:59.354777-08:00"
     }
 ]
