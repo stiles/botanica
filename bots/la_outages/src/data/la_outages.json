@@ -1,13 +1,24 @@
 [
     {
-        "id":60408,
+        "id":60409,
         "name":"Sun Valley",
         "rank":1,
-        "affected":238,
+        "affected":772,
+        "status":"Reported Outage",
+        "est_fixed":"11\/28\/2024 16:30",
+        "longitude":-118.3884342255,
+        "latitude":34.2227628665,
+        "fetched":1732820514832
+    },
+    {
+        "id":60410,
+        "name":"Sun Valley",
+        "rank":2,
+        "affected":340,
         "status":"Reported Outage",
         "est_fixed":"11\/28\/2024 14:00",
         "longitude":-118.368779221,
         "latitude":34.2084808661,
-        "fetched":1732820142383
+        "fetched":1732820514832
     }
 ]

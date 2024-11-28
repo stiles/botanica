@@ -53656,5 +53656,27 @@
         "longitude":-118.368779221,
         "latitude":34.2084808661,
         "fetched":"2024-11-28 10:55:42.383008-08:00"
+    },
+    {
+        "id":60409,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":772,
+        "status":"Reported Outage",
+        "est_fixed":"11\/28\/2024 16:30",
+        "longitude":-118.3884342255,
+        "latitude":34.2227628665,
+        "fetched":"2024-11-28 11:01:54.832608-08:00"
+    },
+    {
+        "id":60410,
+        "name":"Sun Valley",
+        "rank":2,
+        "affected":340,
+        "status":"Reported Outage",
+        "est_fixed":"11\/28\/2024 14:00",
+        "longitude":-118.368779221,
+        "latitude":34.2084808661,
+        "fetched":"2024-11-28 11:01:54.832608-08:00"
     }
 ]
