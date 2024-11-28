@@ -53535,5 +53535,27 @@
         "longitude":-118.381705,
         "latitude":34.131769,
         "fetched":"2024-11-28 09:15:42.574508-08:00"
+    },
+    {
+        "id":60402,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":792,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.430864,
+        "latitude":34.157521,
+        "fetched":"2024-11-28 09:25:50.342630-08:00"
+    },
+    {
+        "id":60403,
+        "name":"Studio City",
+        "rank":1,
+        "affected":272,
+        "status":"Crews Working",
+        "est_fixed":"11\/28\/2024 07:30",
+        "longitude":-118.381705,
+        "latitude":34.131769,
+        "fetched":"2024-11-28 09:25:50.342630-08:00"
     }
 ]
