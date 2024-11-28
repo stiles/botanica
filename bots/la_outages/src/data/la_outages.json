@@ -1,6 +1,6 @@
 [
     {
-        "id":60358,
+        "id":60362,
         "name":"Studio City",
         "rank":1,
         "affected":429,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/28\/2024 09:00",
         "longitude":-118.3755502152,
         "latitude":34.1241988564,
-        "fetched":1732800957418
+        "fetched":1732801450099
     },
     {
-        "id":60356,
+        "id":60360,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":684,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.4308762272,
         "latitude":34.1575258569,
-        "fetched":1732800957418
+        "fetched":1732801450099
     },
     {
-        "id":60357,
+        "id":60361,
         "name":"Studio City",
         "rank":2,
         "affected":272,
@@ -30,10 +30,10 @@
         "est_fixed":"11\/28\/2024 07:30",
         "longitude":-118.3817172168,
         "latitude":34.1317738569,
-        "fetched":1732800957418
+        "fetched":1732801450099
     },
     {
-        "id":60359,
+        "id":60363,
         "name":"Venice",
         "rank":1,
         "affected":0,
@@ -41,6 +41,6 @@
         "est_fixed":"11\/28\/2024 09:00",
         "longitude":-118.4452652155,
         "latitude":33.9857008373,
-        "fetched":1732800957418
+        "fetched":1732801450099
     }
 ]
