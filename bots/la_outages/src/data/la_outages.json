@@ -1,24 +1,24 @@
 [
     {
-        "id":60402,
+        "id":60404,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":792,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.430864,
-        "latitude":34.157521,
-        "fetched":1732814750342
+        "longitude":-118.4308762272,
+        "latitude":34.1575258569,
+        "fetched":1732815232996
     },
     {
-        "id":60403,
+        "id":60405,
         "name":"Studio City",
         "rank":1,
         "affected":272,
         "status":"Crews Working",
         "est_fixed":"11\/28\/2024 07:30",
-        "longitude":-118.381705,
-        "latitude":34.131769,
-        "fetched":1732814750342
+        "longitude":-118.3817172168,
+        "latitude":34.1317738569,
+        "fetched":1732815232996
     }
 ]
