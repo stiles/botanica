@@ -1,6 +1,6 @@
 [
     {
-        "id":60406,
+        "id":60407,
         "name":"Sun Valley",
         "rank":1,
         "affected":238,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/28\/2024 14:00",
         "longitude":-118.368767,
         "latitude":34.208476,
-        "fetched":1732817987817
+        "fetched":1732818797333
     }
 ]
