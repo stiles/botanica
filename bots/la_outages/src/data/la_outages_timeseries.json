@@ -54646,5 +54646,27 @@
         "longitude":-118.4185992172,
         "latitude":34.060594847,
         "fetched":"2024-11-30 09:08:10.473181-08:00"
+    },
+    {
+        "id":60477,
+        "name":"Century City",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"11\/30\/2024 10:30",
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":"2024-11-30 09:17:29.433461-08:00"
+    },
+    {
+        "id":60478,
+        "name":"Downtown",
+        "rank":1,
+        "affected":220,
+        "status":"Reported Outage",
+        "est_fixed":"11\/30\/2024 13:00",
+        "longitude":-118.252616,
+        "latitude":34.044892,
+        "fetched":"2024-11-30 09:17:29.433461-08:00"
     }
 ]
