@@ -1,6 +1,6 @@
 [
     {
-        "id":60462,
+        "id":60464,
         "name":"Century City",
         "rank":1,
         "affected":0,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/30\/2024 10:30",
         "longitude":-118.418587,
         "latitude":34.06059,
-        "fetched":1732982107601
+        "fetched":1732982481462
     }
 ]
