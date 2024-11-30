@@ -1,6 +1,6 @@
 [
     {
-        "id":60576,
+        "id":60578,
         "name":"Downtown",
         "rank":1,
         "affected":0,
@@ -8,6 +8,6 @@
         "est_fixed":"11\/30\/2024 17:30",
         "longitude":-118.256472,
         "latitude":34.04641,
-        "fetched":1733002587140
+        "fetched":1733002949109
     }
 ]
