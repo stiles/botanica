@@ -1,79 +1,79 @@
 [
     {
-        "id":60545,
+        "id":60555,
         "name":"Century City",
         "rank":1,
         "affected":1,
         "status":"Crews Working",
         "est_fixed":"11\/30\/2024 10:30",
-        "longitude":-118.4185992172,
-        "latitude":34.060594847,
-        "fetched":1732994548326
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":1732994904519
     },
     {
-        "id":60546,
+        "id":60556,
         "name":"Downtown",
         "rank":3,
         "affected":1,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 13:00",
-        "longitude":-118.2563781888,
-        "latitude":34.0462638546,
-        "fetched":1732994548326
+        "longitude":-118.256366,
+        "latitude":34.046259,
+        "fetched":1732994904519
     },
     {
-        "id":60547,
+        "id":60557,
         "name":"Downtown",
         "rank":5,
         "affected":0,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 12:00",
-        "longitude":-118.2459151868,
-        "latitude":34.0421798548,
-        "fetched":1732994548326
+        "longitude":-118.245903,
+        "latitude":34.042175,
+        "fetched":1732994904519
     },
     {
-        "id":60548,
+        "id":60558,
         "name":"Downtown",
         "rank":6,
         "affected":0,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 07:30",
-        "longitude":-118.2524881881,
-        "latitude":34.0449128547,
-        "fetched":1732994548326
+        "longitude":-118.252476,
+        "latitude":34.044908,
+        "fetched":1732994904519
     },
     {
-        "id":60550,
+        "id":60560,
         "name":"Downtown",
         "rank":1,
         "affected":7,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 13:00",
-        "longitude":-118.2563191884,
-        "latitude":34.040960854,
-        "fetched":1732994548326
+        "longitude":-118.256307,
+        "latitude":34.040956,
+        "fetched":1732994904519
     },
     {
-        "id":60551,
+        "id":60561,
         "name":"Downtown",
         "rank":2,
         "affected":2,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 13:30",
-        "longitude":-118.2573661891,
-        "latitude":34.0479938548,
-        "fetched":1732994548326
+        "longitude":-118.257354,
+        "latitude":34.047989,
+        "fetched":1732994904519
     },
     {
-        "id":60552,
+        "id":60562,
         "name":"Downtown",
         "rank":4,
         "affected":1,
         "status":"Reported Outage",
         "est_fixed":"11\/30\/2024 13:30",
-        "longitude":-118.2607461899,
-        "latitude":34.0502838548,
-        "fetched":1732994548326
+        "longitude":-118.260734,
+        "latitude":34.050279,
+        "fetched":1732994904519
     }
 ]
