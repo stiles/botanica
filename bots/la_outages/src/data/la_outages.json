@@ -1,24 +1,3 @@
 [
-    {
-        "id":60438,
-        "name":"Downtown",
-        "rank":1,
-        "affected":220,
-        "status":"Reported Outage",
-        "est_fixed":"11\/30\/2024 07:30",
-        "longitude":-118.252616,
-        "latitude":34.044892,
-        "fetched":1732969211033
-    },
-    {
-        "id":60439,
-        "name":"Downtown",
-        "rank":2,
-        "affected":5,
-        "status":"Reported Outage",
-        "est_fixed":"11\/30\/2024 07:30",
-        "longitude":-118.255805,
-        "latitude":34.040711,
-        "fetched":1732969211033
-    }
+
 ]
