@@ -1,6 +1,6 @@
 [
     {
-        "id":60525,
+        "id":60535,
         "name":"Century City",
         "rank":1,
         "affected":1,
@@ -8,10 +8,10 @@
         "est_fixed":"11\/30\/2024 10:30",
         "longitude":-118.418587,
         "latitude":34.06059,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60526,
+        "id":60536,
         "name":"Downtown",
         "rank":3,
         "affected":1,
@@ -19,10 +19,10 @@
         "est_fixed":"11\/30\/2024 13:00",
         "longitude":-118.256366,
         "latitude":34.046259,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60527,
+        "id":60537,
         "name":"Downtown",
         "rank":5,
         "affected":0,
@@ -30,10 +30,10 @@
         "est_fixed":"11\/30\/2024 12:00",
         "longitude":-118.245903,
         "latitude":34.042175,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60528,
+        "id":60538,
         "name":"Downtown",
         "rank":6,
         "affected":0,
@@ -41,10 +41,10 @@
         "est_fixed":"11\/30\/2024 07:30",
         "longitude":-118.252476,
         "latitude":34.044908,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60530,
+        "id":60540,
         "name":"Downtown",
         "rank":1,
         "affected":7,
@@ -52,10 +52,10 @@
         "est_fixed":"11\/30\/2024 13:00",
         "longitude":-118.256307,
         "latitude":34.040956,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60531,
+        "id":60541,
         "name":"Downtown",
         "rank":2,
         "affected":2,
@@ -63,10 +63,10 @@
         "est_fixed":"11\/30\/2024 13:30",
         "longitude":-118.257354,
         "latitude":34.047989,
-        "fetched":1732992804511
+        "fetched":1732993163446
     },
     {
-        "id":60532,
+        "id":60542,
         "name":"Downtown",
         "rank":4,
         "affected":1,
@@ -74,6 +74,6 @@
         "est_fixed":"11\/30\/2024 13:30",
         "longitude":-118.260734,
         "latitude":34.050279,
-        "fetched":1732992804511
+        "fetched":1732993163446
     }
 ]
