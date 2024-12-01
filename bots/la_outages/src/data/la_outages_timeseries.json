@@ -56153,5 +56153,27 @@
         "longitude":-118.256472,
         "latitude":34.04641,
         "fetched":"2024-11-30 13:54:05.119177-08:00"
+    },
+    {
+        "id":60582,
+        "name":"Boyle Heights",
+        "rank":1,
+        "affected":66,
+        "status":"Reported Outage",
+        "est_fixed":"11\/30\/2024 21:00",
+        "longitude":-118.2092411798,
+        "latitude":34.0325488558,
+        "fetched":"2024-11-30 17:06:20.460316-08:00"
+    },
+    {
+        "id":60583,
+        "name":"Boyle Heights",
+        "rank":2,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"11\/30\/2024 21:00",
+        "longitude":-118.2080391797,
+        "latitude":34.034018856,
+        "fetched":"2024-11-30 17:06:20.460316-08:00"
     }
 ]
