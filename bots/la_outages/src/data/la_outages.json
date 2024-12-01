@@ -1,24 +1,3 @@
 [
-    {
-        "id":60582,
-        "name":"Boyle Heights",
-        "rank":1,
-        "affected":66,
-        "status":"Reported Outage",
-        "est_fixed":"11\/30\/2024 21:00",
-        "longitude":-118.2092411798,
-        "latitude":34.0325488558,
-        "fetched":1733015180460
-    },
-    {
-        "id":60583,
-        "name":"Boyle Heights",
-        "rank":2,
-        "affected":11,
-        "status":"Reported Outage",
-        "est_fixed":"11\/30\/2024 21:00",
-        "longitude":-118.2080391797,
-        "latitude":34.034018856,
-        "fetched":1733015180460
-    }
+
 ]
