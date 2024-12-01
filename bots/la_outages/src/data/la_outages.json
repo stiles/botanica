@@ -1,6 +1,6 @@
 [
     {
-        "id":60598,
+        "id":60599,
         "name":"Sawtelle",
         "rank":1,
         "affected":32,
@@ -8,6 +8,6 @@
         "est_fixed":"12\/01\/2024 02:00",
         "longitude":-118.462213,
         "latitude":34.038394,
-        "fetched":1733043344360
+        "fetched":1733043727613
     }
 ]
