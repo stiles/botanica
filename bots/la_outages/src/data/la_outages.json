@@ -1,13 +1,13 @@
 [
     {
-        "id":60595,
+        "id":60596,
+        "name":"Sawtelle",
         "rank":1,
         "affected":32,
-        "status":"Assigned",
+        "status":"Crews Working",
         "est_fixed":"12\/01\/2024 02:00",
-        "name":"Sawtelle",
         "longitude":-118.462213,
         "latitude":34.038394,
-        "fetched":1733040206271
+        "fetched":1733040778172
     }
 ]
