@@ -56329,5 +56329,16 @@
         "longitude":-118.462213,
         "latitude":34.038394,
         "fetched":"2024-11-30 23:50:29.563326-08:00"
+    },
+    {
+        "id":60594,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":32,
+        "status":"Assigned",
+        "est_fixed":"12\/01\/2024 02:00",
+        "longitude":-118.462213,
+        "latitude":34.038394,
+        "fetched":"2024-11-30 23:56:12.593006-08:00"
     }
 ]
