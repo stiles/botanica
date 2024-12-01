@@ -56175,5 +56175,16 @@
         "longitude":-118.2080391797,
         "latitude":34.034018856,
         "fetched":"2024-11-30 17:06:20.460316-08:00"
+    },
+    {
+        "id":60587,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":32,
+        "status":"Reported Outage",
+        "est_fixed":"12\/01\/2024 02:00",
+        "longitude":-118.462213,
+        "latitude":34.038394,
+        "fetched":"2024-11-30 21:58:32.864081-08:00"
     }
 ]
