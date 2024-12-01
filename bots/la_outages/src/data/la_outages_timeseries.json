@@ -56681,5 +56681,16 @@
         "longitude":-118.462213,
         "latitude":34.038394,
         "fetched":"2024-12-01 03:51:41.525725-08:00"
+    },
+    {
+        "id":60610,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":32,
+        "status":"Crews Working",
+        "est_fixed":"12\/01\/2024 02:00",
+        "longitude":-118.462213,
+        "latitude":34.038394,
+        "fetched":"2024-12-01 03:57:27.180668-08:00"
     }
 ]
