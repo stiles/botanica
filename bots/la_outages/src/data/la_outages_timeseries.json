@@ -56747,5 +56747,16 @@
         "longitude":-118.260752,
         "latitude":34.050115,
         "fetched":"2024-12-01 06:42:01.117238-08:00"
+    },
+    {
+        "id":60615,
+        "name":"Downtown",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"11\/30\/2024 10:30",
+        "longitude":-118.260752,
+        "latitude":34.050115,
+        "fetched":"2024-12-01 06:48:06.096825-08:00"
     }
 ]
