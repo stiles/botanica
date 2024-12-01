@@ -57187,5 +57187,27 @@
         "longitude":-118.4741302442,
         "latitude":34.2759008674,
         "fetched":"2024-12-01 13:40:44.799343-08:00"
+    },
+    {
+        "id":60644,
+        "name":"Granada Hills",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":"12\/01\/2024 13:30",
+        "longitude":-118.474118,
+        "latitude":34.275896,
+        "fetched":"2024-12-01 13:46:40.307670-08:00"
+    },
+    {
+        "id":60645,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":36,
+        "status":"Crews Working",
+        "est_fixed":"12\/01\/2024 19:30",
+        "longitude":-118.602199,
+        "latitude":34.198815,
+        "fetched":"2024-12-01 13:46:40.307670-08:00"
     }
 ]
