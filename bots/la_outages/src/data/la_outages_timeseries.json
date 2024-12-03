@@ -57682,5 +57682,16 @@
         "longitude":-118.5504172574,
         "latitude":34.2809328635,
         "fetched":"2024-12-03 00:57:00.703744-08:00"
+    },
+    {
+        "id":60711,
+        "name":"Porter Ranch",
+        "rank":1,
+        "affected":11,
+        "status":"Crews Working",
+        "est_fixed":"12\/03\/2024 02:00",
+        "longitude":-118.5504172574,
+        "latitude":34.2809328635,
+        "fetched":"2024-12-03 01:04:56.307563-08:00"
     }
 ]
