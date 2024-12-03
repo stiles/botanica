@@ -1,13 +1,13 @@
 [
     {
-        "id":60713,
+        "id":60714,
         "name":"Porter Ranch",
         "rank":1,
         "affected":11,
         "status":"Crews Working",
         "est_fixed":"12\/03\/2024 02:00",
-        "longitude":-118.5504172574,
-        "latitude":34.2809328635,
-        "fetched":1733218495214
+        "longitude":-118.550405,
+        "latitude":34.280928,
+        "fetched":1733218943889
     }
 ]
