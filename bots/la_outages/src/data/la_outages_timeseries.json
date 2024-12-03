@@ -58144,5 +58144,27 @@
         "longitude":-118.233986,
         "latitude":34.089968,
         "fetched":"2024-12-03 15:05:01.066872-08:00"
+    },
+    {
+        "id":60735,
+        "name":"Elysian Valley",
+        "rank":1,
+        "affected":37,
+        "status":"Reported Outage",
+        "est_fixed":"12\/03\/2024 15:00",
+        "longitude":-118.230337188,
+        "latitude":34.0895328609,
+        "fetched":"2024-12-03 15:14:16.298715-08:00"
+    },
+    {
+        "id":60736,
+        "name":"Elysian Valley",
+        "rank":2,
+        "affected":31,
+        "status":"Reported Outage",
+        "est_fixed":"12\/03\/2024 15:00",
+        "longitude":-118.2339981887,
+        "latitude":34.0899728607,
+        "fetched":"2024-12-03 15:14:16.298715-08:00"
     }
 ]
