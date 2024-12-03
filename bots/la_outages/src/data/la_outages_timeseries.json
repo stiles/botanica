@@ -57484,5 +57484,16 @@
         "longitude":-118.474118,
         "latitude":34.275896,
         "fetched":"2024-12-01 17:12:45.178673-08:00"
+    },
+    {
+        "id":60701,
+        "name":"Porter Ranch",
+        "rank":1,
+        "affected":11,
+        "status":"Reported Outage",
+        "est_fixed":"12\/03\/2024 02:00",
+        "longitude":-118.550405,
+        "latitude":34.280928,
+        "fetched":"2024-12-02 22:30:31.008096-08:00"
     }
 ]
