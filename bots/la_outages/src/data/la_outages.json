@@ -1,13 +1,3 @@
 [
-    {
-        "id":60739,
-        "name":"Elysian Valley",
-        "rank":1,
-        "affected":31,
-        "status":"Reported Outage",
-        "est_fixed":"12\/03\/2024 15:00",
-        "longitude":-118.233986,
-        "latitude":34.089968,
-        "fetched":1733270176344
-    }
+
 ]
