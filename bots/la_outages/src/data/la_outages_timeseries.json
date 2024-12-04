@@ -58375,5 +58375,16 @@
         "longitude":-118.4031772117,
         "latitude":34.025411844,
         "fetched":"2024-12-03 21:38:05.872712-08:00"
+    },
+    {
+        "id":60746,
+        "name":"Palms",
+        "rank":1,
+        "affected":0,
+        "status":"Reported Outage",
+        "est_fixed":"12\/04\/2024 11:00",
+        "longitude":-118.415843,
+        "latitude":34.028619,
+        "fetched":"2024-12-04 06:59:13.318851-08:00"
     }
 ]
