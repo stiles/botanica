@@ -1,35 +1,24 @@
 [
     {
-        "id":60919,
-        "name":"South Park",
-        "rank":1,
-        "affected":36,
-        "status":"Assigned",
-        "est_fixed":"12\/05\/2024 12:30",
-        "longitude":-118.262984,
-        "latitude":34.002938,
-        "fetched":1733421336483
-    },
-    {
-        "id":60921,
+        "id":60923,
         "name":"Century City",
         "rank":1,
         "affected":1,
         "status":"Assigned",
         "est_fixed":"12\/05\/2024 16:00",
-        "longitude":-118.418587,
-        "latitude":34.06059,
-        "fetched":1733421336483
+        "longitude":-118.4185992172,
+        "latitude":34.060594847,
+        "fetched":1733421758434
     },
     {
-        "id":60920,
-        "name":"Pacoima",
+        "id":60922,
+        "name":"South Park",
         "rank":1,
-        "affected":23,
-        "status":"Crews Working",
-        "est_fixed":"12\/05\/2024 13:00",
-        "longitude":-118.435882,
-        "latitude":34.260025,
-        "fetched":1733421336483
+        "affected":36,
+        "status":"En Route",
+        "est_fixed":"12\/05\/2024 12:30",
+        "longitude":-118.2629961864,
+        "latitude":34.0029428495,
+        "fetched":1733421758434
     }
 ]
