@@ -60091,5 +60091,27 @@
         "longitude":-118.493566,
         "latitude":34.060259,
         "fetched":"2024-12-04 23:56:56.184364-08:00"
+    },
+    {
+        "id":60864,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":15,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.437111,
+        "latitude":34.025412,
+        "fetched":"2024-12-05 00:05:55.093847-08:00"
+    },
+    {
+        "id":60863,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":122,
+        "status":"Crews Working",
+        "est_fixed":"12\/04\/2024 21:30",
+        "longitude":-118.493566,
+        "latitude":34.060259,
+        "fetched":"2024-12-05 00:05:55.093847-08:00"
     }
 ]
