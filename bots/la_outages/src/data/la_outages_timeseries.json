@@ -61488,5 +61488,16 @@
         "longitude":-118.418587,
         "latitude":34.06059,
         "fetched":"2024-12-05 12:30:03.958884-08:00"
+    },
+    {
+        "id":60937,
+        "name":"Century City",
+        "rank":1,
+        "affected":1,
+        "status":"Crews Working",
+        "est_fixed":"12\/05\/2024 16:00",
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":"2024-12-05 12:38:06.351153-08:00"
     }
 ]
