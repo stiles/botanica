@@ -1,6 +1,6 @@
 [
     {
-        "id":60916,
+        "id":60919,
         "name":"South Park",
         "rank":1,
         "affected":36,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/05\/2024 12:30",
         "longitude":-118.262984,
         "latitude":34.002938,
-        "fetched":1733420223817
+        "fetched":1733420628014
     },
     {
-        "id":60918,
+        "id":60921,
         "name":"Century City",
         "rank":1,
         "affected":1,
@@ -19,10 +19,10 @@
         "est_fixed":"12\/05\/2024 16:00",
         "longitude":-118.418587,
         "latitude":34.06059,
-        "fetched":1733420223817
+        "fetched":1733420628014
     },
     {
-        "id":60917,
+        "id":60920,
         "name":"Pacoima",
         "rank":1,
         "affected":23,
@@ -30,6 +30,6 @@
         "est_fixed":"12\/05\/2024 13:00",
         "longitude":-118.435882,
         "latitude":34.260025,
-        "fetched":1733420223817
+        "fetched":1733420628014
     }
 ]

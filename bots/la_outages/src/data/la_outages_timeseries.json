@@ -61092,5 +61092,38 @@
         "longitude":-118.435882,
         "latitude":34.260025,
         "fetched":"2024-12-05 09:37:03.817176-08:00"
+    },
+    {
+        "id":60919,
+        "name":"South Park",
+        "rank":1,
+        "affected":36,
+        "status":"Assigned",
+        "est_fixed":"12\/05\/2024 12:30",
+        "longitude":-118.262984,
+        "latitude":34.002938,
+        "fetched":"2024-12-05 09:43:48.014515-08:00"
+    },
+    {
+        "id":60921,
+        "name":"Century City",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"12\/05\/2024 16:00",
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":"2024-12-05 09:43:48.014515-08:00"
+    },
+    {
+        "id":60920,
+        "name":"Pacoima",
+        "rank":1,
+        "affected":23,
+        "status":"Crews Working",
+        "est_fixed":"12\/05\/2024 13:00",
+        "longitude":-118.435882,
+        "latitude":34.260025,
+        "fetched":"2024-12-05 09:43:48.014515-08:00"
     }
 ]
