@@ -1,24 +1,24 @@
 [
     {
-        "id":60904,
+        "id":60906,
         "name":"Pacoima",
         "rank":1,
         "affected":22,
         "status":"Assigned",
         "est_fixed":"12\/05\/2024 10:30",
-        "longitude":-118.4350552364,
-        "latitude":34.260654868,
-        "fetched":1733415788752
+        "longitude":-118.435043,
+        "latitude":34.26065,
+        "fetched":1733416579347
     },
     {
-        "id":60905,
+        "id":60907,
         "name":"Century City",
         "rank":1,
         "affected":1,
-        "status":"Reported Outage",
+        "status":"Assigned",
         "est_fixed":"12\/05\/2024 16:00",
-        "longitude":-118.4185992172,
-        "latitude":34.060594847,
-        "fetched":1733415788752
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":1733416579347
     }
 ]
