@@ -1,17 +1,6 @@
 [
     {
-        "id":60880,
-        "name":"Sawtelle",
-        "rank":1,
-        "affected":15,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.4371232174,
-        "latitude":34.0254168421,
-        "fetched":1733393183255
-    },
-    {
-        "id":60879,
+        "id":60881,
         "name":"Brentwood",
         "rank":1,
         "affected":122,
@@ -19,6 +8,17 @@
         "est_fixed":"12\/04\/2024 21:30",
         "longitude":-118.4935782296,
         "latitude":34.0602638427,
-        "fetched":1733393183255
+        "fetched":1733393783889
+    },
+    {
+        "id":60882,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":15,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.4371232174,
+        "latitude":34.0254168421,
+        "fetched":1733393783889
     }
 ]
