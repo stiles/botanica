@@ -1,24 +1,24 @@
 [
     {
-        "id":60923,
+        "id":60925,
         "name":"Century City",
         "rank":1,
         "affected":1,
         "status":"Assigned",
         "est_fixed":"12\/05\/2024 16:00",
-        "longitude":-118.4185992172,
-        "latitude":34.060594847,
-        "fetched":1733421758434
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":1733422316461
     },
     {
-        "id":60922,
+        "id":60924,
         "name":"South Park",
         "rank":1,
         "affected":36,
-        "status":"En Route",
+        "status":"Crews Working",
         "est_fixed":"12\/05\/2024 12:30",
-        "longitude":-118.2629961864,
-        "latitude":34.0029428495,
-        "fetched":1733421758434
+        "longitude":-118.262984,
+        "latitude":34.002938,
+        "fetched":1733422316461
     }
 ]
