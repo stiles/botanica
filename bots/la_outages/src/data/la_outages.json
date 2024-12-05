@@ -1,6 +1,6 @@
 [
     {
-        "id":60925,
+        "id":60927,
         "name":"Century City",
         "rank":1,
         "affected":1,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/05\/2024 16:00",
         "longitude":-118.418587,
         "latitude":34.06059,
-        "fetched":1733423044318
+        "fetched":1733423772926
     },
     {
-        "id":60924,
+        "id":60926,
         "name":"South Park",
         "rank":1,
         "affected":36,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/05\/2024 12:30",
         "longitude":-118.262984,
         "latitude":34.002938,
-        "fetched":1733423044318
+        "fetched":1733423772926
     }
 ]
