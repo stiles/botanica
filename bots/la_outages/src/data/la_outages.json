@@ -1,35 +1,57 @@
 [
     {
-        "id":60785,
+        "id":60794,
         "name":"Sawtelle",
         "rank":1,
         "affected":15,
         "status":"Assigned",
         "est_fixed":null,
-        "longitude":-118.437111,
-        "latitude":34.025412,
-        "fetched":1733364719458
+        "longitude":-118.4371232174,
+        "latitude":34.0254168421,
+        "fetched":1733366647029
     },
     {
-        "id":60786,
+        "id":60793,
+        "name":"Brentwood",
+        "rank":2,
+        "affected":122,
+        "status":"Crews Working",
+        "est_fixed":"12\/04\/2024 21:30",
+        "longitude":-118.4935782296,
+        "latitude":34.0602638427,
+        "fetched":1733366647029
+    },
+    {
+        "id":60795,
         "name":"Pacoima                       ",
         "rank":1,
         "affected":220,
-        "status":"Assigned",
+        "status":"En Route",
         "est_fixed":"12\/04\/2024 21:30",
-        "longitude":-118.416334425,
-        "latitude":34.26379699,
-        "fetched":1733364719458
+        "longitude":-118.4163466586,
+        "latitude":34.2638018594,
+        "fetched":1733366647029
     },
     {
-        "id":60784,
+        "id":60791,
+        "name":"El Sereno",
+        "rank":1,
+        "affected":207,
+        "status":"Reported Outage",
+        "est_fixed":"12\/04\/2024 22:30",
+        "longitude":-118.1630351754,
+        "latitude":34.0734378629,
+        "fetched":1733366647029
+    },
+    {
+        "id":60792,
         "name":"Brentwood",
         "rank":1,
-        "affected":114,
-        "status":"Crews Working",
-        "est_fixed":"12\/04\/2024 21:30",
-        "longitude":-118.493566,
-        "latitude":34.060259,
-        "fetched":1733364719458
+        "affected":490,
+        "status":"Reported Outage",
+        "est_fixed":"12\/04\/2024 22:30",
+        "longitude":-118.4759522259,
+        "latitude":34.0510438427,
+        "fetched":1733366647029
     }
 ]
