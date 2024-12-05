@@ -1,35 +1,35 @@
 [
     {
-        "id":60854,
+        "id":60857,
         "name":"Brentwood",
         "rank":1,
         "affected":490,
         "status":"Assigned",
         "est_fixed":"12\/04\/2024 22:30",
-        "longitude":-118.47594,
-        "latitude":34.051039,
-        "fetched":1733383516665
+        "longitude":-118.4759522259,
+        "latitude":34.0510438427,
+        "fetched":1733383978847
     },
     {
-        "id":60856,
+        "id":60859,
         "name":"Sawtelle",
         "rank":1,
         "affected":15,
         "status":"Assigned",
         "est_fixed":null,
-        "longitude":-118.437111,
-        "latitude":34.025412,
-        "fetched":1733383516665
+        "longitude":-118.4371232174,
+        "latitude":34.0254168421,
+        "fetched":1733383978847
     },
     {
-        "id":60855,
+        "id":60858,
         "name":"Brentwood",
         "rank":2,
         "affected":122,
         "status":"Crews Working",
         "est_fixed":"12\/04\/2024 21:30",
-        "longitude":-118.493566,
-        "latitude":34.060259,
-        "fetched":1733383516665
+        "longitude":-118.4935782296,
+        "latitude":34.0602638427,
+        "fetched":1733383978847
     }
 ]
