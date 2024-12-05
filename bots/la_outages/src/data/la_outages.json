@@ -1,6 +1,6 @@
 [
     {
-        "id":60891,
+        "id":60893,
         "name":"Brentwood",
         "rank":1,
         "affected":122,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/04\/2024 21:30",
         "longitude":-118.4935782296,
         "latitude":34.0602638427,
-        "fetched":1733398609189
+        "fetched":1733398964408
     },
     {
-        "id":60892,
+        "id":60894,
         "name":"Sawtelle",
         "rank":1,
         "affected":15,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.4371232174,
         "latitude":34.0254168421,
-        "fetched":1733398609189
+        "fetched":1733398964408
     }
 ]
