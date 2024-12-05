@@ -1,6 +1,6 @@
 [
     {
-        "id":60796,
+        "id":60800,
         "name":"Brentwood",
         "rank":1,
         "affected":490,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/04\/2024 22:30",
         "longitude":-118.4759522259,
         "latitude":34.0510438427,
-        "fetched":1733368107073
+        "fetched":1733369131798
     },
     {
-        "id":60798,
+        "id":60802,
         "name":"Sawtelle",
         "rank":1,
         "affected":15,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.4371232174,
         "latitude":34.0254168421,
-        "fetched":1733368107073
+        "fetched":1733369131798
     },
     {
-        "id":60797,
+        "id":60801,
         "name":"Brentwood",
         "rank":2,
         "affected":122,
@@ -30,10 +30,10 @@
         "est_fixed":"12\/04\/2024 21:30",
         "longitude":-118.4935782296,
         "latitude":34.0602638427,
-        "fetched":1733368107073
+        "fetched":1733369131798
     },
     {
-        "id":60799,
+        "id":60803,
         "name":"Pacoima                       ",
         "rank":1,
         "affected":220,
@@ -41,6 +41,6 @@
         "est_fixed":"12\/04\/2024 21:30",
         "longitude":-118.4163466586,
         "latitude":34.2638018594,
-        "fetched":1733368107073
+        "fetched":1733369131798
     }
 ]
