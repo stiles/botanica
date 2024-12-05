@@ -59266,5 +59266,49 @@
         "longitude":-118.416334425,
         "latitude":34.26379699,
         "fetched":"2024-12-04 20:30:15.998933-08:00"
+    },
+    {
+        "id":60820,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":490,
+        "status":"Assigned",
+        "est_fixed":"12\/04\/2024 22:30",
+        "longitude":-118.47594,
+        "latitude":34.051039,
+        "fetched":"2024-12-04 20:40:00.267464-08:00"
+    },
+    {
+        "id":60822,
+        "name":"Sawtelle",
+        "rank":1,
+        "affected":15,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.437111,
+        "latitude":34.025412,
+        "fetched":"2024-12-04 20:40:00.267464-08:00"
+    },
+    {
+        "id":60821,
+        "name":"Brentwood",
+        "rank":2,
+        "affected":122,
+        "status":"Crews Working",
+        "est_fixed":"12\/04\/2024 21:30",
+        "longitude":-118.493566,
+        "latitude":34.060259,
+        "fetched":"2024-12-04 20:40:00.267464-08:00"
+    },
+    {
+        "id":60823,
+        "name":"Pacoima                       ",
+        "rank":1,
+        "affected":220,
+        "status":"En Route",
+        "est_fixed":"12\/04\/2024 21:30",
+        "longitude":-118.416334425,
+        "latitude":34.26379699,
+        "fetched":"2024-12-04 20:40:00.267464-08:00"
     }
 ]
