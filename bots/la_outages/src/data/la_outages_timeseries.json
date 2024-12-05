@@ -60806,5 +60806,16 @@
         "longitude":-118.493566,
         "latitude":34.060259,
         "fetched":"2024-12-05 05:00:36.342410-08:00"
+    },
+    {
+        "id":60902,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":122,
+        "status":"Crews Working",
+        "est_fixed":"12\/04\/2024 21:30",
+        "longitude":-118.493566,
+        "latitude":34.060259,
+        "fetched":"2024-12-05 05:15:15.969503-08:00"
     }
 ]
