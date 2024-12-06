@@ -61576,5 +61576,49 @@
         "longitude":-118.307373,
         "latitude":33.805392,
         "fetched":"2024-12-06 05:13:35.307865-08:00"
+    },
+    {
+        "id":60955,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":34,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.2436241662,
+        "latitude":33.7917418271,
+        "fetched":"2024-12-06 05:26:38.266408-08:00"
+    },
+    {
+        "id":60956,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":129,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.284441173,
+        "latitude":33.7912158248,
+        "fetched":"2024-12-06 05:26:38.266408-08:00"
+    },
+    {
+        "id":60957,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":733,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.3083171785,
+        "latitude":33.8097608255,
+        "fetched":"2024-12-06 05:26:38.266408-08:00"
+    },
+    {
+        "id":60958,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":442,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.3073851779,
+        "latitude":33.8053968251,
+        "fetched":"2024-12-06 05:26:38.266408-08:00"
     }
 ]
