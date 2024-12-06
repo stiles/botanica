@@ -62643,5 +62643,38 @@
         "longitude":-118.300165,
         "latitude":33.787866,
         "fetched":"2024-12-06 08:11:51.182674-08:00"
+    },
+    {
+        "id":61005,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.243612,
+        "latitude":33.791737,
+        "fetched":"2024-12-06 08:23:32.507007-08:00"
+    },
+    {
+        "id":61007,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":1236,
+        "status":"Assigned",
+        "est_fixed":"12\/06\/2024 13:30",
+        "longitude":-118.300166,
+        "latitude":33.78788,
+        "fetched":"2024-12-06 08:23:32.507007-08:00"
+    },
+    {
+        "id":61006,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":1761,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 13:30",
+        "longitude":-118.300165,
+        "latitude":33.787866,
+        "fetched":"2024-12-06 08:23:32.507007-08:00"
     }
 ]
