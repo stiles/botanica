@@ -1,6 +1,6 @@
 [
     {
-        "id":61078,
+        "id":61082,
         "name":"Harbor City",
         "rank":1,
         "affected":1236,
@@ -8,32 +8,21 @@
         "est_fixed":null,
         "longitude":-118.300166,
         "latitude":33.78788,
-        "fetched":1733520040691
+        "fetched":1733520527768
     },
     {
-        "id":61077,
+        "id":61081,
         "name":"Harbor City",
         "rank":2,
-        "affected":849,
+        "affected":763,
         "status":"Crews Working",
         "est_fixed":"12\/06\/2024 13:30",
-        "longitude":-118.288069,
-        "latitude":33.791069,
-        "fetched":1733520040691
+        "longitude":-118.284587,
+        "latitude":33.790977,
+        "fetched":1733520527768
     },
     {
-        "id":61079,
-        "name":"Van Nuys",
-        "rank":1,
-        "affected":674,
-        "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.448717,
-        "latitude":34.201059,
-        "fetched":1733520040691
-    },
-    {
-        "id":61076,
+        "id":61080,
         "name":"Wilmington",
         "rank":1,
         "affected":34,
@@ -41,6 +30,6 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.243612,
         "latitude":33.791737,
-        "fetched":1733520040691
+        "fetched":1733520527768
     }
 ]
