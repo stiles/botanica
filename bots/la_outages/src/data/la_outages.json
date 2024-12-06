@@ -1,46 +1,90 @@
 [
     {
-        "id":60955,
+        "id":60966,
+        "name":"Harbor City",
+        "rank":7,
+        "affected":84,
+        "status":null,
+        "est_fixed":null,
+        "longitude":-118.288959,
+        "latitude":33.792689,
+        "fetched":1733492704334
+    },
+    {
+        "id":60959,
         "name":"Wilmington",
         "rank":1,
         "affected":34,
         "status":"Reported Outage",
         "est_fixed":"12\/06\/2024 09:00",
-        "longitude":-118.2436241662,
-        "latitude":33.7917418271,
-        "fetched":1733492258615
+        "longitude":-118.243612,
+        "latitude":33.791737,
+        "fetched":1733492704334
     },
     {
-        "id":60956,
+        "id":60960,
         "name":"Harbor City",
-        "rank":3,
+        "rank":2,
+        "affected":657,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.297471,
+        "latitude":33.790202,
+        "fetched":1733492704334
+    },
+    {
+        "id":60961,
+        "name":"Harbor City",
+        "rank":5,
         "affected":129,
         "status":"Reported Outage",
         "est_fixed":"12\/06\/2024 09:00",
-        "longitude":-118.284441173,
-        "latitude":33.7912158248,
-        "fetched":1733492258615
+        "longitude":-118.284429,
+        "latitude":33.791211,
+        "fetched":1733492704334
     },
     {
-        "id":60957,
+        "id":60962,
+        "name":"Harbor City",
+        "rank":4,
+        "affected":209,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.285025,
+        "latitude":33.792136,
+        "fetched":1733492704334
+    },
+    {
+        "id":60963,
+        "name":"Harbor City",
+        "rank":6,
+        "affected":100,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.286288,
+        "latitude":33.791572,
+        "fetched":1733492704334
+    },
+    {
+        "id":60964,
         "name":"Harbor City",
         "rank":1,
         "affected":733,
         "status":"Reported Outage",
         "est_fixed":"12\/06\/2024 09:00",
-        "longitude":-118.3083171785,
-        "latitude":33.8097608255,
-        "fetched":1733492258615
+        "longitude":-118.308305,
+        "latitude":33.809756,
+        "fetched":1733492704334
     },
     {
-        "id":60958,
+        "id":60965,
         "name":"Harbor City",
-        "rank":2,
+        "rank":3,
         "affected":442,
         "status":"Reported Outage",
         "est_fixed":"12\/06\/2024 09:00",
-        "longitude":-118.3073851779,
-        "latitude":33.8053968251,
-        "fetched":1733492258615
+        "longitude":-118.307373,
+        "latitude":33.805392,
+        "fetched":1733492704334
     }
 ]
