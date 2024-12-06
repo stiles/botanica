@@ -1,24 +1,24 @@
 [
     {
-        "id":61102,
+        "id":61104,
         "name":"Wilmington",
         "rank":1,
         "affected":34,
         "status":"Assigned",
         "est_fixed":null,
-        "longitude":-118.2436241662,
-        "latitude":33.7917418271,
-        "fetched":1733528196752
+        "longitude":-118.243612,
+        "latitude":33.791737,
+        "fetched":1733528564789
     },
     {
-        "id":61103,
+        "id":61105,
         "name":"Harbor City",
         "rank":1,
-        "affected":1236,
-        "status":"En Route",
+        "affected":736,
+        "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.3001781753,
-        "latitude":33.7878848236,
-        "fetched":1733528196752
+        "longitude":-118.308305,
+        "latitude":33.809756,
+        "fetched":1733528564789
     }
 ]
