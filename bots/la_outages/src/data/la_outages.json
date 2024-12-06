@@ -1,6 +1,6 @@
 [
     {
-        "id":60975,
+        "id":60980,
         "name":"Wilmington",
         "rank":1,
         "affected":34,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.243612,
         "latitude":33.791737,
-        "fetched":1733494981933
+        "fetched":1733495596183
     },
     {
-        "id":60976,
+        "id":60981,
         "name":"Harbor City",
         "rank":2,
         "affected":1761,
@@ -19,10 +19,10 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.300165,
         "latitude":33.787866,
-        "fetched":1733494981933
+        "fetched":1733495596183
     },
     {
-        "id":60977,
+        "id":60982,
         "name":"Harbor City",
         "rank":4,
         "affected":100,
@@ -30,10 +30,10 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.286288,
         "latitude":33.791572,
-        "fetched":1733494981933
+        "fetched":1733495596183
     },
     {
-        "id":60978,
+        "id":60983,
         "name":"Harbor City",
         "rank":3,
         "affected":1236,
@@ -41,10 +41,10 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.300166,
         "latitude":33.78788,
-        "fetched":1733494981933
+        "fetched":1733495596183
     },
     {
-        "id":60979,
+        "id":60984,
         "name":"Harbor City",
         "rank":1,
         "affected":3207,
@@ -52,6 +52,6 @@
         "est_fixed":"12\/06\/2024 09:00",
         "longitude":-118.300165,
         "latitude":33.787895,
-        "fetched":1733494981933
+        "fetched":1733495596183
     }
 ]
