@@ -63204,5 +63204,49 @@
         "longitude":-118.418587,
         "latitude":34.06059,
         "fetched":"2024-12-06 09:59:29.772839-08:00"
+    },
+    {
+        "id":61032,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":34,
+        "status":"Assigned",
+        "est_fixed":"12\/06\/2024 09:00",
+        "longitude":-118.243612,
+        "latitude":33.791737,
+        "fetched":"2024-12-06 10:09:52.857448-08:00"
+    },
+    {
+        "id":61034,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":1236,
+        "status":"Assigned",
+        "est_fixed":"12\/06\/2024 13:30",
+        "longitude":-118.300166,
+        "latitude":33.78788,
+        "fetched":"2024-12-06 10:09:52.857448-08:00"
+    },
+    {
+        "id":61033,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":1761,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 13:30",
+        "longitude":-118.300165,
+        "latitude":33.787866,
+        "fetched":"2024-12-06 10:09:52.857448-08:00"
+    },
+    {
+        "id":61035,
+        "name":"Century City",
+        "rank":1,
+        "affected":1,
+        "status":"Crews Working",
+        "est_fixed":"12\/04\/2024 15:30",
+        "longitude":-118.418587,
+        "latitude":34.06059,
+        "fetched":"2024-12-06 10:09:52.857448-08:00"
     }
 ]
