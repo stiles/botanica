@@ -1,6 +1,6 @@
 [
     {
-        "id":61188,
+        "id":61191,
         "name":"Valley Glen",
         "rank":1,
         "affected":875,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.4228202288,
         "latitude":34.1939908614,
-        "fetched":1733550920860
+        "fetched":1733551315703
     },
     {
-        "id":61189,
+        "id":61192,
         "name":"Wilmington",
         "rank":1,
         "affected":665,
@@ -19,10 +19,10 @@
         "est_fixed":"12\/06\/2024 23:30",
         "longitude":-118.2822431728,
         "latitude":33.7935558252,
-        "fetched":1733550920860
+        "fetched":1733551315703
     },
     {
-        "id":61190,
+        "id":61193,
         "name":"Harbor City",
         "rank":1,
         "affected":3979,
@@ -30,6 +30,6 @@
         "est_fixed":"12\/06\/2024 23:30",
         "longitude":-118.3083171785,
         "latitude":33.8097608255,
-        "fetched":1733550920860
+        "fetched":1733551315703
     }
 ]
