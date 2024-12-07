@@ -1,17 +1,6 @@
 [
     {
-        "id":61209,
-        "name":"Wilmington",
-        "rank":1,
-        "affected":749,
-        "status":"Crews Working",
-        "est_fixed":"12\/07\/2024 01:30",
-        "longitude":-118.282231,
-        "latitude":33.793551,
-        "fetched":1733559047602
-    },
-    {
-        "id":61210,
+        "id":61212,
         "name":"Harbor City",
         "rank":1,
         "affected":3979,
@@ -19,6 +8,17 @@
         "est_fixed":"12\/07\/2024 03:30",
         "longitude":-118.308305,
         "latitude":33.809756,
-        "fetched":1733559047602
+        "fetched":1733559734758
+    },
+    {
+        "id":61211,
+        "name":"Del Rey",
+        "rank":1,
+        "affected":3,
+        "status":"Reported Outage",
+        "est_fixed":"12\/07\/2024 02:30",
+        "longitude":-118.442966,
+        "latitude":33.989923,
+        "fetched":1733559734758
     }
 ]
