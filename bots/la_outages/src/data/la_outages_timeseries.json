@@ -65734,5 +65734,38 @@
         "longitude":-118.3083171785,
         "latitude":33.8097608255,
         "fetched":"2024-12-06 21:49:26.086311-08:00"
+    },
+    {
+        "id":61188,
+        "name":"Valley Glen",
+        "rank":1,
+        "affected":875,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.4228202288,
+        "latitude":34.1939908614,
+        "fetched":"2024-12-06 21:55:20.860829-08:00"
+    },
+    {
+        "id":61189,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":665,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 23:30",
+        "longitude":-118.2822431728,
+        "latitude":33.7935558252,
+        "fetched":"2024-12-06 21:55:20.860829-08:00"
+    },
+    {
+        "id":61190,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":3979,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 23:30",
+        "longitude":-118.3083171785,
+        "latitude":33.8097608255,
+        "fetched":"2024-12-06 21:55:20.860829-08:00"
     }
 ]
