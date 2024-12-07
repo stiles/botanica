@@ -1,6 +1,6 @@
 [
     {
-        "id":61146,
+        "id":61149,
         "name":"Harbor City",
         "rank":1,
         "affected":1809,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/06\/2024 21:30",
         "longitude":-118.3001771753,
         "latitude":33.7878708236,
-        "fetched":1733540719891
+        "fetched":1733541751953
     },
     {
-        "id":61147,
+        "id":61150,
         "name":"Harbor City",
         "rank":2,
         "affected":1206,
@@ -19,17 +19,17 @@
         "est_fixed":null,
         "longitude":-118.3083171785,
         "latitude":33.8097608255,
-        "fetched":1733540719891
+        "fetched":1733541751953
     },
     {
-        "id":61145,
+        "id":61148,
         "name":"Pacific Palisades",
         "rank":1,
-        "affected":355,
+        "affected":10,
         "status":"En Route",
-        "est_fixed":"12\/06\/2024 20:00",
-        "longitude":-118.5472102375,
-        "latitude":34.0473978383,
-        "fetched":1733540719891
+        "est_fixed":"12\/07\/2024 00:00",
+        "longitude":-118.5394212364,
+        "latitude":34.0494198389,
+        "fetched":1733541751953
     }
 ]
