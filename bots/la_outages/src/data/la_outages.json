@@ -1,24 +1,13 @@
 [
     {
-        "id":61223,
-        "name":"Harbor City",
-        "rank":1,
-        "affected":178,
-        "status":"Crews Working",
-        "est_fixed":"12\/07\/2024 04:30",
-        "longitude":-118.2841471731,
-        "latitude":33.7935418251,
-        "fetched":1733565954971
-    },
-    {
-        "id":61222,
+        "id":61224,
         "name":"Del Rey",
         "rank":1,
         "affected":3,
         "status":"Reported Outage",
         "est_fixed":"12\/07\/2024 02:30",
-        "longitude":-118.4429782155,
-        "latitude":33.9899278379,
-        "fetched":1733565954971
+        "longitude":-118.442966,
+        "latitude":33.989923,
+        "fetched":1733566537914
     }
 ]
