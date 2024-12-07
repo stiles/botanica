@@ -1,6 +1,6 @@
 [
     {
-        "id":61263,
+        "id":61265,
         "name":"Del Rey",
         "rank":1,
         "affected":3,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/07\/2024 02:30",
         "longitude":-118.442966,
         "latitude":33.989923,
-        "fetched":1733593163185
+        "fetched":1733593518451
     },
     {
-        "id":61262,
+        "id":61264,
         "name":"Brentwood",
         "rank":1,
         "affected":15,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/07\/2024 00:30",
         "longitude":-118.482642,
         "latitude":34.057101,
-        "fetched":1733593163185
+        "fetched":1733593518451
     }
 ]
