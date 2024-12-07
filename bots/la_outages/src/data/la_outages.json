@@ -1,17 +1,28 @@
 [
     {
-        "id":61125,
-        "name":"Wilmington",
+        "id":61133,
+        "name":"Pacific Palisades",
         "rank":1,
-        "affected":34,
+        "affected":355,
         "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.2436241662,
-        "latitude":33.7917418271,
-        "fetched":1733535095559
+        "est_fixed":"12\/06\/2024 20:00",
+        "longitude":-118.5472102375,
+        "latitude":34.0473978383,
+        "fetched":1733537409078
     },
     {
-        "id":61127,
+        "id":61134,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":1809,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 21:30",
+        "longitude":-118.3001771753,
+        "latitude":33.7878708236,
+        "fetched":1733537409078
+    },
+    {
+        "id":61135,
         "name":"Harbor City",
         "rank":2,
         "affected":1175,
@@ -19,17 +30,6 @@
         "est_fixed":null,
         "longitude":-118.3083171785,
         "latitude":33.8097608255,
-        "fetched":1733535095559
-    },
-    {
-        "id":61126,
-        "name":"Harbor City",
-        "rank":1,
-        "affected":1809,
-        "status":"En Route",
-        "est_fixed":"12\/06\/2024 21:30",
-        "longitude":-118.3001771753,
-        "latitude":33.7878708236,
-        "fetched":1733535095559
+        "fetched":1733537409078
     }
 ]
