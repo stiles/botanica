@@ -1,6 +1,6 @@
 [
     {
-        "id":61228,
+        "id":61229,
         "name":"Del Rey",
         "rank":1,
         "affected":3,
@@ -8,6 +8,6 @@
         "est_fixed":"12\/07\/2024 02:30",
         "longitude":-118.442966,
         "latitude":33.989923,
-        "fetched":1733570773722
+        "fetched":1733571143620
     }
 ]
