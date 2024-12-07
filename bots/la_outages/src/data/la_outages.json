@@ -1,6 +1,6 @@
 [
     {
-        "id":61104,
+        "id":61106,
         "name":"Wilmington",
         "rank":1,
         "affected":34,
@@ -8,17 +8,39 @@
         "est_fixed":null,
         "longitude":-118.243612,
         "latitude":33.791737,
-        "fetched":1733529267872
+        "fetched":1733529607231
     },
     {
-        "id":61105,
+        "id":61109,
         "name":"Harbor City",
-        "rank":1,
-        "affected":736,
+        "rank":2,
+        "affected":754,
         "status":"Crews Working",
         "est_fixed":null,
         "longitude":-118.308305,
         "latitude":33.809756,
-        "fetched":1733529267872
+        "fetched":1733529607231
+    },
+    {
+        "id":61107,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":64,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 20:00",
+        "longitude":-118.286112,
+        "latitude":33.79292,
+        "fetched":1733529607231
+    },
+    {
+        "id":61108,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":1761,
+        "status":"Reported Outage",
+        "est_fixed":"12\/06\/2024 21:30",
+        "longitude":-118.300165,
+        "latitude":33.787866,
+        "fetched":1733529607231
     }
 ]
