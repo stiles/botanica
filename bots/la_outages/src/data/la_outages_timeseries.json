@@ -64964,5 +64964,38 @@
         "longitude":-118.5394212364,
         "latitude":34.0494198389,
         "fetched":"2024-12-06 19:22:31.953995-08:00"
+    },
+    {
+        "id":61151,
+        "name":"Pacific Palisades",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":"12\/07\/2024 00:00",
+        "longitude":-118.539409,
+        "latitude":34.049415,
+        "fetched":"2024-12-06 19:37:04.916013-08:00"
+    },
+    {
+        "id":61152,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":1809,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 21:30",
+        "longitude":-118.300165,
+        "latitude":33.787866,
+        "fetched":"2024-12-06 19:37:04.916013-08:00"
+    },
+    {
+        "id":61153,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":1206,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.308305,
+        "latitude":33.809756,
+        "fetched":"2024-12-06 19:37:04.916013-08:00"
     }
 ]
