@@ -1,6 +1,6 @@
 [
     {
-        "id":61151,
+        "id":61154,
         "name":"Pacific Palisades",
         "rank":1,
         "affected":10,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/07\/2024 00:00",
         "longitude":-118.539409,
         "latitude":34.049415,
-        "fetched":1733542624916
+        "fetched":1733543276968
     },
     {
-        "id":61152,
+        "id":61156,
         "name":"Harbor City",
         "rank":1,
         "affected":1809,
@@ -19,10 +19,10 @@
         "est_fixed":"12\/06\/2024 21:30",
         "longitude":-118.300165,
         "latitude":33.787866,
-        "fetched":1733542624916
+        "fetched":1733543276968
     },
     {
-        "id":61153,
+        "id":61157,
         "name":"Harbor City",
         "rank":2,
         "affected":1206,
@@ -30,6 +30,17 @@
         "est_fixed":null,
         "longitude":-118.308305,
         "latitude":33.809756,
-        "fetched":1733542624916
+        "fetched":1733543276968
+    },
+    {
+        "id":61155,
+        "name":"Valley Glen",
+        "rank":1,
+        "affected":874,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.422808,
+        "latitude":34.193986,
+        "fetched":1733543276968
     }
 ]
