@@ -1,46 +1,57 @@
 [
     {
-        "id":61164,
+        "id":61172,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":3207,
+        "status":"Assigned",
+        "est_fixed":"12\/06\/2024 22:30",
+        "longitude":-118.3001771753,
+        "latitude":33.7878998236,
+        "fetched":1733545942562
+    },
+    {
+        "id":61168,
         "name":"Pacific Palisades",
         "rank":1,
         "affected":293,
         "status":"Crews Working",
         "est_fixed":"12\/07\/2024 00:00",
-        "longitude":-118.539409,
-        "latitude":34.049415,
-        "fetched":1733545266879
+        "longitude":-118.5394212364,
+        "latitude":34.0494198389,
+        "fetched":1733545942562
     },
     {
-        "id":61166,
+        "id":61170,
         "name":"Harbor City",
-        "rank":2,
+        "rank":3,
         "affected":1772,
         "status":"Crews Working",
         "est_fixed":"12\/06\/2024 21:30",
-        "longitude":-118.300165,
-        "latitude":33.787866,
-        "fetched":1733545266879
+        "longitude":-118.3001771753,
+        "latitude":33.7878708236,
+        "fetched":1733545942562
     },
     {
-        "id":61167,
+        "id":61171,
         "name":"Harbor City",
         "rank":1,
-        "affected":4443,
+        "affected":3943,
         "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.300166,
-        "latitude":33.78788,
-        "fetched":1733545266879
+        "est_fixed":"12\/06\/2024 23:30",
+        "longitude":-118.3083171785,
+        "latitude":33.8097608255,
+        "fetched":1733545942562
     },
     {
-        "id":61165,
+        "id":61169,
         "name":"Valley Glen",
         "rank":1,
         "affected":874,
         "status":"En Route",
         "est_fixed":null,
-        "longitude":-118.422808,
-        "latitude":34.193986,
-        "fetched":1733545266879
+        "longitude":-118.4228202288,
+        "latitude":34.1939908614,
+        "fetched":1733545942562
     }
 ]
