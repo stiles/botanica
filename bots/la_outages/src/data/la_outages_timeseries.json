@@ -65085,5 +65085,71 @@
         "longitude":-118.422808,
         "latitude":34.193986,
         "fetched":"2024-12-06 19:55:02.848647-08:00"
+    },
+    {
+        "id":61158,
+        "name":"Pacific Palisades",
+        "rank":1,
+        "affected":293,
+        "status":"Crews Working",
+        "est_fixed":"12\/07\/2024 00:00",
+        "longitude":-118.539409,
+        "latitude":34.049415,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
+    },
+    {
+        "id":61160,
+        "name":"Harbor City",
+        "rank":2,
+        "affected":1772,
+        "status":"Crews Working",
+        "est_fixed":"12\/06\/2024 21:30",
+        "longitude":-118.300165,
+        "latitude":33.787866,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
+    },
+    {
+        "id":61161,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":2646,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.308305,
+        "latitude":33.809756,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
+    },
+    {
+        "id":61159,
+        "name":"Valley Glen",
+        "rank":1,
+        "affected":874,
+        "status":"En Route",
+        "est_fixed":null,
+        "longitude":-118.422808,
+        "latitude":34.193986,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
+    },
+    {
+        "id":61162,
+        "name":"Harbor City",
+        "rank":4,
+        "affected":176,
+        "status":"Reported Outage",
+        "est_fixed":"12\/07\/2024 00:00",
+        "longitude":-118.30804,
+        "latitude":33.785168,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
+    },
+    {
+        "id":61163,
+        "name":"Harbor City",
+        "rank":3,
+        "affected":441,
+        "status":"Reported Outage",
+        "est_fixed":"12\/07\/2024 00:00",
+        "longitude":-118.30273,
+        "latitude":33.788332,
+        "fetched":"2024-12-06 20:01:07.576092-08:00"
     }
 ]
