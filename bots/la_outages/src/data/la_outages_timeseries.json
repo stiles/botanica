@@ -66900,5 +66900,27 @@
         "longitude":-118.4429782155,
         "latitude":33.9899278379,
         "fetched":"2024-12-07 07:36:26.387219-08:00"
+    },
+    {
+        "id":61248,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":15,
+        "status":"Assigned",
+        "est_fixed":"12\/07\/2024 00:30",
+        "longitude":-118.4826542276,
+        "latitude":34.057105843,
+        "fetched":"2024-12-07 07:42:02.531773-08:00"
+    },
+    {
+        "id":61249,
+        "name":"Del Rey",
+        "rank":1,
+        "affected":3,
+        "status":"Assigned",
+        "est_fixed":"12\/07\/2024 02:30",
+        "longitude":-118.4429782155,
+        "latitude":33.9899278379,
+        "fetched":"2024-12-07 07:42:02.531773-08:00"
     }
 ]
