@@ -66218,5 +66218,27 @@
         "longitude":-118.4429782155,
         "latitude":33.9899278379,
         "fetched":"2024-12-07 00:33:04.784213-08:00"
+    },
+    {
+        "id":61216,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":3979,
+        "status":"Crews Working",
+        "est_fixed":"12\/07\/2024 03:30",
+        "longitude":-118.3083171785,
+        "latitude":33.8097608255,
+        "fetched":"2024-12-07 00:48:24.488764-08:00"
+    },
+    {
+        "id":61215,
+        "name":"Del Rey",
+        "rank":1,
+        "affected":3,
+        "status":"Reported Outage",
+        "est_fixed":"12\/07\/2024 02:30",
+        "longitude":-118.4429782155,
+        "latitude":33.9899278379,
+        "fetched":"2024-12-07 00:48:24.488764-08:00"
     }
 ]
