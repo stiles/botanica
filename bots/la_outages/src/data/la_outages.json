@@ -1,24 +1,3 @@
 [
-    {
-        "id":61313,
-        "name":"Koreatown",
-        "rank":1,
-        "affected":50,
-        "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.2977791964,
-        "latitude":34.0536538531,
-        "fetched":1733630950885
-    },
-    {
-        "id":61314,
-        "name":"Echo Park",
-        "rank":1,
-        "affected":64,
-        "status":"Crews Working",
-        "est_fixed":null,
-        "longitude":-118.263072192,
-        "latitude":34.071321857,
-        "fetched":1733630950885
-    }
+
 ]
