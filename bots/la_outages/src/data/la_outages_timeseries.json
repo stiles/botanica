@@ -67934,5 +67934,27 @@
         "longitude":-118.263072192,
         "latitude":34.071321857,
         "fetched":"2024-12-07 19:59:25.873221-08:00"
+    },
+    {
+        "id":61313,
+        "name":"Koreatown",
+        "rank":1,
+        "affected":50,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.2977791964,
+        "latitude":34.0536538531,
+        "fetched":"2024-12-07 20:09:10.885019-08:00"
+    },
+    {
+        "id":61314,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":64,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.263072192,
+        "latitude":34.071321857,
+        "fetched":"2024-12-07 20:09:10.885019-08:00"
     }
 ]
