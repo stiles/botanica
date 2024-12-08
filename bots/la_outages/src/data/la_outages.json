@@ -1,13 +1,3 @@
 [
-    {
-        "id":61318,
-        "name":"Westchester",
-        "rank":1,
-        "affected":37,
-        "status":"Assigned",
-        "est_fixed":"12\/08\/2024 01:00",
-        "longitude":-118.379422,
-        "latitude":33.968121,
-        "fetched":1733638198433
-    }
+
 ]
