@@ -67769,5 +67769,38 @@
         "longitude":-118.263072192,
         "latitude":34.071321857,
         "fetched":"2024-12-07 17:24:02.219017-08:00"
+    },
+    {
+        "id":61294,
+        "name":"Koreatown",
+        "rank":1,
+        "affected":50,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.2977791964,
+        "latitude":34.0536538531,
+        "fetched":"2024-12-07 18:08:30.815051-08:00"
+    },
+    {
+        "id":61296,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":64,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.263072192,
+        "latitude":34.071321857,
+        "fetched":"2024-12-07 18:08:30.815051-08:00"
+    },
+    {
+        "id":61295,
+        "name":"Atwater Village",
+        "rank":1,
+        "affected":80,
+        "status":"Crews Working",
+        "est_fixed":"12\/07\/2024 21:30",
+        "longitude":-118.2666281966,
+        "latitude":34.1199098622,
+        "fetched":"2024-12-07 18:08:30.815051-08:00"
     }
 ]
