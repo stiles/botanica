@@ -1,6 +1,17 @@
 [
     {
-        "id":61326,
+        "id":61328,
+        "name":"Westwood",
+        "rank":1,
+        "affected":38,
+        "status":"Assigned",
+        "est_fixed":"12\/08\/2024 19:30",
+        "longitude":-118.427425,
+        "latitude":34.056391,
+        "fetched":1733702367833
+    },
+    {
+        "id":61327,
         "name":"Brentwood",
         "rank":1,
         "affected":1073,
@@ -8,6 +19,6 @@
         "est_fixed":"12\/08\/2024 18:00",
         "longitude":-118.461468,
         "latitude":34.06624,
-        "fetched":1733702018712
+        "fetched":1733702367833
     }
 ]
