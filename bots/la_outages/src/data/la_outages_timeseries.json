@@ -67989,5 +67989,16 @@
         "longitude":-118.3794342031,
         "latitude":33.9681258391,
         "fetched":"2024-12-07 21:36:01.006018-08:00"
+    },
+    {
+        "id":61317,
+        "name":"Westchester",
+        "rank":1,
+        "affected":37,
+        "status":"Assigned",
+        "est_fixed":"12\/08\/2024 01:00",
+        "longitude":-118.379422,
+        "latitude":33.968121,
+        "fetched":"2024-12-07 21:42:58.977325-08:00"
     }
 ]
