@@ -1,6 +1,6 @@
 [
     {
-        "id":61309,
+        "id":61311,
         "name":"Koreatown",
         "rank":1,
         "affected":50,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.297767,
         "latitude":34.053649,
-        "fetched":1733628549731
+        "fetched":1733629410273
     },
     {
-        "id":61310,
+        "id":61312,
         "name":"Echo Park",
         "rank":1,
         "affected":64,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.26306,
         "latitude":34.071317,
-        "fetched":1733628549731
+        "fetched":1733629410273
     }
 ]
