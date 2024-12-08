@@ -68044,5 +68044,16 @@
         "longitude":-118.379422,
         "latitude":33.968121,
         "fetched":"2024-12-07 22:09:58.433464-08:00"
+    },
+    {
+        "id":61319,
+        "name":"Cheviot Hills",
+        "rank":1,
+        "affected":8,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.4146342147,
+        "latitude":34.0389468449,
+        "fetched":"2024-12-08 12:59:28.569378-08:00"
     }
 ]
