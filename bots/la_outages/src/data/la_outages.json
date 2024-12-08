@@ -1,13 +1,13 @@
 [
     {
-        "id":61324,
+        "id":61325,
         "name":"Brentwood",
         "rank":1,
         "affected":1073,
         "status":"Crews Working",
         "est_fixed":"12\/08\/2024 18:00",
-        "longitude":-118.461468,
-        "latitude":34.06624,
-        "fetched":1733700089271
+        "longitude":-118.4614802248,
+        "latitude":34.0662448452,
+        "fetched":1733700554614
     }
 ]
