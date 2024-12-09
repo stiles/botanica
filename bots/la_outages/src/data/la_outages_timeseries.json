@@ -70915,5 +70915,27 @@
         "longitude":-118.26532,
         "latitude":33.770577,
         "fetched":"2024-12-09 14:24:34.726671-08:00"
+    },
+    {
+        "id":61502,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 20:00",
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":"2024-12-09 14:34:30.562658-08:00"
+    },
+    {
+        "id":61501,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":199,
+        "status":"Crews Working",
+        "est_fixed":"12\/09\/2024 21:00",
+        "longitude":-118.579061,
+        "latitude":34.268949,
+        "fetched":"2024-12-09 14:34:30.562658-08:00"
     }
 ]
