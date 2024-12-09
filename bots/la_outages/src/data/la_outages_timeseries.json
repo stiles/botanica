@@ -71135,5 +71135,38 @@
         "longitude":-118.2653301681,
         "latitude":33.7705288236,
         "fetched":"2024-12-09 15:35:07.337024-08:00"
+    },
+    {
+        "id":61514,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":53,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 19:30",
+        "longitude":-118.297895,
+        "latitude":34.104479,
+        "fetched":"2024-12-09 15:42:03.937640-08:00"
+    },
+    {
+        "id":61515,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":199,
+        "status":"Crews Working",
+        "est_fixed":"12\/09\/2024 21:00",
+        "longitude":-118.579061,
+        "latitude":34.268949,
+        "fetched":"2024-12-09 15:42:03.937640-08:00"
+    },
+    {
+        "id":61516,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":"2024-12-09 15:42:03.937640-08:00"
     }
 ]
