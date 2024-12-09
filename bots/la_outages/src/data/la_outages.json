@@ -1,35 +1,24 @@
 [
     {
-        "id":61333,
-        "name":"Westwood",
-        "rank":1,
-        "affected":38,
-        "status":"Assigned",
-        "est_fixed":"12\/08\/2024 19:30",
-        "longitude":-118.4274372183,
-        "latitude":34.0563958461,
-        "fetched":1733704478331
-    },
-    {
-        "id":61331,
+        "id":61336,
         "name":"Brentwood",
         "rank":1,
         "affected":1073,
         "status":"Crews Working",
         "est_fixed":"12\/08\/2024 18:00",
-        "longitude":-118.4614802248,
-        "latitude":34.0662448452,
-        "fetched":1733704478331
+        "longitude":-118.461468,
+        "latitude":34.06624,
+        "fetched":1733705965597
     },
     {
-        "id":61332,
+        "id":61337,
         "name":"Brentwood",
         "rank":2,
         "affected":202,
         "status":"Crews Working",
         "est_fixed":"12\/08\/2024 16:00",
-        "longitude":-118.4941062298,
-        "latitude":34.0606158427,
-        "fetched":1733704478331
+        "longitude":-118.494094,
+        "latitude":34.060611,
+        "fetched":1733705965597
     }
 ]
