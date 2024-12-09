@@ -1,3 +1,24 @@
 [
-
+    {
+        "id":61477,
+        "name":"Wilmington",
+        "rank":2,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 20:00",
+        "longitude":-118.26532,
+        "latitude":33.770577,
+        "fetched":1733774388182
+    },
+    {
+        "id":61478,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 20:00",
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":1733774388182
+    }
 ]
