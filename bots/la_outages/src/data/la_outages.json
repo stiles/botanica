@@ -1,6 +1,6 @@
 [
     {
-        "id":61363,
+        "id":61366,
         "name":"Echo Park",
         "rank":1,
         "affected":49,
@@ -8,21 +8,10 @@
         "est_fixed":"12\/08\/2024 23:30",
         "longitude":-118.246289,
         "latitude":34.069186,
-        "fetched":1733718083321
+        "fetched":1733718804426
     },
     {
-        "id":61360,
-        "name":"Canoga Park",
-        "rank":1,
-        "affected":24,
-        "status":"Crews Working",
-        "est_fixed":"12\/08\/2024 23:30",
-        "longitude":-118.593635,
-        "latitude":34.205468,
-        "fetched":1733718083321
-    },
-    {
-        "id":61361,
+        "id":61364,
         "name":"Brentwood",
         "rank":1,
         "affected":2,
@@ -30,10 +19,10 @@
         "est_fixed":"12\/08\/2024 21:00",
         "longitude":-118.492888,
         "latitude":34.062524,
-        "fetched":1733718083321
+        "fetched":1733718804426
     },
     {
-        "id":61362,
+        "id":61365,
         "name":"Pacific Palisades",
         "rank":1,
         "affected":20,
@@ -41,6 +30,6 @@
         "est_fixed":"12\/08\/2024 22:30",
         "longitude":-118.520451,
         "latitude":34.046342,
-        "fetched":1733718083321
+        "fetched":1733718804426
     }
 ]
