@@ -69969,5 +69969,27 @@
         "longitude":-118.478451,
         "latitude":34.279884,
         "fetched":"2024-12-09 07:46:14.575458-08:00"
+    },
+    {
+        "id":61433,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":"12\/09\/2024 19:00",
+        "longitude":-118.492888,
+        "latitude":34.062524,
+        "fetched":"2024-12-09 07:52:15.191791-08:00"
+    },
+    {
+        "id":61434,
+        "name":"Mission Hills",
+        "rank":1,
+        "affected":101,
+        "status":"En Route",
+        "est_fixed":"12\/09\/2024 14:30",
+        "longitude":-118.478451,
+        "latitude":34.279884,
+        "fetched":"2024-12-09 07:52:15.191791-08:00"
     }
 ]
