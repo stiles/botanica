@@ -1,6 +1,6 @@
 [
     {
-        "id":61473,
+        "id":61475,
         "name":"Mission Hills",
         "rank":1,
         "affected":101,
@@ -8,6 +8,6 @@
         "est_fixed":"12\/09\/2024 14:30",
         "longitude":-118.4784632453,
         "latitude":34.2798888676,
-        "fetched":1733772262019
+        "fetched":1733772600847
     }
 ]
