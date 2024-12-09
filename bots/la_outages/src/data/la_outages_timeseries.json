@@ -70563,5 +70563,27 @@
         "longitude":-118.265318,
         "latitude":33.770524,
         "fetched":"2024-12-09 12:30:13.184052-08:00"
+    },
+    {
+        "id":61483,
+        "name":"Wilmington",
+        "rank":2,
+        "affected":0,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 20:00",
+        "longitude":-118.26532,
+        "latitude":33.770577,
+        "fetched":"2024-12-09 12:38:28.913964-08:00"
+    },
+    {
+        "id":61484,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 20:00",
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":"2024-12-09 12:38:28.913964-08:00"
     }
 ]
