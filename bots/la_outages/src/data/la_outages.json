@@ -1,24 +1,35 @@
 [
     {
-        "id":61443,
+        "id":61446,
         "name":"Brentwood",
         "rank":1,
         "affected":2,
         "status":"Crews Working",
         "est_fixed":"12\/09\/2024 19:00",
-        "longitude":-118.4929002297,
-        "latitude":34.062528843,
-        "fetched":1733763161127
+        "longitude":-118.492888,
+        "latitude":34.062524,
+        "fetched":1733763515949
     },
     {
-        "id":61445,
+        "id":61449,
         "name":"Mission Hills",
         "rank":1,
         "affected":101,
         "status":"En Route",
         "est_fixed":"12\/09\/2024 14:30",
-        "longitude":-118.4784632453,
-        "latitude":34.2798888676,
-        "fetched":1733763161127
+        "longitude":-118.478451,
+        "latitude":34.279884,
+        "fetched":1733763515949
+    },
+    {
+        "id":61447,
+        "name":"Chatsworth",
+        "rank":1,
+        "affected":199,
+        "status":"Reported Outage",
+        "est_fixed":"12\/09\/2024 13:00",
+        "longitude":-118.579061,
+        "latitude":34.268949,
+        "fetched":1733763515949
     }
 ]
