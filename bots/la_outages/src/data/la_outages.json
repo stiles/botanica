@@ -1,6 +1,17 @@
 [
     {
-        "id":61509,
+        "id":61511,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":53,
+        "status":"Assigned",
+        "est_fixed":"12\/09\/2024 19:30",
+        "longitude":-118.2979072006,
+        "latitude":34.1044838587,
+        "fetched":1733786874484
+    },
+    {
+        "id":61512,
         "name":"Chatsworth",
         "rank":1,
         "affected":199,
@@ -8,10 +19,10 @@
         "est_fixed":"12\/09\/2024 21:00",
         "longitude":-118.5790732611,
         "latitude":34.2689538606,
-        "fetched":1733786314725
+        "fetched":1733786874484
     },
     {
-        "id":61510,
+        "id":61513,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -19,6 +30,6 @@
         "est_fixed":null,
         "longitude":-118.2653301681,
         "latitude":33.7705288236,
-        "fetched":1733786314725
+        "fetched":1733786874484
     }
 ]
