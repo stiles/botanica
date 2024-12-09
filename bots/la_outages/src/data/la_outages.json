@@ -1,6 +1,6 @@
 [
     {
-        "id":61502,
+        "id":61505,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/09\/2024 20:00",
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733783670562
+        "fetched":1733784150643
     },
     {
-        "id":61501,
+        "id":61504,
         "name":"Chatsworth",
         "rank":1,
         "affected":199,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/09\/2024 21:00",
         "longitude":-118.579061,
         "latitude":34.268949,
-        "fetched":1733783670562
+        "fetched":1733784150643
     }
 ]
