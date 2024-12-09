@@ -68726,5 +68726,38 @@
         "longitude":-118.520463233,
         "latitude":34.0463468397,
         "fetched":"2024-12-08 20:56:03.990810-08:00"
+    },
+    {
+        "id":61370,
+        "name":"Brentwood",
+        "rank":1,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":"12\/08\/2024 21:00",
+        "longitude":-118.492888,
+        "latitude":34.062524,
+        "fetched":"2024-12-08 21:03:25.012624-08:00"
+    },
+    {
+        "id":61371,
+        "name":"Pacific Palisades",
+        "rank":1,
+        "affected":20,
+        "status":"Crews Working",
+        "est_fixed":"12\/08\/2024 22:30",
+        "longitude":-118.520451,
+        "latitude":34.046342,
+        "fetched":"2024-12-08 21:03:25.012624-08:00"
+    },
+    {
+        "id":61372,
+        "name":"Echo Park",
+        "rank":1,
+        "affected":49,
+        "status":"Assigned",
+        "est_fixed":"12\/08\/2024 23:30",
+        "longitude":-118.246289,
+        "latitude":34.069186,
+        "fetched":"2024-12-08 21:03:25.012624-08:00"
     }
 ]
