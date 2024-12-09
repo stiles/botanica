@@ -1,6 +1,6 @@
 [
     {
-        "id":61477,
+        "id":61480,
         "name":"Wilmington",
         "rank":2,
         "affected":0,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/09\/2024 20:00",
         "longitude":-118.26532,
         "latitude":33.770577,
-        "fetched":1733774929485
+        "fetched":1733775572751
     },
     {
-        "id":61478,
+        "id":61481,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/09\/2024 20:00",
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733774929485
+        "fetched":1733775572751
     }
 ]
