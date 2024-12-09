@@ -1,35 +1,35 @@
 [
     {
-        "id":61514,
-        "name":"Los Feliz",
-        "rank":1,
-        "affected":53,
-        "status":"Assigned",
-        "est_fixed":"12\/09\/2024 19:30",
-        "longitude":-118.297895,
-        "latitude":34.104479,
-        "fetched":1733788409458
-    },
-    {
-        "id":61515,
+        "id":61518,
         "name":"Chatsworth",
         "rank":1,
         "affected":199,
         "status":"Crews Working",
         "est_fixed":"12\/09\/2024 21:00",
-        "longitude":-118.579061,
-        "latitude":34.268949,
-        "fetched":1733788409458
+        "longitude":-118.5790732611,
+        "latitude":34.2689538606,
+        "fetched":1733788768248
     },
     {
-        "id":61516,
+        "id":61517,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":53,
+        "status":"En Route",
+        "est_fixed":"12\/09\/2024 19:30",
+        "longitude":-118.2979072006,
+        "latitude":34.1044838587,
+        "fetched":1733788768248
+    },
+    {
+        "id":61519,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
         "status":"Reported Outage",
         "est_fixed":null,
-        "longitude":-118.265318,
-        "latitude":33.770524,
-        "fetched":1733788409458
+        "longitude":-118.2653301681,
+        "latitude":33.7705288236,
+        "fetched":1733788768248
     }
 ]
