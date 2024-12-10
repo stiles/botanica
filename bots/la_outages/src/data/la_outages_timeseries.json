@@ -72554,5 +72554,16 @@
         "longitude":-118.30804,
         "latitude":33.785168,
         "fetched":"2024-12-10 15:38:31.681630-08:00"
+    },
+    {
+        "id":61627,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":176,
+        "status":"Crews Working",
+        "est_fixed":"12\/10\/2024 16:30",
+        "longitude":-118.3080521764,
+        "latitude":33.7851728228,
+        "fetched":"2024-12-10 15:44:26.561472-08:00"
     }
 ]
