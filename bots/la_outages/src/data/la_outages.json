@@ -1,6 +1,6 @@
 [
     {
-        "id":61585,
+        "id":61587,
         "name":"Van Nuys",
         "rank":1,
         "affected":8,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/10\/2024 01:30",
         "longitude":-118.443833,
         "latitude":34.1933,
-        "fetched":1733818212696
+        "fetched":1733818913906
     },
     {
-        "id":61586,
+        "id":61588,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733818212696
+        "fetched":1733818913906
     }
 ]
