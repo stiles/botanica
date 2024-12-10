@@ -71487,5 +71487,27 @@
         "longitude":-118.265318,
         "latitude":33.770524,
         "fetched":"2024-12-09 19:41:57.242758-08:00"
+    },
+    {
+        "id":61554,
+        "name":"Los Feliz",
+        "rank":1,
+        "affected":68,
+        "status":"Crews Working",
+        "est_fixed":"12\/09\/2024 19:30",
+        "longitude":-118.297895,
+        "latitude":34.104479,
+        "fetched":"2024-12-09 19:52:36.268931-08:00"
+    },
+    {
+        "id":61555,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":"2024-12-09 19:52:36.268931-08:00"
     }
 ]

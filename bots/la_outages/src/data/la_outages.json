@@ -8,7 +8,7 @@
         "est_fixed":"12\/09\/2024 19:30",
         "longitude":-118.297895,
         "latitude":34.104479,
-        "fetched":1733802117242
+        "fetched":1733802756268
     },
     {
         "id":61555,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733802117242
+        "fetched":1733802756268
     }
 ]
