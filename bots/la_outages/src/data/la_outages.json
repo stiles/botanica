@@ -1,6 +1,6 @@
 [
     {
-        "id":61529,
+        "id":61535,
         "name":"Los Feliz",
         "rank":1,
         "affected":53,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/09\/2024 19:30",
         "longitude":-118.2979072006,
         "latitude":34.1044838587,
-        "fetched":1733792287969
+        "fetched":1733794474205
     },
     {
-        "id":61530,
+        "id":61537,
         "name":"Chatsworth",
         "rank":1,
         "affected":199,
@@ -19,10 +19,21 @@
         "est_fixed":"12\/09\/2024 21:00",
         "longitude":-118.5790732611,
         "latitude":34.2689538606,
-        "fetched":1733792287969
+        "fetched":1733794474205
     },
     {
-        "id":61531,
+        "id":61536,
+        "name":"Sun Valley",
+        "rank":1,
+        "affected":21,
+        "status":"En Route",
+        "est_fixed":"12\/09\/2024 21:00",
+        "longitude":-118.371032223,
+        "latitude":34.2282518681,
+        "fetched":1733794474205
+    },
+    {
+        "id":61538,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -30,6 +41,6 @@
         "est_fixed":null,
         "longitude":-118.2653301681,
         "latitude":33.7705288236,
-        "fetched":1733792287969
+        "fetched":1733794474205
     }
 ]
