@@ -72136,5 +72136,16 @@
         "longitude":-118.265318,
         "latitude":33.770524,
         "fetched":"2024-12-10 00:21:53.906260-08:00"
+    },
+    {
+        "id":61589,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":8,
+        "status":"Crews Working",
+        "est_fixed":"12\/10\/2024 01:30",
+        "longitude":-118.443833,
+        "latitude":34.1933,
+        "fetched":"2024-12-10 00:34:42.569704-08:00"
     }
 ]
