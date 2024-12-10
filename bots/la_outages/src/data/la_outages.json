@@ -1,6 +1,6 @@
 [
     {
-        "id":61552,
+        "id":61554,
         "name":"Los Feliz",
         "rank":1,
         "affected":68,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/09\/2024 19:30",
         "longitude":-118.297895,
         "latitude":34.104479,
-        "fetched":1733801237636
+        "fetched":1733802117242
     },
     {
-        "id":61553,
+        "id":61555,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
@@ -19,6 +19,6 @@
         "est_fixed":null,
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733801237636
+        "fetched":1733802117242
     }
 ]
