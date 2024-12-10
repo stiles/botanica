@@ -1,13 +1,13 @@
 [
     {
-        "id":61624,
+        "id":61625,
         "name":"Harbor City",
         "rank":1,
         "affected":176,
         "status":"En Route",
         "est_fixed":"12\/10\/2024 16:30",
-        "longitude":-118.3080521764,
-        "latitude":33.7851728228,
-        "fetched":1733871943370
+        "longitude":-118.30804,
+        "latitude":33.785168,
+        "fetched":1733872501849
     }
 ]
