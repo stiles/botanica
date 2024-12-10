@@ -72444,5 +72444,16 @@
         "longitude":-118.36123,
         "latitude":34.146726,
         "fetched":"2024-12-10 12:37:59.796107-08:00"
+    },
+    {
+        "id":61622,
+        "name":"Harbor City",
+        "rank":1,
+        "affected":176,
+        "status":"Reported Outage",
+        "est_fixed":"12\/10\/2024 16:30",
+        "longitude":-118.30804,
+        "latitude":33.785168,
+        "fetched":"2024-12-10 14:31:34.781721-08:00"
     }
 ]
