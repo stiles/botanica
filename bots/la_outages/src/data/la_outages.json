@@ -1,13 +1,13 @@
 [
     {
-        "id":61564,
+        "id":61565,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
         "status":"Reported Outage",
         "est_fixed":null,
-        "longitude":-118.2653301681,
-        "latitude":33.7705288236,
-        "fetched":1733807313370
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":1733807926840
     }
 ]
