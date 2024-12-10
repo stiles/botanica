@@ -1,13 +1,13 @@
 [
     {
-        "id":61609,
+        "id":61612,
         "name":"Toluca Lake",
         "rank":1,
         "affected":211,
         "status":"Crews Working",
         "est_fixed":"12\/10\/2024 13:00",
-        "longitude":-118.3612422146,
-        "latitude":34.1467308597,
-        "fetched":1733861325027
+        "longitude":-118.36123,
+        "latitude":34.146726,
+        "fetched":1733861950725
     }
 ]
