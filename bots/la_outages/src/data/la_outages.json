@@ -1,13 +1,24 @@
 [
     {
-        "id":61566,
+        "id":61567,
+        "name":"Van Nuys",
+        "rank":1,
+        "affected":8,
+        "status":"Assigned",
+        "est_fixed":"12\/10\/2024 01:30",
+        "longitude":-118.4438452323,
+        "latitude":34.1933048601,
+        "fetched":1733809508471
+    },
+    {
+        "id":61568,
         "name":"Wilmington",
         "rank":1,
         "affected":1,
         "status":"Reported Outage",
         "est_fixed":null,
-        "longitude":-118.265318,
-        "latitude":33.770524,
-        "fetched":1733809113214
+        "longitude":-118.2653301681,
+        "latitude":33.7705288236,
+        "fetched":1733809508471
     }
 ]
