@@ -71707,5 +71707,16 @@
         "longitude":-118.265318,
         "latitude":33.770524,
         "fetched":"2024-12-09 21:29:59.024608-08:00"
+    },
+    {
+        "id":61566,
+        "name":"Wilmington",
+        "rank":1,
+        "affected":1,
+        "status":"Reported Outage",
+        "est_fixed":null,
+        "longitude":-118.265318,
+        "latitude":33.770524,
+        "fetched":"2024-12-09 21:38:33.214099-08:00"
     }
 ]
