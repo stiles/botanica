@@ -8,7 +8,7 @@
         "name":"Van Nuys",
         "longitude":-118.443833,
         "latitude":34.1933,
-        "fetched":1733816796598
+        "fetched":1733817155823
     },
     {
         "id":61584,
@@ -19,6 +19,6 @@
         "name":"Wilmington",
         "longitude":-118.265318,
         "latitude":33.770524,
-        "fetched":1733816796598
+        "fetched":1733817155823
     }
 ]
