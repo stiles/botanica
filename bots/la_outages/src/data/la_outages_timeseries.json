@@ -72433,5 +72433,16 @@
         "longitude":-118.36123,
         "latitude":34.146726,
         "fetched":"2024-12-10 12:29:41.885516-08:00"
+    },
+    {
+        "id":61615,
+        "name":"Toluca Lake",
+        "rank":1,
+        "affected":211,
+        "status":"Crews Working",
+        "est_fixed":"12\/10\/2024 13:00",
+        "longitude":-118.36123,
+        "latitude":34.146726,
+        "fetched":"2024-12-10 12:37:59.796107-08:00"
     }
 ]
