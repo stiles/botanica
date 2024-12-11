@@ -1,6 +1,17 @@
 [
     {
-        "id":61643,
+        "id":61651,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":46,
+        "status":"Assigned",
+        "est_fixed":"12\/10\/2024 18:30",
+        "longitude":-118.289005,
+        "latitude":33.740524,
+        "fetched":1733883317006
+    },
+    {
+        "id":61650,
         "name":"Harbor City",
         "rank":1,
         "affected":3207,
@@ -8,17 +19,17 @@
         "est_fixed":"12\/10\/2024 18:30",
         "longitude":-118.30804,
         "latitude":33.785168,
-        "fetched":1733881076896
+        "fetched":1733883317006
     },
     {
-        "id":61644,
+        "id":61652,
         "name":"Reseda",
         "rank":1,
-        "affected":29,
+        "affected":32,
         "status":"En Route",
         "est_fixed":"12\/11\/2024 01:00",
         "longitude":-118.544454,
         "latitude":34.179801,
-        "fetched":1733881076896
+        "fetched":1733883317006
     }
 ]
