@@ -72829,5 +72829,16 @@
         "longitude":-118.289005,
         "latitude":33.740524,
         "fetched":"2024-12-10 20:27:31.330183-08:00"
+    },
+    {
+        "id":61664,
+        "name":"San Pedro",
+        "rank":1,
+        "affected":46,
+        "status":"Assigned",
+        "est_fixed":"12\/10\/2024 18:30",
+        "longitude":-118.289005,
+        "latitude":33.740524,
+        "fetched":"2024-12-10 20:38:15.226465-08:00"
     }
 ]
