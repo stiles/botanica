@@ -1,24 +1,13 @@
 [
     {
-        "id":61657,
+        "id":61658,
         "name":"San Pedro",
         "rank":1,
         "affected":46,
         "status":"Assigned",
         "est_fixed":"12\/10\/2024 18:30",
-        "longitude":-118.289005,
-        "latitude":33.740524,
-        "fetched":1733885132445
-    },
-    {
-        "id":61656,
-        "name":"Harbor City",
-        "rank":1,
-        "affected":3207,
-        "status":"Crews Working",
-        "est_fixed":"12\/10\/2024 18:30",
-        "longitude":-118.30804,
-        "latitude":33.785168,
-        "fetched":1733885132445
+        "longitude":-118.2890171697,
+        "latitude":33.7405288189,
+        "fetched":1733886498296
     }
 ]
