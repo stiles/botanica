@@ -75029,5 +75029,16 @@
         "longitude":-118.521977,
         "latitude":34.211648,
         "fetched":"2024-12-12 14:00:53.789129-08:00"
+    },
+    {
+        "id":61792,
+        "name":"Reseda",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.521977,
+        "latitude":34.211648,
+        "fetched":"2024-12-12 14:09:15.461684-08:00"
     }
 ]
