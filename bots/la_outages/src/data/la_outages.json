@@ -1,6 +1,6 @@
 [
     {
-        "id":61778,
+        "id":61780,
         "name":"Reseda",
         "rank":1,
         "affected":10,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/12\/2024 16:00",
         "longitude":-118.5219892468,
         "latitude":34.2116528576,
-        "fetched":1734034646964
+        "fetched":1734035344493
     },
     {
-        "id":61779,
+        "id":61781,
         "name":"Canoga Park",
         "rank":1,
         "affected":1,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/12\/2024 14:00",
         "longitude":-118.593433257,
         "latitude":34.1911458513,
-        "fetched":1734034646964
+        "fetched":1734035344493
     }
 ]
