@@ -1,13 +1,13 @@
 [
     {
-        "id":61709,
+        "id":61710,
         "name":"Canoga Park",
         "rank":1,
         "affected":536,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.5961382581,
-        "latitude":34.199228852,
-        "fetched":1733980106842
+        "longitude":-118.596126,
+        "latitude":34.199224,
+        "fetched":1733980712118
     }
 ]
