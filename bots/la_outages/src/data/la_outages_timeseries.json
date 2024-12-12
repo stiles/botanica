@@ -73830,5 +73830,27 @@
         "longitude":-118.59554,
         "latitude":34.197713,
         "fetched":"2024-12-12 02:19:01.179671-08:00"
+    },
+    {
+        "id":61731,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":2,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.5955522579,
+        "latitude":34.1977178519,
+        "fetched":"2024-12-12 02:31:21.193717-08:00"
+    },
+    {
+        "id":61732,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":11,
+        "status":"Crews Working",
+        "est_fixed":"12\/12\/2024 03:30",
+        "longitude":-118.4516542296,
+        "latitude":34.1446738543,
+        "fetched":"2024-12-12 02:31:21.193717-08:00"
     }
 ]
