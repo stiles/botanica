@@ -1,24 +1,24 @@
 [
     {
-        "id":61737,
+        "id":61739,
         "name":"Canoga Park",
         "rank":1,
         "affected":2,
         "status":"Crews Working",
         "est_fixed":null,
-        "longitude":-118.5955522579,
-        "latitude":34.1977178519,
-        "fetched":1734002784294
+        "longitude":-118.59554,
+        "latitude":34.197713,
+        "fetched":1734003159752
     },
     {
-        "id":61738,
+        "id":61740,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":11,
         "status":"Crews Working",
         "est_fixed":"12\/12\/2024 03:30",
-        "longitude":-118.4516542296,
-        "latitude":34.1446738543,
-        "fetched":1734002784294
+        "longitude":-118.451642,
+        "latitude":34.144669,
+        "fetched":1734003159752
     }
 ]
