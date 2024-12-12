@@ -1,24 +1,24 @@
 [
     {
-        "id":61688,
-        "name":"Canoga Park",
+        "id":61692,
         "rank":1,
         "affected":536,
         "status":"Crews Working",
         "est_fixed":null,
+        "name":"Canoga Park",
         "longitude":-118.596126,
         "latitude":34.199224,
-        "fetched":1733965096913
+        "fetched":1733967272931
     },
     {
-        "id":61689,
-        "name":"Sawtelle",
+        "id":61693,
         "rank":1,
         "affected":2165,
         "status":"Crews Working",
         "est_fixed":"12\/11\/2024 16:00",
+        "name":"Sawtelle",
         "longitude":-118.457841,
         "latitude":34.040886,
-        "fetched":1733965096913
+        "fetched":1733967272931
     }
 ]
