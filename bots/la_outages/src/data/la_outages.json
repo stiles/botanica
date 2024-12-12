@@ -1,6 +1,17 @@
 [
     {
-        "id":61682,
+        "id":61684,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":332,
+        "status":"Assigned",
+        "est_fixed":"12\/11\/2024 20:30",
+        "longitude":-118.595294,
+        "latitude":34.197415,
+        "fetched":1733963632543
+    },
+    {
+        "id":61685,
         "name":"Sawtelle",
         "rank":1,
         "affected":2165,
@@ -8,6 +19,6 @@
         "est_fixed":"12\/11\/2024 16:00",
         "longitude":-118.457841,
         "latitude":34.040886,
-        "fetched":1733961710599
+        "fetched":1733963632543
     }
 ]
