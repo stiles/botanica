@@ -74996,5 +74996,27 @@
         "longitude":-118.593421,
         "latitude":34.191141,
         "fetched":"2024-12-12 13:49:15.827707-08:00"
+    },
+    {
+        "id":61790,
+        "name":"Reseda",
+        "rank":1,
+        "affected":10,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.521977,
+        "latitude":34.211648,
+        "fetched":"2024-12-12 13:54:56.664798-08:00"
+    },
+    {
+        "id":61791,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":1,
+        "status":"Crews Working",
+        "est_fixed":"12\/12\/2024 14:00",
+        "longitude":-118.593421,
+        "latitude":34.191141,
+        "fetched":"2024-12-12 13:54:56.664798-08:00"
     }
 ]
