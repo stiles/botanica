@@ -1,6 +1,6 @@
 [
     {
-        "id":61751,
+        "id":61753,
         "name":"Canoga Park",
         "rank":1,
         "affected":2,
@@ -8,10 +8,10 @@
         "est_fixed":null,
         "longitude":-118.5955522579,
         "latitude":34.1977178519,
-        "fetched":1734008793420
+        "fetched":1734009543025
     },
     {
-        "id":61752,
+        "id":61754,
         "name":"Sherman Oaks",
         "rank":1,
         "affected":11,
@@ -19,6 +19,6 @@
         "est_fixed":"12\/12\/2024 03:30",
         "longitude":-118.4516542296,
         "latitude":34.1446738543,
-        "fetched":1734008793420
+        "fetched":1734009543025
     }
 ]
