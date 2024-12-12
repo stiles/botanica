@@ -74369,5 +74369,16 @@
         "longitude":-118.4516542296,
         "latitude":34.1446738543,
         "fetched":"2024-12-12 06:30:23.303494-08:00"
+    },
+    {
+        "id":61761,
+        "name":"Sherman Oaks",
+        "rank":1,
+        "affected":11,
+        "status":"Crews Working",
+        "est_fixed":"12\/12\/2024 03:30",
+        "longitude":-118.4516542296,
+        "latitude":34.1446738543,
+        "fetched":"2024-12-12 06:39:35.638180-08:00"
     }
 ]
