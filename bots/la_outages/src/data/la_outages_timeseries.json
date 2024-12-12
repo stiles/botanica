@@ -73324,5 +73324,16 @@
         "longitude":-118.5961382581,
         "latitude":34.199228852,
         "fetched":"2024-12-11 19:39:32.522580-08:00"
+    },
+    {
+        "id":61704,
+        "name":"Canoga Park",
+        "rank":1,
+        "affected":536,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.5961382581,
+        "latitude":34.199228852,
+        "fetched":"2024-12-11 19:50:37.706879-08:00"
     }
 ]
