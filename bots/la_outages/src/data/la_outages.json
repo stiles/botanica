@@ -1,17 +1,17 @@
 [
     {
-        "id":61829,
+        "id":61832,
         "name":"Bel-Air",
-        "rank":1,
+        "rank":2,
         "affected":78,
         "status":"Assigned",
         "est_fixed":"12\/13\/2024 14:30",
         "longitude":-118.4595582267,
         "latitude":34.0938888483,
-        "fetched":1734127612477
+        "fetched":1734128178134
     },
     {
-        "id":61830,
+        "id":61833,
         "name":"Downtown",
         "rank":1,
         "affected":3,
@@ -19,6 +19,17 @@
         "est_fixed":"12\/13\/2024 18:00",
         "longitude":-118.2339601831,
         "latitude":34.0225328533,
-        "fetched":1734127612477
+        "fetched":1734128178134
+    },
+    {
+        "id":61831,
+        "name":"Bel-Air",
+        "rank":1,
+        "affected":335,
+        "status":"Reported Outage",
+        "est_fixed":"12\/13\/2024 18:30",
+        "longitude":-118.433523221,
+        "latitude":34.077455848,
+        "fetched":1734128178134
     }
 ]
