@@ -76118,5 +76118,27 @@
         "longitude":-118.4254142189,
         "latitude":34.0683318475,
         "fetched":"2024-12-13 15:42:29.982314-08:00"
+    },
+    {
+        "id":61845,
+        "name":"Downtown",
+        "rank":1,
+        "affected":3,
+        "status":"Assigned",
+        "est_fixed":null,
+        "longitude":-118.2339601831,
+        "latitude":34.0225328533,
+        "fetched":"2024-12-13 15:48:22.583906-08:00"
+    },
+    {
+        "id":61844,
+        "name":"Westwood",
+        "rank":1,
+        "affected":347,
+        "status":"En Route",
+        "est_fixed":"12\/13\/2024 20:30",
+        "longitude":-118.4254142189,
+        "latitude":34.0683318475,
+        "fetched":"2024-12-13 15:48:22.583906-08:00"
     }
 ]
