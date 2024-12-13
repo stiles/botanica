@@ -75095,5 +75095,27 @@
         "longitude":-118.459546,
         "latitude":34.093884,
         "fetched":"2024-12-13 08:45:25.164925-08:00"
+    },
+    {
+        "id":61795,
+        "name":"Valley Glen",
+        "rank":1,
+        "affected":13,
+        "status":"En Route",
+        "est_fixed":"12\/13\/2024 11:30",
+        "longitude":-118.420329,
+        "latitude":34.187011,
+        "fetched":"2024-12-13 08:52:56.864584-08:00"
+    },
+    {
+        "id":61796,
+        "name":"Bel-Air",
+        "rank":1,
+        "affected":78,
+        "status":"Reported Outage",
+        "est_fixed":"12\/13\/2024 14:30",
+        "longitude":-118.459546,
+        "latitude":34.093884,
+        "fetched":"2024-12-13 08:52:56.864584-08:00"
     }
 ]
