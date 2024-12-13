@@ -75271,5 +75271,38 @@
         "longitude":-118.4595582267,
         "latitude":34.0938888483,
         "fetched":"2024-12-13 10:34:48.568079-08:00"
+    },
+    {
+        "id":61807,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":1408,
+        "status":"En Route",
+        "est_fixed":"12\/13\/2024 16:00",
+        "longitude":-118.308691,
+        "latitude":33.991787,
+        "fetched":"2024-12-13 10:44:32.778388-08:00"
+    },
+    {
+        "id":61806,
+        "name":"Chesterfield Square",
+        "rank":1,
+        "affected":41,
+        "status":"Reported Outage",
+        "est_fixed":"12\/13\/2024 14:00",
+        "longitude":-118.313189,
+        "latitude":33.990921,
+        "fetched":"2024-12-13 10:44:32.778388-08:00"
+    },
+    {
+        "id":61808,
+        "name":"Bel-Air",
+        "rank":1,
+        "affected":78,
+        "status":"Reported Outage",
+        "est_fixed":"12\/13\/2024 14:30",
+        "longitude":-118.459546,
+        "latitude":34.093884,
+        "fetched":"2024-12-13 10:44:32.778388-08:00"
     }
 ]
