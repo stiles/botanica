@@ -75469,5 +75469,27 @@
         "longitude":-118.3087031932,
         "latitude":33.9917918457,
         "fetched":"2024-12-13 11:34:06.636728-08:00"
+    },
+    {
+        "id":61814,
+        "name":"Bel-Air",
+        "rank":1,
+        "affected":78,
+        "status":"Assigned",
+        "est_fixed":"12\/13\/2024 14:30",
+        "longitude":-118.4595582267,
+        "latitude":34.0938888483,
+        "fetched":"2024-12-13 11:40:05.209399-08:00"
+    },
+    {
+        "id":61813,
+        "name":"Harvard Park",
+        "rank":1,
+        "affected":1482,
+        "status":"En Route",
+        "est_fixed":"12\/13\/2024 16:00",
+        "longitude":-118.3087031932,
+        "latitude":33.9917918457,
+        "fetched":"2024-12-13 11:40:05.209399-08:00"
     }
 ]
