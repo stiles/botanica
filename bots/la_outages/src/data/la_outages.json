@@ -1,13 +1,13 @@
 [
     {
-        "id":61793,
+        "id":61794,
         "name":"Bel-Air",
         "rank":1,
         "affected":78,
         "status":"Reported Outage",
         "est_fixed":"12\/13\/2024 14:30",
-        "longitude":-118.459546,
-        "latitude":34.093884,
-        "fetched":1734107033233
+        "longitude":-118.4595582267,
+        "latitude":34.0938888483,
+        "fetched":1734107750528
     }
 ]
