@@ -1,6 +1,6 @@
 [
     {
-        "id":61864,
+        "id":61870,
         "name":"Montecito Heights",
         "rank":1,
         "affected":15,
@@ -8,10 +8,10 @@
         "est_fixed":"12\/13\/2024 21:00",
         "longitude":-118.1865651808,
         "latitude":34.0911488635,
-        "fetched":1734142077065
+        "fetched":1734143895128
     },
     {
-        "id":61865,
+        "id":61871,
         "name":"Downtown",
         "rank":1,
         "affected":3,
@@ -19,10 +19,10 @@
         "est_fixed":null,
         "longitude":-118.2339601831,
         "latitude":34.0225328533,
-        "fetched":1734142077065
+        "fetched":1734143895128
     },
     {
-        "id":61863,
+        "id":61869,
         "name":"Westwood",
         "rank":1,
         "affected":347,
@@ -30,6 +30,6 @@
         "est_fixed":"12\/13\/2024 20:30",
         "longitude":-118.4254142189,
         "latitude":34.0683318475,
-        "fetched":1734142077065
+        "fetched":1734143895128
     }
 ]
