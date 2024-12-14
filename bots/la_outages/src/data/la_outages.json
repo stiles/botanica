@@ -1,35 +1,35 @@
 [
     {
-        "id":61880,
-        "name":"Downtown",
-        "rank":1,
-        "affected":3,
-        "status":"Assigned",
-        "est_fixed":null,
-        "longitude":-118.233948,
-        "latitude":34.022528,
-        "fetched":1734146309962
-    },
-    {
-        "id":61878,
+        "id":61881,
         "name":"Westwood",
         "rank":1,
         "affected":347,
         "status":"Crews Working",
         "est_fixed":"12\/13\/2024 20:30",
-        "longitude":-118.425402,
-        "latitude":34.068327,
-        "fetched":1734146309962
+        "longitude":-118.4254142189,
+        "latitude":34.0683318475,
+        "fetched":1734147169919
     },
     {
-        "id":61879,
+        "id":61883,
+        "name":"Downtown",
+        "rank":1,
+        "affected":3,
+        "status":"Crews Working",
+        "est_fixed":null,
+        "longitude":-118.2339601831,
+        "latitude":34.0225328533,
+        "fetched":1734147169919
+    },
+    {
+        "id":61882,
         "name":"Montecito Heights",
         "rank":1,
         "affected":15,
         "status":"En Route",
         "est_fixed":"12\/13\/2024 21:00",
-        "longitude":-118.186553,
-        "latitude":34.091144,
-        "fetched":1734146309962
+        "longitude":-118.1865651808,
+        "latitude":34.0911488635,
+        "fetched":1734147169919
     }
 ]
