@@ -907,5 +907,23 @@
         "heartCount":3101.0,
         "videoCount":16.0,
         "diggCount":0.0
+    },
+    {
+        "date":"2024-12-14",
+        "username":"mattystiles",
+        "followerCount":922,
+        "followingCount":685.0,
+        "heartCount":116300.0,
+        "videoCount":94.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2024-12-14",
+        "username":"evablytheofficial",
+        "followerCount":827,
+        "followingCount":194.0,
+        "heartCount":3131.0,
+        "videoCount":16.0,
+        "diggCount":0.0
     }
 ]
