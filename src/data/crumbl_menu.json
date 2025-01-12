@@ -6,8 +6,8 @@
         "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
         "calories_serving":"140",
         "calories_total":"770",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -16,8 +16,8 @@
         "image":"https:\/\/crumbl.video\/33dceb68-5ec3-4e06-847a-2b68d34f00b6_MallowSandwichftOreo_FlyingAerial_TECH.png",
         "calories_serving":"120",
         "calories_total":"970",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -26,8 +26,8 @@
         "image":"https:\/\/crumbl.video\/71b559c7-f68c-4a12-9239-093a62a63cfc_SaltedCaramelCheesecakeDessert_FlyingAerial_TECH.png",
         "calories_serving":"458",
         "calories_total":"830",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -36,8 +36,8 @@
         "image":"https:\/\/crumbl.video\/0ec9db6b-94b9-453d-84db-eca94f94ab16_SkilletCookie_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"130",
         "calories_total":"720",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -46,8 +46,8 @@
         "image":"https:\/\/crumbl.video\/c21cee38-6019-458c-a112-765005228b0b_GalaxyBrownie_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"170",
         "calories_total":"670",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -56,8 +56,8 @@
         "image":"https:\/\/crumbl.video\/5423d023-39f0-4b8c-885e-1f74ff49813a_ConfettiMilkshake_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"140",
         "calories_total":"930",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -66,18 +66,18 @@
         "image":"https:\/\/crumbl.video\/59e8277d-8802-4371-a35a-25e31e3fc747_Snickerdoodle_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"130",
         "calories_total":"630",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
         "cookie":"Cookie Dough Bits",
-        "description":null,
+        "description":"Delicious edible cookie dough bits packed with irresistible semi-sweet chocolate chips that are perfect for snacking.",
         "image":"https:\/\/crumbl.video\/d623eac5-07d2-4e76-a728-87697a3d61f9_CookieDoughBits_TECH.png",
         "calories_serving":"0",
         "calories_total":null,
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     },
     {
         "status":"ACTIVE",
@@ -86,7 +86,7 @@
         "image":"https:\/\/crumbl.video\/3c30c654-78a8-4205-9e3e-8aca74f3356e_BlueberryMuffin_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"130",
         "calories_total":"660",
-        "date":"2025-01-06",
-        "fetched":"2025-01-06"
+        "date":"2025-01-12",
+        "fetched":"2025-01-12"
     }
 ]
