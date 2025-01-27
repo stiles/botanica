@@ -1,73 +1,73 @@
 [
     {
         "status":"ACTIVE",
-        "cookie":"Semi-Sweet Chocolate Chunk ",
-        "description":"Chocolate chip, but make it chunky\u2014a delicious cookie filled with irresistible semi-sweet chocolate chunks and a sprinkle of flaky sea salt.",
-        "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
+        "cookie":"Milk Chocolate Chip",
+        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
+        "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"140",
-        "calories_total":"770",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "calories_total":"730",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Rob's Backstage Caramel Popcorn Cookie ft. The Jonas Brothers",
-        "description":"A buttery cookie topped with sweet caramel cream cheese frosting, crunchy caramel popcorn pieces, and a light drizzle of melted caramel.",
-        "image":"https:\/\/crumbl.video\/f594c20d-1a2f-442e-a406-eec8cf985ec8_RobsCaramelPopcornJonasBrothers_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"900",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "cookie":"Cookies & Cream Cake ft.  OREO\u00ae",
+        "description":"A two-tiered dark chocolate cake made with OREO\u00ae, layered with OREO\u00ae cream cheese frosting, topped with rich chocolate glaze, and finished with a MINI OREO\u00ae cookie.\n\nOREO is a trademark of Mondel\u0113z International group, used with permission.",
+        "image":"https:\/\/crumbl.video\/b8e3ce74-925e-4e7b-88fc-ebcc9b7c8e70_CookiesCreamLayerCake_Dessert_FlyingAerial_TECH.png",
+        "calories_serving":"271",
+        "calories_total":"780",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Tres Leches Cake  ft. Lotus Biscoff\u00ae",
-        "description":"A lightly spiced cake soaked in a classic tres leches sauce, topped with Lotus Biscoff\u00ae cookie butter, fresh whipped cream, Lotus Biscoff\u00ae cookie pieces, and a drizzle of melted Lotus Biscoff\u00ae cookie butter.",
-        "image":"https:\/\/crumbl.video\/ebf766ab-3a6d-4b40-9920-71fa0f9807b7_CookieButterTresLechesCake_LTO_FlyingAerial_TECH.png",
-        "calories_serving":"411",
-        "calories_total":"1060",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "cookie":"Strawberry Shortcake ",
+        "description":"A double-stacked vanilla shortcake layered with fresh whipped cream and house-made strawberry jam.\n",
+        "image":"https:\/\/crumbl.video\/b6dfa745-8550-4b40-8adf-84d126878949_StrawberryShortcake_LTO_FlyingAerial_TECH.png",
+        "calories_serving":"229",
+        "calories_total":"940",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Triple Berry Cobbler",
-        "description":"House-made berry jam nestled in layers of cinnamon streusel and topped with a creamy vanilla bean mousse.",
-        "image":"https:\/\/crumbl.video\/33292baf-a438-4d6f-842b-20822a70252e_TripleBerryCobbler_FlyingAerial_TECH.png",
-        "calories_serving":"388",
-        "calories_total":"1040",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "cookie":"Confetti Cake Cookie",
+        "description":"A sugar cookie mixed with a burst of confetti sprinkles, topped with pink vanilla cream cheese frosting, and a dash of confetti sprinkles.\n\n",
+        "image":"https:\/\/crumbl.video\/0d574821-678e-491a-b7b0-16f93ea98351_ConfettiCake_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"130",
+        "calories_total":"810",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Strawberry Milk  ft. Pirouline\u00ae",
-        "description":"A chilled strawberry streusel cookie brimming with milky strawberry mousse, topped with a dollop of whipped cream and a crunchy Pirouline\u00ae wafer straw.",
-        "image":"https:\/\/crumbl.video\/1692fd95-e083-4187-81ef-ad13fb600631_StrawberryMilkftPirouline_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"109",
-        "calories_total":"640",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "cookie":"Banana Bread Cookie",
+        "description":"A fluffy banana cookie with flavors of brown sugar, cinnamon, and vanilla, topped with a cream cheese glaze and a brown sugar streusel.",
+        "image":"https:\/\/crumbl.video\/3e8fac18-fd33-4139-bb5c-b3e37a514011_BananaBread_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"121",
+        "calories_total":"750",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Brookie",
-        "description":"A semi-sweet chocolate chip cookie and a rich chocolate cookie perfectly baked together.",
-        "image":"https:\/\/crumbl.video\/9cfa4aa7-4512-44a7-ba07-63807cc1c45b_Brookie_OverheadAerial_TECH.png",
+        "cookie":"Macadamia Nut",
+        "description":"An original cookie packed with smooth white drops and buttery macadamia nuts.",
+        "image":"https:\/\/crumbl.video\/74759e57-d20c-45fb-82a2-5f6f08efe47d_MacadamiaNut_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"140",
+        "calories_total":"730",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Lemon Poppy Seed",
+        "description":"A zesty lemon cookie mixed with poppy seeds, loaded with lemon filling, and then smothered in lemon almond glaze.",
+        "image":"https:\/\/crumbl.video\/4bdf0df9-24de-4176-8d06-65232e947f89_LemonPoppySeed_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"130",
         "calories_total":"690",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Sugar ft. Mother\u2019s\u00ae Circus Animal\u00ae",
-        "description":"A rainbow sprinkles cookie smothered with melty white drops then crowned with a Mother\u2019s\u00ae Original Circus Animal\u00ae Cookie and a splash of rainbow sprinkles.",
-        "image":"https:\/\/crumbl.video\/33d6f470-27d7-4a3a-b52d-d8884947bc87_SugarftMothersCircusAnimal_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"141",
-        "calories_total":"760",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
@@ -76,17 +76,17 @@
         "image":"https:\/\/crumbl.video\/d623eac5-07d2-4e76-a728-87697a3d61f9_CookieDoughBits_TECH.png",
         "calories_serving":"0",
         "calories_total":null,
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Peanut Butter  ft. REESE'S PIECES",
-        "description":"A thick peanut butter cookie packed with irresistible REESE\u2019S PIECES candies.\n\nREESE\u2019S PIECES trademark and trade dress are used under license.",
-        "image":"https:\/\/crumbl.video\/5983bf90-59b8-4de6-b928-5b74e9961ce9_PeanutButterFtReesesPieces_OverheadAerial_NoShadow_TECH.png",
+        "cookie":"Mom's Recipe ",
+        "description":"A hearty oatmeal cookie packed with semi-sweet chocolate, toffee, and peanut butter-flavored chips then sprinkled with a dash of sea salt.\n",
+        "image":"https:\/\/crumbl.video\/6f85c249-e077-4398-b76e-23acef526acd_MomsRecipe_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"140",
-        "calories_total":"660",
-        "date":"2025-01-26",
-        "fetched":"2025-01-26"
+        "calories_total":"730",
+        "date":"2025-01-27",
+        "fetched":"2025-01-27"
     }
 ]
