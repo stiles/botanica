@@ -6,8 +6,8 @@
         "image":"https:\/\/crumbl.video\/5a3558af-5229-4d66-bad8-a4bca721b2d1_ButterCake_FlyingAerial.png",
         "calories_serving":"339",
         "calories_total":"980",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
@@ -16,8 +16,8 @@
         "image":"https:\/\/crumbl.video\/62aeb384-119d-4f5e-a08e-eaefb624eb28_FrenchSilkPieDessert_FlyingAerial_TECH.png",
         "calories_serving":"491",
         "calories_total":"870",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
@@ -26,8 +26,8 @@
         "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"131",
         "calories_total":"680",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
@@ -36,8 +36,8 @@
         "image":"https:\/\/crumbl.video\/16a086d4-c78d-4b17-b2c7-8aba17c7ab5a_CookieButterLavaFtBiscoff_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"141",
         "calories_total":"790",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
@@ -46,18 +46,18 @@
         "image":"https:\/\/crumbl.video\/ed7849a3-5e6b-4cfc-8689-2f9d4a85f32e_StrawberryCupcake_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"131",
         "calories_total":"810",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
         "cookie":"Banana Caramel",
-        "description":"A fluffy banana bread cookie topped with a swirl of caramel buttercream and a drizzle of caramel.\n",
+        "description":"A fluffy banana bread cookie topped with a swirl of caramel cream cheese frosting and a drizzle of caramel. \n",
         "image":"https:\/\/crumbl.video\/ce7cffba-70a7-45cd-8a8f-5252737e4a4b_BananaCaramel_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"120",
         "calories_total":"790",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     },
     {
         "status":"ACTIVE",
@@ -66,7 +66,7 @@
         "image":"https:\/\/crumbl.video\/3a743407-24fe-4782-a3cf-a70f00a86bf2_RedVelvetWhiteChip_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"131",
         "calories_total":"680",
-        "date":"2025-02-24",
-        "fetched":"2025-02-24"
+        "date":"2025-03-02",
+        "fetched":"2025-03-02"
     }
 ]
