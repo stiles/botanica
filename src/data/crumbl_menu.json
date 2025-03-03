@@ -1,72 +1,72 @@
 [
     {
         "status":"ACTIVE",
-        "cookie":"Butter Cake",
-        "description":"A warm, gooey butter cake baked with a crunch of sugar crystals, then topped with a delectable buttery glaze and a smooth vanilla bean whipped cream. ",
-        "image":"https:\/\/crumbl.video\/5a3558af-5229-4d66-bad8-a4bca721b2d1_ButterCake_FlyingAerial.png",
-        "calories_serving":"339",
-        "calories_total":"980",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
+        "cookie":"Semi-Sweet Chocolate Chunk ",
+        "description":"Chocolate chip, but make it chunky\u2014a delicious cookie filled with irresistible semi-sweet chocolate chunks and a sprinkle of flaky sea salt.",
+        "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
+        "calories_serving":"140",
+        "calories_total":"770",
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
     },
     {
         "status":"ACTIVE",
-        "cookie":"French Silk Pie ",
-        "description":"A chilled, creamy chocolate mousse pie laid over a cookies & cream crust and crowned with decorative whipped cream and chocolate curls.\n",
-        "image":"https:\/\/crumbl.video\/62aeb384-119d-4f5e-a08e-eaefb624eb28_FrenchSilkPieDessert_FlyingAerial_TECH.png",
-        "calories_serving":"491",
-        "calories_total":"870",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
+        "cookie":"Cookies & Cream Brownie",
+        "description":"A dark chocolate brownie packed with cookies & cream pieces and semi-sweet chunks, crowned with white drop buttercream, sprinkled with cookies & cream pieces, and drizzled with chocolate ganache\u2014available all month long!\n",
+        "image":"https:\/\/crumbl.video\/7a046e93-b60a-47d4-925b-38c0921e92d5_CookiesCreamBrownieDessert_FlyingAerial_TECH.png",
+        "calories_serving":"180",
+        "calories_total":"1200",
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Milk Chocolate Chip",
-        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
-        "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"680",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
+        "cookie":"Turtle Cheesecake",
+        "description":"A velvety cheesecake baked on a rich cookies & cream crust, dripping with golden caramel, luscious ganache, and a sprinkle of crunchy pecan pieces.",
+        "image":"https:\/\/crumbl.video\/90d84bfd-ab95-472a-8f48-991cf6538635_TurtleCheesecake_LTO_FlyingAerial_TECH.png",
+        "calories_serving":"470",
+        "calories_total":"880",
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Biscoff\u00ae Lava Cookie",
-        "description":"A gooey mouth-watering cookie stuffed and drizzled with melty Lotus Biscoff\u00ae cookie butter spread.\n",
-        "image":"https:\/\/crumbl.video\/16a086d4-c78d-4b17-b2c7-8aba17c7ab5a_CookieButterLavaFtBiscoff_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"141",
+        "cookie":"Cake Batter ",
+        "description":"A cake batter cookie topped with a swirl of luscious cake batter cream cheese frosting and playful bites of mini cookie cake batter balls.",
+        "image":"https:\/\/crumbl.video\/7516a7ce-2e07-4c12-970b-7dddd4fad486_CakeBatter_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"130",
+        "calories_total":"800",
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Churro Toffee White Chip",
+        "description":"A vanilla cookie loaded with toffee and sweet white drops, all dusted in a cozy coat of cinnamon sugar.",
+        "image":"https:\/\/crumbl.video\/fc3af0f3-4d56-4e5f-b919-1275afe72913_ChurroToffeeWhiteChip_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"0",
+        "calories_total":null,
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Frosted Strawberry ft. Pop-Tarts\u00ae",
+        "description":"A buttery cookie packed with strawberry filling, then covered in a pool of melted white drops, crushed Frosted Strawberry Pop-Tarts\u00ae, and flaky rainbow sugar.",
+        "image":"https:\/\/crumbl.video\/ddfa1091-5894-40d2-823a-41b012c4f1b7_FrostedStrawberryftPopTarts_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"129",
         "calories_total":"790",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Strawberry Cupcake ",
-        "description":"A vanilla cupcake cookie with a luscious swirl of strawberry cream cheese frosting and a splash of white sprinkles.\n",
-        "image":"https:\/\/crumbl.video\/ed7849a3-5e6b-4cfc-8689-2f9d4a85f32e_StrawberryCupcake_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"810",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Banana Caramel",
-        "description":"A fluffy banana bread cookie topped with a swirl of caramel cream cheese frosting and a drizzle of caramel. \n",
-        "image":"https:\/\/crumbl.video\/ce7cffba-70a7-45cd-8a8f-5252737e4a4b_BananaCaramel_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"120",
-        "calories_total":"790",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Red Velvet White Chip",
-        "description":"A decadent red velvet cookie mixed with creamy white chips.",
-        "image":"https:\/\/crumbl.video\/3a743407-24fe-4782-a3cf-a70f00a86bf2_RedVelvetWhiteChip_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"680",
-        "date":"2025-03-02",
-        "fetched":"2025-03-02"
+        "cookie":"S'mores",
+        "description":"A graham cracker cookie packed with milk chocolate chips then topped with a melty marshmallow, chocolate drizzle, and buttery graham cracker crumbs.",
+        "image":"https:\/\/crumbl.video\/59f6687c-a245-42b0-915c-018b9c4d6935_Smores_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"129",
+        "calories_total":"720",
+        "date":"2025-03-03",
+        "fetched":"2025-03-03"
     }
 ]
