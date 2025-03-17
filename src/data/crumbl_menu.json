@@ -1,13 +1,13 @@
 [
     {
         "status":"ACTIVE",
-        "cookie":"Milk Chocolate Chip",
-        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
-        "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"680",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "cookie":"Wildberry Sugar",
+        "description":"A warm vanilla sugar cookie packed with strawberries and blueberries.\n",
+        "image":"https:\/\/crumbl.video\/9caba17b-7385-4078-9d7d-ef19a4842032_WildberrySugar_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"129",
+        "calories_total":"550",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     },
     {
         "status":"ACTIVE",
@@ -16,57 +16,57 @@
         "image":"https:\/\/crumbl.video\/7a046e93-b60a-47d4-925b-38c0921e92d5_CookiesCreamBrownieDessert_FlyingAerial_TECH.png",
         "calories_serving":"180",
         "calories_total":"1200",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Key Lime Pie ",
-        "description":"A chilled key lime pie made with fresh lime zest and a buttery graham cracker crust, adorned with decorative whipped cream, and topped with a fresh lime slice.\n",
-        "image":"https:\/\/crumbl.video\/42ff1ba8-10e1-432b-9592-aa28294a27aa_KeyLimePie_PieWeek_FlyingAerial_TECH.png",
-        "calories_serving":"440",
-        "calories_total":"830",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "cookie":"Chocolate Mint Cake ft. Andes\u00ae",
+        "description":"Two layers of rich, moist dark chocolate cake stacked with semi-sweet chocolate ganache, luscious mint cream cheese frosting, and sprinkled with smooth Andes\u00ae Cr\u00e8me De Menthe Candy Pieces.\n\nAndes\u00ae is a registered trademark of Tootsie Roll Industries, LLC Chicago, Illinois\n\n\n\n\n\n\n\n",
+        "image":"https:\/\/crumbl.video\/121eb8c1-cc37-4be8-996d-738cf5ca1a0d_ChocolateMintCakeftAndesDessert_FlyingAerial_TECH.png",
+        "calories_serving":"310",
+        "calories_total":"1060",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Salted Caramel Cheesecake Cookie",
-        "description":"A chilled graham cracker cookie rolled in graham cracker crumbs and topped with cheesecake frosting, a pool of caramel, and sprinkle of sea salt.\n",
-        "image":"https:\/\/crumbl.video\/adedb720-86a2-41c3-b7c1-a4869fa3063f_SaltedCaramelCheesecake_OverheadAerial_NoShadow_TECH.png",
+        "cookie":"Semi-Sweet Chocolate Chunk ",
+        "description":"Chocolate chip, but make it chunky\u2014a delicious cookie filled with irresistible semi-sweet chocolate chunks and a sprinkle of flaky sea salt.",
+        "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
+        "calories_serving":"140",
+        "calories_total":"770",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Mallow Creme ft. Lucky Charms\u00ae",
+        "description":"Inspired by the iconic cereal\u2014rich with white drops, vanilla marshmallow frosting, and colorful Lucky Charms\u00ae marshmallows sprinkled on top.",
+        "image":"https:\/\/crumbl.video\/abfa0cd4-a2ea-44d8-bf1f-79609fdc24bf_MallowCremeftLuckyCharms_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"130",
-        "calories_total":"890",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "calories_total":"900",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Rocky Road ",
-        "description":"A chocolate cookie stuffed with gooey marshmallow and capped with semi-sweet chocolate chips and crunchy almonds.\n",
-        "image":"https:\/\/crumbl.video\/8d8c39ac-6aac-47e0-b446-4ab6cd77533b_RockyRoad_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"139",
-        "calories_total":"690",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "cookie":"Milk Glaze   ft. Fruity PEBBLES\u2122 ",
+        "description":"A soft, cereal milk-flavored sugar cookie brushed with a milky glaze and topped with colorful Fruity PEBBLES\u2122 cereal.\n\nTHE FLINTSTONES and all related characters and elements \u00a9 & TM Hanna-Barbera. (s25)",
+        "image":"https:\/\/crumbl.video\/584e41a3-97f9-481c-925b-6d50f4ce2b36_MilkGlazeftFruityPEBBLES_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"129",
+        "calories_total":"730",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Pink Doughnut ",
-        "description":"A soft vanilla cookie crowned with a luscious pink glaze and rainbow sprinkles, finished with a classic doughnut-style hole!",
-        "image":"https:\/\/crumbl.video\/0c741ff9-130d-42a2-9ddb-94f9e04dda58_PinkDoughnut_OverheadAerial_NoShadow_TECH.png",
+        "cookie":"The Original Pink Sugar",
+        "description":"Our original recipe is back! An almond sugar cookie topped with a perfect pink swoop of real almond frosting.",
+        "image":"https:\/\/crumbl.video\/8094c794-8e33-48b4-85bd-b8eda54743d2_ClassicPinkSugar_OverheadAerial_NoShadow_Tech.png",
         "calories_serving":"130",
-        "calories_total":"610",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Kentucky Butter Cake ",
-        "description":"A warm yellow butter cake cookie smothered with a melt-in-your-mouth buttery glaze and topped with a sprinkle of powdered sugar.\n",
-        "image":"https:\/\/crumbl.video\/0d63aa66-55e2-4833-8ef3-ef3941f3f2a9_KentuckyButterCake_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"131",
-        "calories_total":"640",
-        "date":"2025-03-16",
-        "fetched":"2025-03-16"
+        "calories_total":"760",
+        "date":"2025-03-17",
+        "fetched":"2025-03-17"
     }
 ]
