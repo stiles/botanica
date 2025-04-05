@@ -2833,5 +2833,23 @@
         "heartCount":8168.0,
         "videoCount":45.0,
         "diggCount":0.0
+    },
+    {
+        "date":"2025-04-04",
+        "username":"mattystiles",
+        "followerCount":1010,
+        "followingCount":721.0,
+        "heartCount":128900.0,
+        "videoCount":98.0,
+        "diggCount":0.0
+    },
+    {
+        "date":"2025-04-04",
+        "username":"evablytheofficial",
+        "followerCount":2270,
+        "followingCount":516.0,
+        "heartCount":8208.0,
+        "videoCount":45.0,
+        "diggCount":0.0
     }
 ]
