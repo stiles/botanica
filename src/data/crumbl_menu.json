@@ -1,72 +1,72 @@
 [
     {
         "status":"ACTIVE",
-        "cookie":"Kris\u2019 Classic Yellow Layer Cake",
-        "description":"Two layers of irresistibly fluffy yellow cake, swirled with decadent fudge frosting, topped with a smooth chocolate glaze and finished with delicate chocolate curls.",
-        "image":"https:\/\/crumbl.video\/9849d63b-668e-44a9-9e93-19807ebb7352_Kris_flying-aerial.png",
-        "calories_serving":"269",
+        "cookie":"Milk Chocolate Chip Cookie",
+        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
+        "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"140",
+        "calories_total":"730",
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
+    },
+    {
+        "status":"ACTIVE",
+        "cookie":"Carrot Cake",
+        "description":"Two layers of carrot cake mixed with warm spices, coconut, pineapple, and carrots, complete with a light glaze and vanilla cream cheese frosting, and topped with chopped pecans\u2014available all month long!\n",
+        "image":"https:\/\/crumbl.video\/d441d70c-c4f6-40af-85fe-e2ee742b51ef_CarrotCake_FlyingAerial_TECH.png",
+        "calories_serving":"301",
         "calories_total":"910",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Kourtney\u2019s Flourless Chocolate Cake",
-        "description":"A luscious gluten-friendly chocolate cake made with zero refined sugar, drizzled with a velvety dark chocolate glaze and crowned with tangy raspberries.",
-        "image":"https:\/\/crumbl.video\/07ed3658-e907-4dfd-9c7f-82d00f4bc09e_Kourtney_flying-aerial.png",
-        "calories_serving":"270",
-        "calories_total":"840",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "cookie":"Spring M&M'S\u00ae Cookie",
+        "description":"A timeless cookie bursting with colorful, spring-inspired M&M\u2019S\u00ae Candies.\n",
+        "image":"https:\/\/crumbl.video\/3e621072-6baa-4e77-a0f8-db4f0069918c_SpringMMsCookie_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"131",
+        "calories_total":"680",
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Kim\u2019s Snickerdoodle Crumb Cake Cookie",
-        "description":"A soft snickerdoodle cookie smothered in melted white chips, topped with a cinnamon streusel crunch, and drizzled with velvety white chips.",
-        "image":"https:\/\/crumbl.video\/d04bdbea-d9a9-4d01-8afc-f0ca08a73698_Kim_flying-aerial.png",
-        "calories_serving":"139",
-        "calories_total":"780",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
-    },
-    {
-        "status":"ACTIVE",
-        "cookie":"Khlo\u00e9\u2019s Cookies & Cream Skillet Cookie",
-        "description":"A gooey dark chocolate cookie loaded with cookies & cream pieces, crowned with scoops of fresh vanilla bean cookies & cream mousse, and finished with a drizzle of chocolate ganache.",
-        "image":"https:\/\/crumbl.video\/68a33554-cd52-440a-8b32-4a1bb5ce8311_Khloe_flying-aerial.png",
+        "cookie":"Chocolate Cupcake Cookie",
+        "description":"A warm vanilla sugar cookie topped with a luscious bloom of fudge frosting and a pinch of chocolate sprinkles.",
+        "image":"https:\/\/crumbl.video\/4fbb34cd-5d84-4da6-9d72-1fa148c12794_ChocolateCupcake_OverheadAerial_NoShadow_Tech.png",
         "calories_serving":"130",
         "calories_total":"810",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Kendall\u2019s Cookie Dough Cupcake Cookie",
-        "description":"A warm brown sugar cookie packed with rich semi-sweet chips, crowned with velvety cookie dough-inspired buttercream, crumbled cookie pieces, and topped with a signature Crumbl Cookie Dough Bit.",
-        "image":"https:\/\/crumbl.video\/a5dd01e5-81f8-43c4-8ea8-5d222a143084_Kendall_flying-aerial.png",
-        "calories_serving":"140",
-        "calories_total":"1000",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "cookie":"Lemon Glaze Cookie",
+        "description":"A lemon cookie layered with lemon glaze and crowned with a fresh lemon slice on top.",
+        "image":"https:\/\/crumbl.video\/e3f9db35-a797-4c70-8417-9f0ec79a19a3_LemonGlaze_OverheadAerial_NoShadow_Tech.png",
+        "calories_serving":"119",
+        "calories_total":"590",
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Kylie\u2019s Pink Confetti Sugar Cookie",
-        "description":"A vibrant vanilla sugar cookie rolled in playful rainbow sprinkles and crowned with a trendsetting swirl of pink cake batter buttercream.",
-        "image":"https:\/\/crumbl.video\/733547bb-d2fe-402f-8b55-d8eae9a591ae_Kylie_flying-aerial.png",
-        "calories_serving":"129",
-        "calories_total":"860",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "cookie":"Candy Egg Brownie Cookie",
+        "description":"A rich brownie cookie with candy egg pieces baked in, crowned with more candy eggs on top.",
+        "image":"https:\/\/crumbl.video\/cebba1f3-1efb-4de3-9c0e-70a583faae77_CandyEggBrownieCookie_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"131",
+        "calories_total":"670",
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Double Chocolate Chip Cookie",
-        "description":"A gooey cookie packed with milk chocolate chips, topped with semi-sweet chocolate chunks, and finished with a dash of sea salt.\n\n\n",
-        "image":"https:\/\/crumbl.video\/7af2b5ce-0469-4662-851b-87548d0ce80c_DoubleChocolateChip_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"139",
-        "calories_total":"700",
-        "date":"2025-04-13",
-        "fetched":"2025-04-13"
+        "cookie":"Strawberry Tres Leches Cake",
+        "description":"A light, fluffy strawberry cake soaked in a classic tres leches sauce, topped with house-made strawberry jam, whipped cream, and sprinkled with a layer of dehydrated strawberry dust.",
+        "image":"https:\/\/crumbl.video\/c6cc2cf0-18cf-4a81-93b9-2351761471a7_StrawberryTresLechesDessert_FlyingAerial_TECH.png",
+        "calories_serving":"351",
+        "calories_total":"930",
+        "date":"2025-04-14",
+        "fetched":"2025-04-14"
     }
 ]
