@@ -1,72 +1,72 @@
 [
     {
         "status":"ACTIVE",
-        "cookie":"Milk Chocolate Chip Cookie",
-        "description":"The classic\u2014you can't go wrong. Thick, soft, and packed with milk chocolate chips.",
-        "image":"https:\/\/crumbl.video\/a5479faa-b292-4f8b-b35a-393fa7ebff3c_MilkChocolateChip_OverheadAerial_NoShadow_TECH.png",
+        "cookie":"Semi-Sweet Chocolate Chunk Cookie",
+        "description":"Chocolate chip, but make it chunky\u2014a delicious cookie filled with irresistible semi-sweet chocolate chunks and a sprinkle of flaky sea salt.",
+        "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
         "calories_serving":"140",
-        "calories_total":"730",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "calories_total":"770",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Birthday Cake Cookie ft. OREO\u00ae",
-        "description":"A thick cookie made with OREO\u00ae cookie pieces, covered in cake batter cream cheese frosting and topped with more OREO\u00ae cookie pieces and rainbow sprinkles.\n\nOREO is a trademark of Mondel\u0113z International group, used with permission.",
-        "image":"https:\/\/crumbl.video\/949b2869-189c-4d09-8cec-418ef8a6f5e5_BirthdayCakeFtOreo_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"140",
-        "calories_total":"830",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Cookies & Cream Milkshake Cookie ft. MINI OREO\u00ae",
+        "description":"A chilly cookies & cream milkshake-inspired cookie bursting with OREO\u00ae cookie pieces from the base to the creamy vanilla buttercream, and finished with a MINI OREO\u00ae cookie.\n\nOREO is a trademark of Mondel\u0113z International group, used with permission.",
+        "image":"https:\/\/crumbl.video\/3964c617-ce20-4546-add2-a6f42e8d6d4c_CookiesCreamMilkshakeFtMiniOreo_OverheadAerial_NoShadowTech.png",
+        "calories_serving":"130",
+        "calories_total":"870",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Brookie Cookie",
-        "description":"A semi-sweet chocolate chip cookie and a rich chocolate cookie perfectly baked together.",
-        "image":"https:\/\/crumbl.video\/9cfa4aa7-4512-44a7-ba07-63807cc1c45b_Brookie_OverheadAerial_TECH.png",
-        "calories_serving":"140",
-        "calories_total":"690",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Raspberry Cheesecake Cookie",
+        "description":"A buttery graham cracker cookie layered with velvety vanilla cheesecake frosting and a luscious swirl of tangy raspberry topping.\n",
+        "image":"https:\/\/crumbl.video\/9b33ee73-118e-4184-83d4-dae3666c39f2_RaspberryCheesecake_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"131",
+        "calories_total":"880",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Strawberry Ice Cream Bar Cookie",
-        "description":"A chilled cookie packed with strawberry and vanilla, layered with whipped white drop buttercream, and topped with a strawberry and vanilla streusel crunch.",
-        "image":"https:\/\/crumbl.video\/1d467b99-bb37-4996-bca9-a743c7b07aec_StrawberryIceCreamBar_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"140",
-        "calories_total":"950",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Tres Leches Cake",
+        "description":"A light, fluffy vanilla cake soaked in a classic tres leches sauce, topped with whipped cream, and sprinkled with a layer of cinnamon\u2014available all month long!",
+        "image":"https:\/\/crumbl.video\/53472db2-2158-4e0c-a4cd-cd1a448d4921_TresLechesCake_FlyingAerial_TECH.png",
+        "calories_serving":"400",
+        "calories_total":"940",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Dulce de Leche Cookie",
-        "description":"A deliciously spiced cinnamon cookie smothered in layers of creamy dulce de leche and a dollop of frosting.",
-        "image":"https:\/\/crumbl.video\/c783061b-a60b-4692-9e8c-91e0b8f4ab4c_DulceDeLecheCookie_OverheadAerial_NoShadow_TECH.png",
-        "calories_serving":"120",
-        "calories_total":"730",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Pink Velvet Cake Cookie",
+        "description":"A velvety cake batter cookie topped with smooth vanilla cream cheese frosting and a delicate sprinkle of pink velvet cookie crumbs.\n",
+        "image":"https:\/\/crumbl.video\/94efc6a8-346c-4aa5-a69f-ead7c369bd72__PinkVelvetCake_OverheadAerial_NoShadow_TECH.png",
+        "calories_serving":"130",
+        "calories_total":"710",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Carrot Cake",
-        "description":"Two layers of carrot cake mixed with warm spices, coconut, pineapple, and carrots, complete with a light glaze and vanilla cream cheese frosting, and topped with chopped pecans\u2014available all month long!\n",
-        "image":"https:\/\/crumbl.video\/d441d70c-c4f6-40af-85fe-e2ee742b51ef_CarrotCake_FlyingAerial_TECH.png",
-        "calories_serving":"301",
-        "calories_total":"910",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Double Fudge Brownie Cookie",
+        "description":"A rich, fudgy brownie cookie draped in glossy chocolate glaze and crowned with decadent brownie bites.\n",
+        "image":"https:\/\/crumbl.video\/41ac8825-dd79-45c8-91e6-34b9b2d52bee_DoubleFudgeBrownie_OverheadAerial_NoShadow_Tech.png",
+        "calories_serving":"130",
+        "calories_total":"820",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     },
     {
         "status":"ACTIVE",
-        "cookie":"Butter Cake",
-        "description":"A warm, gooey butter cake baked with a crunch of sugar crystals, then topped with a delectable buttery glaze and a smooth vanilla bean whipped cream. ",
-        "image":"https:\/\/crumbl.video\/5a3558af-5229-4d66-bad8-a4bca721b2d1_ButterCake_FlyingAerial.png",
-        "calories_serving":"339",
-        "calories_total":"980",
-        "date":"2025-05-04",
-        "fetched":"2025-05-04"
+        "cookie":"Lemon Cupcake Cookie",
+        "description":"A lemon vanilla cookie topped with a swirl of zesty lemon frosting and a touch of white sprinkles.",
+        "image":"https:\/\/crumbl.video\/4ba964df-2231-45db-8f69-0b3d701484c5_LemonCupcake_OverheadAerial_Tech.png",
+        "calories_serving":"131",
+        "calories_total":"810",
+        "date":"2025-05-05",
+        "fetched":"2025-05-05"
     }
 ]
