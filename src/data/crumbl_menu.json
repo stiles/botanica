@@ -6,8 +6,8 @@
         "image":"https:\/\/crumbl.video\/7d75a321-0028-4012-a0b3-1b3ed429fe76_SemiSweetChocolateChunk_OverheadAeria_NoShadow_TECH.png",
         "calories_serving":"140",
         "calories_total":"770",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
@@ -16,8 +16,8 @@
         "image":"https:\/\/crumbl.video\/3964c617-ce20-4546-add2-a6f42e8d6d4c_CookiesCreamMilkshakeFtMiniOreo_OverheadAerial_NoShadowTech.png",
         "calories_serving":"130",
         "calories_total":"870",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
@@ -26,18 +26,18 @@
         "image":"https:\/\/crumbl.video\/9b33ee73-118e-4184-83d4-dae3666c39f2_RaspberryCheesecake_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"131",
         "calories_total":"880",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
         "cookie":"Tres Leches Cake",
         "description":"A light, fluffy vanilla cake soaked in a classic tres leches sauce, topped with whipped cream, and sprinkled with a layer of cinnamon\u2014available all month long!",
         "image":"https:\/\/crumbl.video\/53472db2-2158-4e0c-a4cd-cd1a448d4921_TresLechesCake_FlyingAerial_TECH.png",
-        "calories_serving":"400",
+        "calories_serving":"399",
         "calories_total":"940",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
@@ -46,18 +46,18 @@
         "image":"https:\/\/crumbl.video\/94efc6a8-346c-4aa5-a69f-ead7c369bd72__PinkVelvetCake_OverheadAerial_NoShadow_TECH.png",
         "calories_serving":"130",
         "calories_total":"710",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
         "cookie":"Double Fudge Brownie Cookie",
         "description":"A rich, fudgy brownie cookie draped in glossy chocolate glaze and crowned with decadent brownie bites.\n",
         "image":"https:\/\/crumbl.video\/41ac8825-dd79-45c8-91e6-34b9b2d52bee_DoubleFudgeBrownie_OverheadAerial_NoShadow_Tech.png",
-        "calories_serving":"130",
+        "calories_serving":"131",
         "calories_total":"820",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     },
     {
         "status":"ACTIVE",
@@ -66,7 +66,7 @@
         "image":"https:\/\/crumbl.video\/4ba964df-2231-45db-8f69-0b3d701484c5_LemonCupcake_OverheadAerial_Tech.png",
         "calories_serving":"131",
         "calories_total":"810",
-        "date":"2025-05-05",
-        "fetched":"2025-05-05"
+        "date":"2025-05-11",
+        "fetched":"2025-05-11"
     }
 ]
