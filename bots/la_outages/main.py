@@ -44,6 +44,7 @@ def run_scraper():
     response = requests.get(url, params=config.get("params", {}))
     
     data = response.json()
+    print(data)
 
     # Check if there are any outages (features) in the response
     features = data.get("features", [])
