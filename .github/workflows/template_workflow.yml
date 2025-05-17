@@ -1,0 +1,63 @@
+name: "%%BOT_NAME%%"
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '%%CRON_SCHEDULE%%'
+
+jobs:
+  run-bot: # Changed job name to be more descriptive
+    runs-on: ubuntu-latest
+
+    env:
+      BOT_NAME: "%%BOT_NAME%%"
+      BOT_PATH: "./bots/%%BOT_NAME%%"
+      PYTHONPATH: "${{ github.workspace }}" # Ensures scripts in the root can be imported
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Updated to v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Updated to v5
+        with:
+          python-version: '3.9' # Matches your specified version
+          cache: 'pip' # Caches dependencies to speed up workflows
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Install root requirements first, if they exist
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # Install bot-specific requirements
+          pip install -r ${{ env.BOT_PATH }}/requirements.txt
+
+      - name: Run the scraper
+        run: |
+          python ${{ env.BOT_PATH }}/main.py
+        env:
+          # These secrets must be configured in the GitHub repository settings
+          # Go to Settings > Secrets and variables > Actions > New repository secret
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }} # e.g., us-east-1
+
+      - name: Pull latest changes before commit
+        run: |
+          git config pull.rebase false
+          git pull origin main --ff-only # Using --ff-only to avoid merge conflicts if possible
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          # Add all files in the bot's data directory
+          git add ${{ env.BOT_PATH }}/src/data/
+          # Commit with a descriptive message, allowing for an empty commit if no data changed (e.g., scraper ran but found no new data)
+          git commit -m "Automated data update for ${{ env.BOT_NAME }}" --allow-empty --author="Botanica Action <action@github.com>"
+
+      - name: Push changes
+        run: |
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This is automatically provided by GitHub 
