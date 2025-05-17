@@ -1,6 +1,13 @@
 # Botanica
 
-Botanica is a Python-based automation system for collecting, processing and managing data. It's designed to help cultivate a personal or newsroom collection of data scrapers, or bots, with a shared ecosystem for scheduling, collection and cloud storage. *This is a new project and a work in progress.* 
+Botanica is a Python-based framework designed to help journalists, newsrooms and data enthusiasts to build and manage their data pipelines, or bots. It simplifies the data collection by offering a structured, template-driven ecosystem for:
+
+*   Developing and organizing multiple data scrapers.
+*   Automating scraper execution using GitHub Actions for scheduled tasks.
+*   Streamlining data uploads to cloud storage (e.g., AWS S3).
+*   Maintaining a version-controlled and shareable collection of bots.
+
+Botanica aims to lower the technical barriers to creating robust, automated data gathering workflows. *Note: This is a new project and a work in progress.* 
 
 ## Getting Started: Using Botanica as a Template
 
