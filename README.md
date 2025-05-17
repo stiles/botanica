@@ -1,6 +1,6 @@
 # Botanica
 
-Botanica is a Python-based framework designed to help journalists, newsrooms and data enthusiasts to build and manage their data pipelines, or bots. It simplifies the data collection by offering a structured, template-driven ecosystem for:
+Botanica is a Python-based framework designed to help journalists, newsrooms and data enthusiasts build and manage their data pipelines, or bots. It simplifies the data collection by offering a structured, template-driven ecosystem for:
 
 *   Developing and organizing multiple data scrapers.
 *   Automating scraper execution using GitHub Actions for scheduled tasks.
