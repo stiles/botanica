@@ -9,6 +9,7 @@ CONFIG_FILENAME = "config.json"
 WORKFLOW_TEMPLATE_PATH = os.path.join(".github", "workflows", "template_workflow.yml")
 WORKFLOW_DIR = os.path.join(".github", "workflows")
 README_LOG_ENTRY_TEMPLATE = "- Bot '%%BOT_NAME%%' created on %%DATE%%. AWS Profile: %%AWS_PROFILE%%, Users: %%USERS%%, Schedule: %%CRON_SCHEDULE%%\n"
+TEMPLATE_CRON_PLACEHOLDER = '0 0 1 1 *' # This is the placeholder in template_workflow.yml
 
 def create_bot():
     print("Welcome to the Botanica Bot Creator!")
@@ -94,8 +95,8 @@ def create_bot():
                 workflow_content = f_template.read()
             
             workflow_content = workflow_content.replace("%%BOT_NAME%%", bot_name)
-            workflow_content = workflow_content.replace("%%CRON_SCHEDULE%%", cron_schedule)
-            # BOT_PATH is derived from BOT_NAME within the workflow itself, no need to replace here if template uses %%BOT_NAME%%
+            # Replace the specific cron placeholder string with the desired cron schedule
+            workflow_content = workflow_content.replace(TEMPLATE_CRON_PLACEHOLDER, cron_schedule)
 
             new_workflow_filename = f"{bot_name}.yml"
             new_workflow_path = os.path.join(WORKFLOW_DIR, new_workflow_filename)

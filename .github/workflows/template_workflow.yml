@@ -3,7 +3,7 @@ name: "%%BOT_NAME%%"
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    - cron: '%%CRON_SCHEDULE%%'
+    - cron: '0 0 1 1 *' # Placeholder: Replaced by create_bot.py with user-defined schedule
 
 jobs:
   run-bot: # Changed job name to be more descriptive
