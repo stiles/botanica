@@ -10,17 +10,5 @@
         "heartCount":130500,
         "videoCount":99,
         "diggCount":0
-    },
-    {
-        "username":"evablytheofficial",
-        "nickname":"eva blythe!",
-        "uniqueId":"evablytheofficial",
-        "verified":false,
-        "region":"US",
-        "followerCount":2436,
-        "followingCount":636,
-        "heartCount":10200,
-        "videoCount":64,
-        "diggCount":0
     }
 ]
