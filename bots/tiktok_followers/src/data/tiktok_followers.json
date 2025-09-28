@@ -10,17 +10,5 @@
         "heartCount":130900,
         "videoCount":100,
         "diggCount":0
-    },
-    {
-        "username":"evablytheofficial",
-        "nickname":"itsevablythe",
-        "uniqueId":"evablytheofficial",
-        "verified":false,
-        "region":"",
-        "followerCount":2613,
-        "followingCount":550,
-        "heartCount":12500,
-        "videoCount":74,
-        "diggCount":0
     }
 ]
