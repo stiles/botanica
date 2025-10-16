@@ -6109,5 +6109,14 @@
         "heartCount":131000.0,
         "videoCount":101.0,
         "diggCount":0.0
+    },
+    {
+        "date":"2025-10-15",
+        "username":"mattystiles",
+        "followerCount":1001,
+        "followingCount":767.0,
+        "heartCount":131000.0,
+        "videoCount":101.0,
+        "diggCount":0.0
     }
 ]
